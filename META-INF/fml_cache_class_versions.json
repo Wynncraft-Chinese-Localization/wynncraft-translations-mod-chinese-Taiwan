@@ -1,0 +1,17 @@
+{
+  "ru/artfect/wynnlang/Log": 52,
+  "ru/artfect/wynnlang/Multithreading": 52,
+  "ru/artfect/wynnlang/Multithreading$1": 52,
+  "ru/artfect/wynnlang/Multithreading$2": 52,
+  "ru/artfect/wynnlang/Network": 52,
+  "ru/artfect/wynnlang/RuChat": 52,
+  "ru/artfect/wynnlang/UpdateManager": 52,
+  "ru/artfect/wynnlang/WynnLang": 52,
+  "ru/artfect/wynnlang/WynnLang$MessageType": 52,
+  "ru/artfect/wynnlang/command/RuCommand": 52,
+  "ru/artfect/wynnlang/command/WynnLangCommand": 52,
+  "ru/artfect/wynnlang/translate/Chat": 52,
+  "ru/artfect/wynnlang/translate/Items": 52,
+  "ru/artfect/wynnlang/translate/PacketHandler": 52,
+  "ru/artfect/wynnlang/translate/Untranslate": 52
+}

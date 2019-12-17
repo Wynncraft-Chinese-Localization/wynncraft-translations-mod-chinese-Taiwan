@@ -1,0 +1,9 @@
+[{
+  "modid": "wynnlang",
+  "name": "WynnLang",
+  "authorList": ["Gegaba", "Fiw"],
+  "url": "https://vk.com/wynncraft_ru",
+  "version": "2.0.3",
+  "logoFile": "logo.png",
+  "dependencies": ["wynntils"]
+}]
