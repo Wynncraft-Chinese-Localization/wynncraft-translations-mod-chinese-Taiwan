@@ -148,7 +148,7 @@ Old Druid@Старый Друид
 §dEgg Merchant@§dПродавец Яиц
 §dTool Merchant@§d工具商人
 §dArmour Merchant@§d防具商人
-§dEmerald Merchant@§dБанкир
+§dEmerald Merchant@§d綠寶石兌換商
 §dBlacksmith@§d鐵匠鋪
 §dScroll Merchant@§d卷軸商人
 §dPotion Merchant@§d藥水商人
