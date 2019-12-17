@@ -142,10 +142,10 @@ Old Druid@Старый Друид
 §cVoidroot§6 [Lv. 1]@§cКорень Пустоты§6 [Ур. 1]
 §cSolitary Gert§6 [Lv. 78]@§cОдинокий Герт§6 [Ур. 78]
 
-#####################Торговцы###########################
+##################### 商人 ###########################
 §dDungeon Merchant@§d副本商人
 §dKey Collector@§d鑰匙收藏家
-§dEgg Merchant@§dПродавец Яиц
+§dEgg Merchant@§d雞蛋商人
 §dTool Merchant@§d工具商人
 §dArmour Merchant@§d防具商人
 §dEmerald Merchant@§d綠寶石兌換商
@@ -161,11 +161,11 @@ Old Druid@Старый Друид
 §dClock Merchant@§d時鐘商人
 §d§5Guild Master@§dМастер Гильдий
 §dKing's Merchant@§dКоролевский Торговец
-§dSiegfried Fan Item Merchant@§dПродавец Фан Предметов Зигфрида
+§dSiegfried Fan Item Merchant@§dSiegfried 周邊販賣商
 §dPowder Master@§d元素粉末商人
 §dDungeon Scroll Merchant@§d副本卷軸商人
 §dTicket Merchant@§dПродавец Билетов
-§dLiquid Merchant@§dТорговец Жидкими Эмеральдами
+§dLiquid Merchant@§d液態綠寶石兌換商
 §dSeasail Merchant@§d船票商人
 §dSeaskipper Merchant@§dМорской Шкипер
 §dExplosives Merchant@§dПродавец Взрывчатки
@@ -177,7 +177,7 @@ Old Druid@Старый Друид
 §dBanned Items Merchant@§dТорговец Запрещенными Предметами
 §dTreasure Merchant@§dСкупщик Сокровищ
 §dConsumables Merchant@§dПродавец Расходников
-§dHorse Merchant@§dПродавец Лошадей
+§dHorse Merchant@§d馬匹販售商
 §dCobblestone Merchant@§dПродавец Булыжника
 §dGert Merchant@§dГерт Торговец
 §dPowder Merchant@§dПродавец Порошков
