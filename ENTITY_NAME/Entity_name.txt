@@ -273,7 +273,7 @@ Old Druid@Старый Друид
 §2§aSlaying Post §2[Combat Lv. 65]@§2§a懸賞單 §2[戰鬥等級 Lv. 65]
 §2§aSlaying Post §2[Combat Lv. 96]@§2§a懸賞單 §2[戰鬥等級 Lv. 96]
 §2§aSlaying Post §2[Combat Lv. 99]@§2§a懸賞單 §2[戰鬥等級 Lv. 99]
-§7NPC@§7NPC
+§7NPC@
 §2§fChielma@§2§fЧиелма
 §2§fEvent Airship Pilot@§2§fПилот Ивент Дирижабля
 §2§fHelioedus@§2§fХелиоедус
