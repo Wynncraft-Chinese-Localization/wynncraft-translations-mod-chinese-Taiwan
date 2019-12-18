@@ -97,7 +97,7 @@
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 
 ##########################################################
-§7Currency@§7Валюта
+§7Currency@§7貨幣
 §7[Put an allowed weapon @§7[Помести разрешеннное оружие
 §7in your hotbar]@§7в свой хотбар]
 §7Give double Combat XP to the entire server for 20 minutes!@§7Дает двойные Комбат XP всему серверу на 20 минут!
