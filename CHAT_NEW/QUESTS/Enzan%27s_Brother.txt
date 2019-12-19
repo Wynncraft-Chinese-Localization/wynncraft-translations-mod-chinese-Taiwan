@@ -1,17 +1,17 @@
-§7[1/5] §2Enzan: §aI see you want to venture into the wilderness!@§7[1/5] §2Enzan: §a我看的出來你想要去野外冒險！
-§7[2/5] §2Enzan: §aMy name is Enzan, and I am now a retired knight. I've spent most of my life fighting for Ragni's army, just like you.@§7[2/5] §2Enzan: §a我的名字是Enzan，是一位退休的士兵。像你一樣，在我生命中，很多時候都是在為Ragni的軍隊打仗。
-§7[3/5] §2Enzan: §aI know how hard it must be to be a recruit at this time, so I've got something that could help you! Well, I don't have it, but my brother does!@§7[3/5] §2Enzan: §a我知道現在當兵很困難，所以我有一個可以幫助你的東西！其實，那個東西不再我這，但是它在我的兄弟那裡！
-§7[4/5] §2Enzan: §aFollow this road, he's at the entrance of the Nivla Forest, you can't miss him. Just head to the end of the trail, past the §bitem identifier§a.@§7[4/5] §2Enzan: §a跟著這條路走，通過物品鑒定師，他在Nivla森林的入口， 不要錯過他。
-§7[5/5] §2Enzan: §aTell him I sent you! He can be such a jerk to strangers sometimes...@§7[5/5] §2Enzan: §a跟他說是我派你去找他的！他對陌生人都會很兇……
-§7[1/7] §2Therck: §aCan't you see I'm busy?@§7[1/7] §2Therck: §a你看不見我很忙嗎？
-§7[2/7] §2Therck: §aOh, my brother? Sorry, I didn't know.@§7[2/7] §2Therck: §a哦，我的兄弟？對不起，我剛才不知道。
+§7[1/5] §2Enzan: §aI see you want to venture into the wilderness!@§7[1/5] §2Enzan: §a我看的出來你很想要去野外冒險！
+§7[2/5] §2Enzan: §aMy name is Enzan, and I am now a retired knight. I've spent most of my life fighting for Ragni's army, just like you.@§7[2/5] §2Enzan: §a我的名字是Enzan，是一位退休的士兵。像你一樣，在我生命中，很多時候都是在為Ragni而戰。
+§7[3/5] §2Enzan: §aI know how hard it must be to be a recruit at this time, so I've got something that could help you! Well, I don't have it, but my brother does!@§7[3/5] §2Enzan: §a我知道現在當兵很困難，所以我有一個可以幫助你的東西！不過，那個東西不再我這，它在我弟那裡！
+§7[4/5] §2Enzan: §aFollow this road, he's at the entrance of the Nivla Forest, you can't miss him. Just head to the end of the trail, past the §bitem identifier§a.@§7[4/5] §2Enzan: §a跟著這條路走，經過物品鑑定師，他就在Nivla森林的入口，你不會錯過他的。
+§7[5/5] §2Enzan: §aTell him I sent you! He can be such a jerk to strangers sometimes...@§7[5/5] §2Enzan: §a跟他說是我叫你去找他的！他對陌生人都會很兇…。
+§7[1/7] §2Therck: §aCan't you see I'm busy?@§7[1/7] §2Therck: §a你沒看到我很忙嗎？
+§7[2/7] §2Therck: §aOh, my brother? Sorry, I didn't know.@§7[2/7] §2Therck: §a哦，我哥？對不起，我剛才不知道。
 §7[3/7] §2Therck: §aWhy yes, I actually have something that could help you...@§7[3/7] §2Therck: §a啊，對了，我真的是有一個可以幫助你的東西……
 §7[4/7] §2Therck: §aTake this chain. It's an §3ingredient§a, one of its kind!@§7[4/7] §2Therck: §a拿這個欄杆。它是一個獨一無二的§3材料§a。
 §7[5/7] §2Therck: §aYou know how to craft right? If you use this with your recipe, you can create a powerful item.@§7[5/7] §2Therck: §a你知道怎麼製作嗎？如果你把這個加入你的配方，你可以創造出強力的東西。
 §7[6/7] §2Therck: §aI recommend you use it soon before it loses its value. Use the crafting stations right here.@§7[6/7] §2Therck: §a我建議你在它失去它的價值前快一點使用它。你可以使用這裡的製作台。
-§7[7/7] §2Therck: §aYou'll definitely need a good weapon if you plan to reach Detlas, the trading city. It's right through this forest.@§7[7/7] §2Therck: §a如果你要去交易城Detlas，你肯定需要一個好武器。
+§7[7/7] §2Therck: §aYou'll definitely need a good weapon if you plan to reach Detlas, the trading city. It's right through this forest.@§7[7/7] §2Therck: §a如果你要去Detlas，你肯定需要一個好武器。
 
 §7[1/1] §2Enzan: §aWhat are you doing?@§7[1/1] §2Enzan: §a你在做什麼?
-§7[1/1] §2Enzan: §aHey there! Still doing well after all this time?@§7[1/1] §2Enzan: §a嘿!你在這一切之後仍然做得很好。
-§7[1/2] §2Therck: §aGo on, I don't have time for you. My brother keeps sending me people all the time.@§7[1/2] §2Therck: §a快走吧，我沒有太多時間在你身上。我哥哥總是派遣一堆人給我
-§7[2/2] §2Therck: §aThey keep coming expecting free stuff! What a cruel joke he is pulling on me...@§7[2/2] §2Therck: §a他們總是期望著免費的東西來找我! 他在對我開甚麼慘忍的玩笑...
+§7[1/1] §2Enzan: §aHey there! Still doing well after all this time?@§7[1/1] §2Enzan: §a嘿!看起來到目前為止你做的都還不錯。
+§7[1/2] §2Therck: §aGo on, I don't have time for you. My brother keeps sending me people all the time.@§7[1/2] §2Therck: §a快走吧，我沒有太多時間在你身上。我哥哥總是派一堆人給我
+§7[2/2] §2Therck: §aThey keep coming expecting free stuff! What a cruel joke he is pulling on me...@§7[2/2] §2Therck: §a他們總是期望著免費的東西而來找我! 他總對我開這慘忍的玩笑…。
