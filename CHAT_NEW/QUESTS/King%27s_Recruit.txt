@@ -13,6 +13,7 @@
 §7[1/3] §2Tasim: §aSo this is Wynn, huh?@§7[1/3] §2Tasim: §a所以這裡就是Wynn了對吧？
 §7[2/3] §2Aledar: §aIt looks nice. The war clearly hasn't made it this far.@§7[2/3] §2Aledar: §a看起來不錯。戰爭應該還沒波及到這裡。
 §7[3/3] §2Old Man: §aHey, you three! Come over here and talk to me.@§7[3/3] §2老人：§a嘿，你們三個！快過來這我有話要跟你們說。
+§7[1/5] §2Tasim: §aSir, are you okay?@§7[1/5] §2Tasim: §a先生，你還好嗎？
 §7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some raw materials.@§7[2/5] §2老人：§a我已經在這等你們三個很久了，你們太晚到了。前面發生了一些事故。你們可能會需要一些材料來解決。
 §7[3/5] §2Tasim: §aI didn't think we needed anything. Why would raw materials help us?@§7[3/5] §2Tasim: §a我不認為我們需要什麼。為什麼這些材料能幫助我們？
 §7[4/5] §2Old Man: §aWell, you thought wrong. You will need some raw materials to make yourself something to fight with.@§7[4/5] §2老人：§a這，你錯了。你會需要一些材料來製作能讓你戰鬥的武器。
