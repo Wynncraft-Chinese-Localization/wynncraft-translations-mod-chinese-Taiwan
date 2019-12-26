@@ -936,69 +936,69 @@
 §6Potion of WisdomÀ@§6Зелье Мудрости
 
 #################Порошки############################
-§e✦ Thunder Powder I@§e✦ Порошок Грома I
-§e✦ Thunder Powder IÀ@§e✦ Порошок Грома I
-§e✦ Thunder Powder IIÀ@§e✦ Порошок Грома II
-§e✦ Thunder Powder II@§e✦ Порошок Грома II
-§e✦ Thunder Powder III@§e✦ Порошок Грома III
-§e✦ Thunder Powder IIIÀ@§e✦ Порошок Грома III
-§e✦ Thunder Powder IVÀ@§e✦ Порошок Грома IV
-§e✦ Thunder Powder IV@§e✦ Порошок Грома IV
-§e✦ Thunder Powder VÀ@§e✦ Порошок Грома V
-§e✦ Thunder Powder V@§e✦ Порошок Грома V
-§e✦ Thunder Powder VIÀ@§e✦ Порошок Грома VI
-§e✦ Thunder Powder VI@§e✦ Порошок Грома VI
-§f❋ Air Powder I@§f❋ Порошок Воздуха I
-§f❋ Air Powder IÀ@§f❋ Порошок Воздуха I
-§f❋ Air Powder II@§f❋ Порошок Воздуха II
-§f❋ Air Powder IIÀ@§f❋ Порошок Воздуха II
-§f❋ Air Powder III@§f❋ Порошок Воздуха III
-§f❋ Air Powder IIIÀ@§f❋ Порошок Воздуха III
-§f❋ Air Powder IVÀ@§f❋ Порошок Воздуха IV
-§f❋ Air Powder IV@§f❋ Порошок Воздуха IV
-§f❋ Air Powder VÀ@§f❋ Порошок Воздуха V
-§f❋ Air Powder V@§f❋ Порошок Воздуха V
-§f❋ Air Powder VIÀ@§f❋ Порошок Воздуха VI
-§f❋ Air Powder VI@§f❋ Порошок Воздуха VI
-§c✹ Fire Powder I@§c✹ Порошок Огня I
-§c✹ Fire Powder IÀ@§c✹ Порошок Огня I
-§c✹ Fire Powder IIÀ@§c✹ Порошок Огня II
-§c✹ Fire Powder II@§c✹ Порошок Огня II
-§c✹ Fire Powder III@§c✹ Порошок Огня III
-§c✹ Fire Powder IIIÀ@§c✹ Порошок Огня III
-§c✹ Fire Powder IV@§c✹ Порошок Огня IV
-§c✹ Fire Powder IVÀ@§c✹ Порошок Огня IV
-§c✹ Fire Powder V@§c✹ Порошок Огня V
-§c✹ Fire Powder VÀ@§c✹ Порошок Огня V
-§c✹ Fire Powder VIÀ@§c✹ Порошок Огня VI
-§c✹ Fire Powder VI@§c✹ Порошок Огня VI
-§b❉ Water Powder I@§b❉ Порошок Воды I
-§b❉ Water Powder IÀ@§b❉ Порошок Воды I
-§b❉ Water Powder IIÀ@§b❉ Порошок Воды II
-§b❉ Water Powder II@§b❉ Порошок Воды II
-§b❉ Water Powder III@§b❉ Порошок Воды III
-§b❉ Water Powder IIIÀ@§b❉ Порошок Воды III
-§b❉ Water Powder IV@§b❉ Порошок Воды IV
-§b❉ Water Powder IVÀ@§b❉ Порошок Воды IV
-§b❉ Water Powder V@§b❉ Порошок Воды V
-§b❉ Water Powder VÀ@§b❉ Порошок Воды V
-§b❉ Water Powder VIÀ@§b❉ Порошок Воды VI
-§b❉ Water Powder VI@§b❉ Порошок Воды VI
-§2✤ Earth Powder I@§2✤ Порошок Земли I
-§2✤ Earth Powder IÀ@§2✤ Порошок Земли I
-§2✤ Earth Powder IIÀ@§2✤ Порошок Земли II
-§2✤ Earth Powder II@§2✤ Порошок Земли II
-§2✤ Earth Powder IIIÀ@§2✤ Порошок Земли III
-§2✤ Earth Powder III@§2✤ Порошок Земли III
-§2✤ Earth Powder IV@§2✤ Порошок Земли IV
-§2✤ Earth Powder IVÀ@§2✤ Порошок Земли IV
-§2✤ Earth Powder VÀ@§2✤ Порошок Земли V
-§2✤ Earth Powder V@§2✤ Порошок Земли V
-§2✤ Earth Powder VI@§2✤ Порошок Земли VI
-§2✤ Earth Powder VIÀ@§2✤ Порошок Земли VI
-§8Blank Powder IV@§8Пустой Порошок IV
-§7Blank Powder V@§7Пустой Порошок V
-§fBlank Powder VI@§fПустой Порошок VI
+§e✦ Thunder Powder I@§e✦ 雷屬性元素粉末 I
+§e✦ Thunder Powder IÀ@§e✦ 雷屬性元素粉末 I
+§e✦ Thunder Powder IIÀ@§e✦ 雷屬性元素粉末 II
+§e✦ Thunder Powder II@§e✦ 雷屬性元素粉末 II
+§e✦ Thunder Powder III@§e✦ 雷屬性元素粉末 III
+§e✦ Thunder Powder IIIÀ@§e✦ 雷屬性元素粉末 III
+§e✦ Thunder Powder IVÀ@§e✦ 雷屬性元素粉末 IV
+§e✦ Thunder Powder IV@§e✦ 雷屬性元素粉末 IV
+§e✦ Thunder Powder VÀ@§e✦ 雷屬性元素粉末 V
+§e✦ Thunder Powder V@§e✦ 雷屬性元素粉末 V
+§e✦ Thunder Powder VIÀ@§e✦ 雷屬性元素粉末 VI
+§e✦ Thunder Powder VI@§e✦ 雷屬性元素粉末 VI
+§f❋ Air Powder I@§f❋ 氣屬性元素粉末 I
+§f❋ Air Powder IÀ@§f❋ 氣屬性元素粉末 I
+§f❋ Air Powder II@§f❋ 氣屬性元素粉末 II
+§f❋ Air Powder IIÀ@§f❋ 氣屬性元素粉末 II
+§f❋ Air Powder III@§f❋ 氣屬性元素粉末 III
+§f❋ Air Powder IIIÀ@§f❋ 氣屬性元素粉末 III
+§f❋ Air Powder IVÀ@§f❋ 氣屬性元素粉末 IV
+§f❋ Air Powder IV@§f❋ 氣屬性元素粉末 IV
+§f❋ Air Powder VÀ@§f❋ 氣屬性元素粉末 V
+§f❋ Air Powder V@§f❋ 氣屬性元素粉末 V
+§f❋ Air Powder VIÀ@§f❋ 氣屬性元素粉末 VI
+§f❋ Air Powder VI@§f❋ 氣屬性元素粉末 VI
+§c✹ Fire Powder I@§c✹ 火屬性元素粉末 I
+§c✹ Fire Powder IÀ@§c✹ 火屬性元素粉末 I
+§c✹ Fire Powder IIÀ@§c✹ 火屬性元素粉末 II
+§c✹ Fire Powder II@§c✹ 火屬性元素粉末 II
+§c✹ Fire Powder III@§c✹ 火屬性元素粉末 III
+§c✹ Fire Powder IIIÀ@§c✹ 火屬性元素粉末 III
+§c✹ Fire Powder IV@§c✹ 火屬性元素粉末 IV
+§c✹ Fire Powder IVÀ@§c✹ 火屬性元素粉末 IV
+§c✹ Fire Powder V@§c✹ 火屬性元素粉末 V
+§c✹ Fire Powder VÀ@§c✹ 火屬性元素粉末 V
+§c✹ Fire Powder VIÀ@§c✹ 火屬性元素粉末 VI
+§c✹ Fire Powder VI@§c✹ 火屬性元素粉末 VI
+§b❉ Water Powder I@§b❉ 水屬性元素粉末 I
+§b❉ Water Powder IÀ@§b❉ 水屬性元素粉末 I
+§b❉ Water Powder IIÀ@§b❉ 水屬性元素粉末 II
+§b❉ Water Powder II@§b❉ 水屬性元素粉末 II
+§b❉ Water Powder III@§b❉ 水屬性元素粉末 III
+§b❉ Water Powder IIIÀ@§b❉ 水屬性元素粉末 III
+§b❉ Water Powder IV@§b❉ 水屬性元素粉末 IV
+§b❉ Water Powder IVÀ@§b❉ 水屬性元素粉末 IV
+§b❉ Water Powder V@§b❉ 水屬性元素粉末 V
+§b❉ Water Powder VÀ@§b❉ 水屬性元素粉末 V
+§b❉ Water Powder VIÀ@§b❉ 水屬性元素粉末 VI
+§b❉ Water Powder VI@§b❉ 水屬性元素粉末 VI
+§2✤ Earth Powder I@§2✤ 地屬性元素粉末 I
+§2✤ Earth Powder IÀ@§2✤ 地屬性元素粉末 I
+§2✤ Earth Powder IIÀ@§2✤ 地屬性元素粉末 II
+§2✤ Earth Powder II@§2✤ 地屬性元素粉末 II
+§2✤ Earth Powder IIIÀ@§2✤ 地屬性元素粉末 III
+§2✤ Earth Powder III@§2✤ 地屬性元素粉末 III
+§2✤ Earth Powder IV@§2✤ 地屬性元素粉末 IV
+§2✤ Earth Powder IVÀ@§2✤ 地屬性元素粉末 IV
+§2✤ Earth Powder VÀ@§2✤ 地屬性元素粉末 V
+§2✤ Earth Powder V@§2✤ 地屬性元素粉末 V
+§2✤ Earth Powder VI@§2✤ 地屬性元素粉末 VI
+§2✤ Earth Powder VIÀ@§2✤ 地屬性元素粉末 VI
+§8Blank Powder IV@§8 無屬性元素粉末 IV
+§7Blank Powder V@§7 無屬性元素粉末 V
+§fBlank Powder VI@§f 無屬性元素粉末 VI
 
 ##########################Свитки###########################
 §bCorkusÀÀÀCity Teleport ScrollÀ@§bСвиток Телепортации в Коркус Сити
