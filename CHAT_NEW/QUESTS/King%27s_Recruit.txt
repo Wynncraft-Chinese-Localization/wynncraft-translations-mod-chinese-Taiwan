@@ -87,7 +87,7 @@
 §7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.@§7[1/1] §2Aledar: §a使用§b[兩條線]§a和§b[一塊木材]§a來製作§b[一把弓]§a給我看。
 §7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Aledar: §a使用§b[一條線]§a和§b[兩塊木材]§a來製作§b[一隻法杖]§a給我看。
 §7[1/1] §2Old Man: §aI left my pickaxe by the ore over yonder. Use it to mine some copper and bring it back here.@§7[1/1] §2Old Man: §a我把我的稿子留在銅礦那邊，用它去挖點銅礦帶回來。
-§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
+§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §a站到石塊前點擊§b左鍵-右鍵-左鍵§a來施展你的技能！
 §7[1/1] §2Soldier: §aAll right, recruits, the castle is straight ahead!@§7[1/1] §2Soldier: §aХорошо, новобранцы, замок прямо впереди!
 §7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bПравая-Левая-Правая§a!
 §7[1/1] §2Tasim: §aHey, where are you going? We need you to use your spell on that boulder!@§7[1/1] §2Tasim: §aЭй, куда ты идешь? Нам нужно, чтобы ты использовал свое заклинание на этом валуне!
