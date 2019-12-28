@@ -1279,58 +1279,58 @@ UnderworldÀÀÀCrypt Key@§6Ключ от Подземного Склепа
 §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@§4Разбитый Испорченный Ключ от Затерянного Святилища
 §4Broken CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Разбитый Испорченный Ключ от Затерянного Святилища
 
-########################觸媒#######################
-Earth Catalyst I@ 地元素屬性觸媒 I
-Earth Catalyst II@ 地元素屬性觸媒 II
-Earth Catalyst III@ 地元素屬性觸媒 III
-Earth Catalyst IV@ 地元素屬性觸媒 IV
-Earth Catalyst V@ 地元素屬性觸媒 V
-Earth Catalyst VI@ 地元素屬性觸媒 VI
-Earth Catalyst VII@ 地元素屬性觸媒 VII
-Earth Catalyst VIII@ 地元素屬性觸媒 VIII
-Earth Catalyst IX@ 地元素屬性觸媒 IX
-Earth Catalyst X@ 地元素屬性觸媒 X
-Thunder Catalyst I@ 雷元素屬性觸媒 I
-Thunder Catalyst II@ 雷元素屬性觸媒 II
-Thunder Catalyst III@ 雷元素屬性觸媒 III
-Thunder Catalyst IV@ 雷元素屬性觸媒 IV
-Thunder Catalyst V@ 雷元素屬性觸媒 V
-Thunder Catalyst VI@ 雷元素屬性觸媒 VI
-Thunder Catalyst VII@ 雷元素屬性觸媒 VII
-§fThunder Catalyst VIII@ 雷元素屬性觸媒 VIII
-Thunder Catalyst IX@ 雷元素屬性觸媒 IX
-Thunder Catalyst X@ 雷元素屬性觸媒 X
-Air Catalyst I@ 氣元素屬性觸媒 I
-Air Catalyst II@ 氣元素屬性觸媒 II
-Air Catalyst III@ 氣元素屬性觸媒 III
-Air Catalyst IV@ 氣元素屬性觸媒 IV
-Air Catalyst V@ 氣元素屬性觸媒 V
-Air Catalyst VI@ 氣元素屬性觸媒 VI
-Air Catalyst VII@ 氣元素屬性觸媒 VII
-Air Catalyst VIII@ 氣元素屬性觸媒 VIII
-Air Catalyst IX@ 氣元素屬性觸媒 IX
-Air Catalyst X@ 氣元素屬性觸媒 X
-Fire Catalyst I@ 火元素屬性觸媒 I
-Fire Catalyst II@ 火元素屬性觸媒 II
-Fire Catalyst III@ 火元素屬性觸媒 III
-§fFire Catalyst IV@ 火元素屬性觸媒 IV
-Fire Catalyst V@ 火元素屬性觸媒 V
-Fire Catalyst VI@ 火元素屬性觸媒 VI
-Fire Catalyst VII@ 火元素屬性觸媒 VII
-Fire Catalyst VIII@ 火元素屬性觸媒 VIII
-Fire Catalyst IX@ 火元素屬性觸媒 IX
-Fire Catalyst X@ 火元素屬性觸媒 X
-Water Catalyst I@ 水元素屬性觸媒 I
-Water Catalyst II@ 水元素屬性觸媒 II
-Water Catalyst III@ 水元素屬性觸媒 III
-Water Catalyst IV@ 水元素屬性觸媒 IV
-Water Catalyst V@ 水元素屬性觸媒 V
-Water Catalyst VI@ 水元素屬性觸媒 VI
-Water Catalyst VII@ 水元素屬性觸媒 VII
-Water Catalyst VIII@ 水元素屬性觸媒 VIII
-Water Catalyst IX@ 水元素屬性觸媒 IX
-Water Catalyst X@ 水元素屬性觸媒 X
-§rMaster Catalyst@§r 大師級觸媒
+########################催化劑#######################
+Earth Catalyst I@ 地元素屬性催化劑 I
+Earth Catalyst II@ 地元素屬性催化劑 II
+Earth Catalyst III@ 地元素屬性催化劑 III
+Earth Catalyst IV@ 地元素屬性催化劑 IV
+Earth Catalyst V@ 地元素屬性催化劑 V
+Earth Catalyst VI@ 地元素屬性催化劑 VI
+Earth Catalyst VII@ 地元素屬性催化劑 VII
+Earth Catalyst VIII@ 地元素屬性催化劑 VIII
+Earth Catalyst IX@ 地元素屬性催化劑 IX
+Earth Catalyst X@ 地元素屬性催化劑 X
+Thunder Catalyst I@ 雷元素屬性催化劑 I
+Thunder Catalyst II@ 雷元素屬性催化劑 II
+Thunder Catalyst III@ 雷元素屬性催化劑 III
+Thunder Catalyst IV@ 雷元素屬性催化劑 IV
+Thunder Catalyst V@ 雷元素屬性催化劑 V
+Thunder Catalyst VI@ 雷元素屬性催化劑 VI
+Thunder Catalyst VII@ 雷元素屬性催化劑 VII
+§fThunder Catalyst VIII@ 雷元素屬性催化劑 VIII
+Thunder Catalyst IX@ 雷元素屬性催化劑 IX
+Thunder Catalyst X@ 雷元素屬性催化劑 X
+Air Catalyst I@ 氣元素屬性催化劑 I
+Air Catalyst II@ 氣元素屬性催化劑 II
+Air Catalyst III@ 氣元素屬性催化劑 III
+Air Catalyst IV@ 氣元素屬性催化劑 IV
+Air Catalyst V@ 氣元素屬性催化劑 V
+Air Catalyst VI@ 氣元素屬性催化劑 VI
+Air Catalyst VII@ 氣元素屬性催化劑 VII
+Air Catalyst VIII@ 氣元素屬性催化劑 VIII
+Air Catalyst IX@ 氣元素屬性催化劑 IX
+Air Catalyst X@ 氣元素屬性催化劑 X
+Fire Catalyst I@ 火元素屬性催化劑 I
+Fire Catalyst II@ 火元素屬性催化劑 II
+Fire Catalyst III@ 火元素屬性催化劑 III
+§fFire Catalyst IV@ 火元素屬性催化劑 IV
+Fire Catalyst V@ 火元素屬性催化劑 V
+Fire Catalyst VI@ 火元素屬性催化劑 VI
+Fire Catalyst VII@ 火元素屬性催化劑 VII
+Fire Catalyst VIII@ 火元素屬性催化劑 VIII
+Fire Catalyst IX@ 火元素屬性催化劑 IX
+Fire Catalyst X@ 火元素屬性催化劑 X
+Water Catalyst I@ 水元素屬性催化劑 I
+Water Catalyst II@ 水元素屬性催化劑 II
+Water Catalyst III@ 水元素屬性催化劑 III
+Water Catalyst IV@ 水元素屬性催化劑 IV
+Water Catalyst V@ 水元素屬性催化劑 V
+Water Catalyst VI@ 水元素屬性催化劑 VI
+Water Catalyst VII@ 水元素屬性催化劑 VII
+Water Catalyst VIII@ 水元素屬性催化劑 VIII
+Water Catalyst IX@ 水元素屬性催化劑 IX
+Water Catalyst X@ 水元素屬性催化劑 X
+§rMaster Catalyst@§r 大師級催化劑
 
 #######################Квестовые предметы########################
 §4Frosty Sword@§4Ледяной Меч
