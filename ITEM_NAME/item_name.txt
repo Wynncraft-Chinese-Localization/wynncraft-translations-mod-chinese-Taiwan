@@ -1000,70 +1000,70 @@
 §7Blank Powder V@§7 無屬性元素粉末 V
 §fBlank Powder VI@§f 無屬性元素粉末 VI
 
-##########################Свитки###########################
-§bCorkusÀÀÀCity Teleport ScrollÀ@§bСвиток Телепортации в Коркус Сити
-§bCorkusÀÀÀCity Teleport Scroll@§bСвиток Телепортации в Коркус Сити
-§bLlevigar Teleport Scroll@§bСвиток Телепортации в Ллевигар
-§bLlevigar Teleport ScrollÀ@§bСвиток Телепортации в Ллевигар
-§bDetlas Teleport Scroll@§bСвиток Телепортации в Детлас
-§bDetlas Teleport ScrollÀ@§bСвиток Телепортации в Детлас 
-§bSelchar Teleport Scroll@§bСвиток Телепортации в Сельчар
-§bSelchar Teleport ScrollÀ@§bСвиток Телепортации Сельчар
-Selchar Teleportation Scroll@§bСвиток Телепортации в Сельчар
-§bTroms Teleport Scroll@§bСвиток Телепортации в Тромс
-§bTroms Teleport ScrollÀ@§bСвиток Телепортации в Тромс
-§bRagni Teleport Scroll@§bСвиток Телепортации в Рагни
-§bRagni Teleport ScrollÀ@§bСвиток Телепортации в Рагни
-§bAlmuj Teleport Scroll@§bСвиток Телепортации в Алмуж
-§bAlmuj Teleport ScrollÀ@§bСвиток Телепортации в Алмуж 
-§bNemract Teleport Scroll@§bСвиток Телепортации в Немракт
-§bNemract Teleport ScrollÀ@§bСвиток Телепортации в Немракт
-§bNesaak Teleport Scroll@§bСвиток Телепортации в Несаак 
-§bNesaak Teleport ScrollÀ@§bСвиток Телепортации в Несаак 
-§bCinfras Teleport Scroll@§bСвиток Телепортации в Цинфрас 
-§bCinfras Teleport ScrollÀ@§bСвиток Телепортации в Цинфрас
-§bDungeon Teleport ScrollÀ@§bСвиток Телепортации в Данж
-§bDungeon Teleport Scroll@§bСвиток Телепортации в Данж
-§bAhmsord Teleport ScrollÀ@§bСвиток Телепортации в Амсорд
-§bAhmsord Teleport Scroll@§bСвиток Телепортации в Амсорд
-§bThesead Teleport ScrollÀ@§bСвиток Телепортации в Тесеад
-§bThesead Teleport Scroll@§bСвиток Телепортации в Тесеад
-§bOlux Teleport Scroll@§bСвиток Телепортации в Олукс
-§bOlux Teleport ScrollÀ@§bСвиток Телепортации в Олукс
-§bMageÀÀÀIsland Teleport Scroll@§bСвиток Телепортации на Остров Магов
-§bMageÀÀÀIsland Teleport ScrollÀ@§bСвиток Телепортации на Остров Магов
-§6Skill Reset Scroll@§bСвиток Сброса Умений 
-§bRymek Teleport Scroll@§bСвиток Телепортации в Римек
-§bRymek Teleport ScrollÀ@§bСвиток Телепортации в Римек
-§bRodoroc Teleport ScrollÀ@§bСвиток Телепортации в Родорок
-§bRodoroc Teleport Scroll@§bСвиток Телепортации в Родорок
-§bGelibord Teleport ScrollÀ@§bСвиток Телепортации в Гелиборд
-§bGelibord Teleport Scroll@§bСвиток Телепортации в Гелиборд
-§bPirateÀÀÀCove Teleport Scroll@§bСвиток Телепортации в Пиратскую Бухту
-§bPirateÀÀÀCove Teleport ScrollÀ@§bСвиток Телепортации в Пиратскую Бухту 
-§bLegendaryÀÀÀIsland Teleport Scroll@§bСвиток Телепортации на Легендарный Остров
-§bEltom Teleport Scroll@§bСвиток Телепортации в Элтом
-§bEltom Teleport ScrollÀ@§bСвиток Телепортации в Элтом 
-§bKandon-Beda Teleport Scroll@§bСвиток Телепортации в Кандон-Бэда
-§bKandon-Beda Teleport ScrollÀ@§bСвиток Телепортации в Кандон-Бэда
-§bMaex Teleport Scroll@§bСвиток Телепортации в Маэкс
-§bMaex Teleport ScrollÀ@§bСвиток Телепортации в Маэкс
-Sand-Swept���Tomb���Entrance Teleportation Scroll@§bСвиток Телепортации в Песчаную Гробницу
-Underworld���Crypt���Entrance Teleportation Scroll@§bСвиток Телепортации в Подземный Склеп 
-§bMage Island Boat PassÀ@§bБилет на Остров Магов
-§bMage Island Boat Pass@§bБилет на Остров Магов
-§bSelchar Boat PassÀ@§bБилет в Сельчар
-§bSelchar Boat Pass@§bБилет в Сельчар
-§bHalf Moon Island Boat PassÀ@§bБилет на Остров Полумесяца
-§bHalf Moon Island Boat Pass@§bБилет на Остров Полумесяца
-§bNodguj Island Boat PassÀ@§bБилет на Остров Нодгуж
-§bNodguj Island Boat Pass@§bБилет на Остров Нодгуж
-§bGalleon's Graveyard Boat PassÀ@§bБилет на Кладбище Галеона
-§bGalleon's Graveyard Pass@§bБилет на Кладбище Галеона
-§bRooster Island Boat PassÀ@§bБилет на Рустер Остров
-§bRooster Island Boat Pass@§bБилет на Рустер Остров
-§bZhight Island Boat PassÀ@§bБилет на Жигт Остров
-§bZhight Island Boat Pass@§bБилет на Жигт Остров
+##########################卷軸，船票###########################
+§bCorkusÀÀÀCity Teleport ScrollÀ@§bCorkusÀÀÀCity傳送卷軸
+§bCorkusÀÀÀCity Teleport Scroll@§bCorkusÀÀÀCity傳送卷軸
+§bLlevigar Teleport Scroll@§bLlevigar傳送卷軸
+§bLlevigar Teleport ScrollÀ@§bLlevigar傳送卷軸
+§bDetlas Teleport Scroll@§bDetlas傳送卷軸
+§bDetlas Teleport ScrollÀ@§bDetlas傳送卷軸
+§bSelchar Teleport Scroll@§bSelchar傳送卷軸
+§bSelchar Teleport ScrollÀ@§bSelchar傳送卷軸
+§bSelchar Teleportation Scroll@§bSelchar傳送卷軸
+§bTroms Teleport Scroll@§bTroms傳送卷軸
+§bTroms Teleport ScrollÀ@§bTroms傳送卷軸
+§bRagni Teleport Scroll@§bRagni傳送卷軸
+§bRagni Teleport ScrollÀ@§bRagni傳送卷軸
+§bAlmuj Teleport Scroll@§bAlmuj傳送卷軸
+§bAlmuj Teleport ScrollÀ@§bAlmuj傳送卷軸
+§bNemract Teleport Scroll@§bNermract傳送卷軸
+§bNemract Teleport ScrollÀ@§bNermract傳送卷軸
+§bNesaak Teleport Scroll@§bNesaak傳送卷軸
+§bNesaak Teleport ScrollÀ@§bNesaak傳送卷軸
+§bCinfras Teleport Scroll@§bCinfras傳送卷軸 
+§bCinfras Teleport ScrollÀ@§bCinfras傳送卷軸  
+§bDungeon Teleport ScrollÀ@§b地牢傳送卷軸 
+§bDungeon Teleport Scroll@§b地牢傳送卷軸 
+§bAhmsord Teleport ScrollÀ@§bAhmsord傳送卷軸 
+§bAhmsord Teleport Scroll@§bAhmsord傳送卷軸 
+§bThesead Teleport ScrollÀ@§bThesead傳送卷軸 
+§bThesead Teleport Scroll@§bThesead傳送卷軸 
+§bOlux Teleport Scroll@§bOlux傳送卷軸 
+§bOlux Teleport ScrollÀ@§bOlux傳送卷軸 
+§bMageÀÀÀIsland Teleport Scroll@§bMageÀÀÀIsland傳送卷軸 
+§bMageÀÀÀIsland Teleport ScrollÀ@§bMageÀÀÀIsland傳送卷軸 
+§6Skill Reset Scroll@§b屬性點重置卷軸  
+§bRymek Teleport Scroll@§bRymek傳送卷軸 
+§bRymek Teleport ScrollÀ@§bRymek傳送卷軸  
+§bRodoroc Teleport ScrollÀ@§bRodoroc傳送卷軸 
+§bRodoroc Teleport Scroll@§bRodoroc傳送卷軸 
+§bGelibord Teleport ScrollÀ@§bGelibord傳送卷軸 
+§bGelibord Teleport Scroll@§bGelibord傳送卷軸 
+§bPirateÀÀÀCove Teleport Scroll@§bPirateÀÀÀCove傳送卷軸 
+§bPirateÀÀÀCove Teleport ScrollÀ@§bPirateÀÀÀCove傳送卷軸 
+§bLegendaryÀÀÀIsland Teleport Scroll@§bLegendaryÀÀÀIsland傳送卷軸 
+§bEltom Teleport Scroll@§bEltom傳送卷軸 
+§bEltom Teleport ScrollÀ@§bEltom傳送卷軸
+§bKandon-Beda Teleport Scroll@§bKandon-Beda傳送卷軸
+§bKandon-Beda Teleport ScrollÀ@§bKandon-Beda傳送卷軸
+§bMaex Teleport Scroll@§bMaex傳送卷軸
+§bMaex Teleport ScrollÀ@§bMaex傳送卷軸
+Sand-Swept���Tomb���Entrance Teleportation Scroll@§bSand-Swept���Tomb���入口傳送卷軸
+Underworld���Crypt���Entrance Teleportation Scroll@§bUnderworld���Crypt���入口傳送卷軸 
+§bMage Island Boat PassÀ@§bMage Island船票
+§bMage Island Boat Pass@§bMage Island船票
+§bSelchar Boat PassÀ@§bSelchar船票
+§bSelchar Boat Pass@§bSelchar船票
+§bHalf Moon Island Boat PassÀ@§bHalf Moon Island船票
+§bHalf Moon Island Boat Pass@§bHalf Moon Island船票
+§bNodguj Island Boat PassÀ@§bNodguj Island船票
+§bNodguj Island Boat Pass@§bNodguj Island船票
+§bGalleon's Graveyard Boat PassÀ@§bGalleon's Graveyard船票
+§bGalleon's Graveyard Pass@§bGalleon's Graveyard船票
+§bRooster Island Boat PassÀ@§Rooster Island船票
+§bRooster Island Boat Pass@§bRooster Island船票
+§bZhight Island Boat PassÀ@§bZhight Island船票
+§bZhight Island Boat Pass@§bZhight Island船票
 §aZhight Treasure Tour Pass@§bБилет на Жигт Тур Сокровищ
 §bLlevigar Boat PassÀ@§bБилет в Ллевигар
 §bLlevigar Boat Pass@§bБилет в Ллевигар
