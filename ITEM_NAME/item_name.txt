@@ -1009,7 +1009,7 @@
 §bDetlas Teleport ScrollÀ@§bDetlas傳送卷軸
 §bSelchar Teleport Scroll@§bSelchar傳送卷軸
 §bSelchar Teleport ScrollÀ@§bSelchar傳送卷軸
-§bSelchar Teleportation Scroll@§bSelchar傳送卷軸
+Selchar Teleportation Scroll@§bSelchar傳送卷軸
 §bTroms Teleport Scroll@§bTroms傳送卷軸
 §bTroms Teleport ScrollÀ@§bTroms傳送卷軸
 §bRagni Teleport Scroll@§bRagni傳送卷軸
@@ -1064,27 +1064,27 @@ Underworld���Crypt���Entrance Teleportation Scroll@§bUnderworld��
 §bRooster Island Boat Pass@§bRooster Island船票
 §bZhight Island Boat PassÀ@§bZhight Island船票
 §bZhight Island Boat Pass@§bZhight Island船票
-§aZhight Treasure Tour Pass@§bБилет на Жигт Тур Сокровищ
-§bLlevigar Boat PassÀ@§bБилет в Ллевигар
-§bLlevigar Boat Pass@§bБилет в Ллевигар
-§bDead Island Boat PassÀ@§bБилет на Мертвый Остров
-§bDead Island Boat Pass@§bБилет на Мертвый Остров
-§bPirate Cove Boat PassÀ@§bБилет в Пиратскую Бухту
-§bPirate Cove Boat Pass@§bБилет в Пиратскую Бухту
-§bDurum Isles Boat PassÀ@§bБилет на Дурум Острова
-§bDurum Isles Boat Pass@§bБилет на Дурум Острова
-§bJofash Dock Boat PassÀ@§bБилет в Джофаш Доки
-§bJofash Dock Boat Pass@§bБилет в Джофаш Доки
-§bNemract Boat PassÀ@§bБилет в Немракт
-§bNemract Boat Pass@§bБилет в Немракт
-§bMaro Peaks Boat PassÀ@§bБилет на Вершины Маро
-§bMaro Peaks Boat Pass@§bБилет на Вершины Маро
-§bSkiens Island Boat PassÀ@§bБилет на Скиенс Остров
-§bSkiens Island Boat Pass@§bБилет на Скиенс Остров
-§bBear Zoo Boat PassÀ@§bБилет на Зоопарк-Остров
-§bBear Zoo Boat Pass@§bБилет на Зоопарк-Остров
-§bVolcanic Isles Boat Pass@§bБилет на Вулканические Острова 
-§bVolcanic Isles Boat PassÀ@§bБилет на Вулканические Острова 
+§aZhight Treasure Tour Pass@§bZhight觀光船票
+§bLlevigar Boat PassÀ@§bLlevigar船票
+§bLlevigar Boat Pass@§bLlevigar船票
+§bDead Island Boat PassÀ@§bDead Island船票
+§bDead Island Boat Pass@§bDead Island船票
+§bPirate Cove Boat PassÀ@§bPirate Cove船票
+§bPirate Cove Boat Pass@§bPirate Cove船票
+§bDurum Isles Boat PassÀ@§bDurum Isles船票
+§bDurum Isles Boat Pass@§bDurum Isles船票
+§bJofash Dock Boat PassÀ@§bJofash Dock船票
+§bJofash Dock Boat Pass@§bJofash Dock船票
+§bNemract Boat PassÀ@§bNemract船票
+§bNemract Boat Pass@§bNemract船票
+§bMaro Peaks Boat PassÀ@§bMaro Peaks船票
+§bMaro Peaks Boat Pass@§bMaro Peaks船票
+§bSkiens Island Boat PassÀ@§bSkiens Island船票
+§bSkiens Island Boat Pass@§bSkiens Island船票
+§bBear Zoo Boat PassÀ@§bBear Zoo船票
+§bBear Zoo Boat Pass@§bBear Zoo船票
+§bVolcanic Isles Boat Pass@§bVolcanic Isles船票
+§bVolcanic Isles Boat PassÀ@§bVolcanic Isles船票
 
 ########################Гильдия#################################
 §7§lMobs@§7§lМобы
