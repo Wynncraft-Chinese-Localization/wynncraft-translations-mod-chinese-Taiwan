@@ -6,69 +6,69 @@
 §7\[(.*)\]@ 
 
 
-§7\[(.*)Weak (.*)Dam (.*)Def§7\]@§7[(r1)Слаб §(r2)Урон §(r3)Защ§7]
-§7\[(.*)Weak (.*)Dam( |)§7\]@§7[(r1)Слаб (r2)Урон§7]
-§7\[(.*)Weak (.*)Def§7\]@§7[(r1)Слаб (r2)Защ§7]
-§7\[(.*)Dam (.*)Def§7\]@§7[(r1)Урон (r2)Защ§7]
-§7\[(.*)Weak( |)§7\]@§7[(r1)Слаб§7]
-§7\[(.*)Def( |)§7\]@§7[(r1)Защ§7]
-§7\[(.*)Dam( |)§7\]@§7[(r1)Урон§7]
-§dx2 §7\[§f\+§d(\d+)§f Guild XP§7\]@§dx2 §7[§f+§d(r1)§f Гильдия XP§7]
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(\d+)%\]@§dx2(r1) §7[+§d(r2)§f Ⓙ§7 Земледелие§7 XP] §6[(r3)%]
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(\d+)%\]@§dx2(r1) §7[+§d(r2)§f Ⓚ§7 Рыбалка§7 XP] §6[(r3)%]
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(\d+)%\]@§dx2(r1) §7[+§d(r2)§f Ⓑ§7 Добыча Руды§7 XP] §6[(r3)%]
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(\d+)%\]@§dx2(r1) §7[+§d(r2)§f Ⓒ§7 Лесорубство§7 XP] §6[(r3)%]
-(§dx2 |)§7\[§f\+(§f|§d)(\d+)§f Combat XP§7\]@(r1)§7[§f+(r2)(r3)§f Комбат XP§7]
-§7\[§f\+§f(\d+)§f Guild XP§7\]@§7[§f+§f(r1)§f Гильдия XP§7] 
-§7\[\+(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(.*)%\]@§7[+(r1)§f Ⓒ§7 Лесорубство§7 XP] §6[(r2)%]
-§7\[\+(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(.*)%\]@§7[+(r1)§f Ⓙ§7 Земледелие§7 XP] §6[(r2)%]
-§7\[\+(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(.*)%\]@§7[+(r1)§f Ⓑ§7 Добыча Руды§7 XP] §6[(r2)%]
-§7\[\+(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(.*)\]@§7[+(r1)§f Ⓚ§7 Рыбалка§7 XP] §6[(r2)]
-§7Controlled by §b§l(.*)§7 \[Lv. (\d+)\]@§7Под контролем §b§l(r1)§7 [Ур. (r2)]
-§f§l(.*)'s§6§l Mob Totem@§f§l(r1)§6§l Моб Тотем
-§bFree Entry from §3(.*)@§bБесплатный Вход от §3(r1)
-§2Floormaster \[Floor (\d+), Level (\d+)\]@§2Мастер Этажа [Этаж (r1), Уровень (r2)]
-Level §a(\d+)§7/§210@Уровень §a(r1)§7/§210
-(.*)§7 \[Disguised\]@(r1)§7 [Замаскирован]
-§7(.*)'s White Wybel@§7(r1) 白色 wybel
-§7(.*)'s Violet Wybel@§7(r1) 紫色 wybel
-§7(.*)'s Chocolate Wybel@§7(r1) 巧克力 wybel
-§7(.*)'s Gray Wybel@§7(r1) 灰色 wybel
-§7(.*)'s Cream Wybel@§7(r1) 奶油 wybel
-§7(.*)'s Mint Wybel@§7(r1) 綠色 wybel
-§7(.*)'s Sky Blue Wybel@§7(r1) 天空藍 wybel
-§7(.*)'s Pink Wybel@§7(r1) 粉紅 wybel
-§7(.*)'s Sea Blue Wybel@§7(r1) 海藍色 wybel
-§7(.*)'s Orange Wybel@§7(r1) 橘色 wybel
-§7(.*)'s Angel Wybel@§7(r1) 天使 wybel
-§7(.*)'s Dragon Wybel@§7(r1) 火龍 wybel
-§7(.*)'s Rainbow Wybel@§7(r1) 彩虹 wybel
-§7(.*)'s Demon Wybel@§7(r1) 惡魔 wybel
-§7(.*)'s Carbon Fiber Cybel@§7(r1) 碳纖維 cybel
-§7(.*)'s Bronze Cybel@§7(r1) 黃銅色 cybel
-§7(.*)'s Orange Cybel@§7(r1) 橘色 cybel
-§7(.*)'s Chrome Cybel@§7(r1) 鉻色 cybel
-§7(.*)'s Creeper@§7(r1) 苦力怕
-§7(.*)'s Baby Penguin@§7(r1) 企鵝寶寶
-§7(.*)'s Rat@§7(r1) 老鼠
-§7(.*)'s Snowman@§7(r1) 雪人
-§7(.*)'s Silverfish@§7(r1) 蠹魚
-§7(.*)'s Rolling Potato@§7(r1) 滾動馬鈴薯
-§7(.*)'s Water Dragonling@§7(r1) 水龍
-§7(.*)'s Fire Dragonling@§7(r1) 火龍
-§7(.*)'s Spider@§7(r1) 蜘蛛
-§7(.*)'s Sheep@§7(r1) 綿羊
-§7(.*)'s Villager@§7(r1) 村民
-§7(.*)'s Wasp@§7(r1) 蜜蜂
-§7(.*)'s Pig@§7(r1) 小豬
-§7(.*)'s Singing Tiger@§7(r1) 歌唱老虎
-§7(.*)'s Grumpy Old Man@§7(r1) 脾氣暴躁的老人
-§7(.*)'s Playful Bear@§7(r1) 愛玩的熊
-§7(.*)'s Chicken@§7(r1) 小雞
-§7(.*)'s Zombie@§7(r1) 殭屍
+§7\[(.*)Weak (.*)Dam (.*)Def§7\]@§7[(的)Слаб §(r2)Урон §(r3)Защ§7]
+§7\[(.*)Weak (.*)Dam( |)§7\]@§7[(的)Слаб (r2)Урон§7]
+§7\[(.*)Weak (.*)Def§7\]@§7[(的)Слаб (r2)Защ§7]
+§7\[(.*)Dam (.*)Def§7\]@§7[(的)Урон (r2)Защ§7]
+§7\[(.*)Weak( |)§7\]@§7[(的)Слаб§7]
+§7\[(.*)Def( |)§7\]@§7[(的)Защ§7]
+§7\[(.*)Dam( |)§7\]@§7[(的)Урон§7]
+§dx2 §7\[§f\+§d(\d+)§f Guild XP§7\]@§dx2 §7[§f+§d(的)§f Гильдия XP§7]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(\d+)%\]@§dx2(的) §7[+§d(r2)§f Ⓙ§7 Земледелие§7 XP] §6[(r3)%]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(\d+)%\]@§dx2(的) §7[+§d(r2)§f Ⓚ§7 Рыбалка§7 XP] §6[(r3)%]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(\d+)%\]@§dx2(的) §7[+§d(r2)§f Ⓑ§7 Добыча Руды§7 XP] §6[(r3)%]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(\d+)%\]@§dx2(的) §7[+§d(r2)§f Ⓒ§7 Лесорубство§7 XP] §6[(r3)%]
+(§dx2 |)§7\[§f\+(§f|§d)(\d+)§f Combat XP§7\]@(的)§7[§f+(r2)(r3)§f Комбат XP§7]
+§7\[§f\+§f(\d+)§f Guild XP§7\]@§7[§f+§f(的)§f Гильдия XP§7] 
+§7\[\+(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(.*)%\]@§7[+(的)§f Ⓒ§7 伐木§7 XP] §6[(r2)%]
+§7\[\+(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(.*)%\]@§7[+(的)§f Ⓙ§7 農耕§7 XP] §6[(r2)%]
+§7\[\+(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(.*)%\]@§7[+(的)§f Ⓑ§7 挖掘 Руды§7 XP] §6[(r2)%]
+§7\[\+(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(.*)\]@§7[+(的)§f Ⓚ§7 釣魚§7 XP] §6[(r2)]
+§7Controlled by §b§l(.*)§7 \[Lv. (\d+)\]@§7Под контролем §b§l(的)§7 [Ур. (r2)]
+§f§l(.*)'s§6§l Mob Totem@§f§l(的)§6§l 怪物圖騰
+§bFree Entry from §3(.*)@§bБесплатный Вход от §3(的)
+§2Floormaster \[Floor (\d+), Level (\d+)\]@§2Мастер Этажа [Этаж (的), Уровень (r2)]
+Level §a(\d+)§7/§210@Уровень §a(的)§7/§210
+(.*)§7 \[Disguised\]@(的)§7 [偽裝]
+§7(.*)'s White Wybel@§7(的) 白色 wybel
+§7(.*)'s Violet Wybel@§7(的) 紫色 wybel
+§7(.*)'s Chocolate Wybel@§7(的) 巧克力 wybel
+§7(.*)'s Gray Wybel@§7(的) 灰色 wybel
+§7(.*)'s Cream Wybel@§7(的) 奶油 wybel
+§7(.*)'s Mint Wybel@§7(的) 綠色 wybel
+§7(.*)'s Sky Blue Wybel@§7(的) 天空藍 wybel
+§7(.*)'s Pink Wybel@§7(的) 粉紅 wybel
+§7(.*)'s Sea Blue Wybel@§7(的) 海藍色 wybel
+§7(.*)'s Orange Wybel@§7(的) 橘色 wybel
+§7(.*)'s Angel Wybel@§7(的) 天使 wybel
+§7(.*)'s Dragon Wybel@§7(的) 火龍 wybel
+§7(.*)'s Rainbow Wybel@§7(的) 彩虹 wybel
+§7(.*)'s Demon Wybel@§7(的) 惡魔 wybel
+§7(.*)'s Carbon Fiber Cybel@§7(的) 碳纖維 cybel
+§7(.*)'s Bronze Cybel@§7(的) 黃銅色 cybel
+§7(.*)'s Orange Cybel@§7(的) 橘色 cybel
+§7(.*)'s Chrome Cybel@§7(的) 鉻色 cybel
+§7(.*)'s Creeper@§7(的) 苦力怕
+§7(.*)'s Baby Penguin@§7(的) 企鵝寶寶
+§7(.*)'s Rat@§7(的) 老鼠
+§7(.*)'s Snowman@§7(的) 雪人
+§7(.*)'s Silverfish@§7(的) 蠹魚
+§7(.*)'s Rolling Potato@§7(的) 滾動馬鈴薯
+§7(.*)'s Water Dragonling@§7(的) 水龍
+§7(.*)'s Fire Dragonling@§7(的) 火龍
+§7(.*)'s Spider@§7(的) 蜘蛛
+§7(.*)'s Sheep@§7(的) 綿羊
+§7(.*)'s Villager@§7(的) 村民
+§7(.*)'s Wasp@§7(的) 蜜蜂
+§7(.*)'s Pig@§7(的) 小豬
+§7(.*)'s Singing Tiger@§7(的) 歌唱老虎
+§7(.*)'s Grumpy Old Man@§7(的) 脾氣暴躁的老人
+§7(.*)'s Playful Bear@§7(的) 愛玩的熊
+§7(.*)'s Chicken@§7(的) 小雞
+§7(.*)'s Zombie@§7(的) 殭屍
 (§(e|2|f|c|b)-\d+.*)@ 
-§f(.*)§7's horse@§7 的馬 §f(r1)
-(§a✔|§c✖)§f (.*)Farming Lv. Min: §f(\d+)@(r1)§f (r2) Земледелие Ур. Мин: §f(r3)
-(§a✔|§c✖)§f (.*)Mining Lv. Min: §f(\d+)@(r1)§f (r2) Добыча Руды Ур. Мин: §f(r3)
-(§a✔|§c✖)§f (.*)Woodcutting Lv. Min: §f(\d+)@(r1)§f (r2) Лесорубство Ур. Мин: §f(r3)
-(§a✔|§c✖)§f (.*)Fishing Lv. Min: §f(\d+)@(r1)§f (r2) Рыбалка Ур. Мин: §f(r3)
+§f(.*)§7's horse@§7 的馬 §f(的)
+(§a✔|§c✖)§f (.*)Farming Lv. Min: §f(\d+)@(的)§f (r2) Земледелие Ур. Мин: §f(r3)
+(§a✔|§c✖)§f (.*)Mining Lv. Min: §f(\d+)@(的)§f (r2) Добыча Руды Ур. Мин: §f(r3)
+(§a✔|§c✖)§f (.*)Woodcutting Lv. Min: §f(\d+)@(的)§f (r2) Лесорубство Ур. Мин: §f(r3)
+(§a✔|§c✖)§f (.*)Fishing Lv. Min: §f(\d+)@(的)§f (r2) Рыбалка Ур. Мин: §f(r3)
