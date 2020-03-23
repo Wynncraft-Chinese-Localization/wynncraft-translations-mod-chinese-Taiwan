@@ -1,27 +1,27 @@
-§7[1/4] §2Jenprest: §aSoldier! Good timing. We've been requesting help for ages.@§7[1/4] §2Jenprest: §aСолдат! Ты очень вовремя, мы ждали помощи уже очень давно!
-§7[2/4] §2Jenprest: §aLooks like we have a blocked pipe in the sewers. No wonder no one wanted the job.@§7[2/4] §2Jenprest: §aПохоже у нас забились трубы в канализации, и никто не хочет браться за эту работу!
-§7[3/4] §2Jenprest: §aI'm going to need you to get your hands dirty. I'll need some assistance with the blockage.@§7[3/4] §2Jenprest: §aМне нужно, чтобы ты выполнил эту грязную работу. Мне понадобится помощь с этим засором.
-§7[4/4] §2Jenprest: §aMeet me up the hill at the sewer entrance, just right of this big drain here.@§7[4/4] §2Jenprest: §aВстретимся на холме у входа в канализацию, с правой стороны от этого большого стока.
-§7[1/3] §2Jenprest: §aAh you're already here. Coming up behind you soldier!@§7[1/3] §2Jenprest: §aАх, ты уже пришел. Поднимаюсь прямо за тобой, солдат!
-§7[2/3] §2Jenprest: §aHere's the brief. We get in, deploy small explosives to dislodge the blockage and get out.@§7[2/3] §2Jenprest: §aВот мои указания. Мы заходим, используем небольшую взрывчатку, чтобы убрать блокаду, и уходим.
-§7[3/3] §2Jenprest: §aI forgot to mention this won't be without danger. There's all sorts of nasty things in this sewer. Keep your wits about you. Right, let's go!@§7[3/3] §2Jenprest: §aЯ забыла упомянуть, но все это может быть небезопасно. В канализации полно всяких неприятных существ. Будь наготове. Хорошо, пошли!
-§7[1/3] §2Jenprest: §aDo you feel like there's something lurking that doesn't want us here?@§7[1/3] §2Jenprest: §aТы чувствуешь, как будто что-то следит за нами, и не хочет видеть нас здесь?
-§7[2/3] §2Jenprest: §aAnyway, I've found the blockage. It's right up ahead.@§7[2/3] §2Jenprest: §aНеважно, похоже я нашла где у нас засор. Это место прямо над нами.
-§7[3/3] §2Jenprest: §aHere's a small explosive. I placed one at the blockage already, if that alone doesn't work, use this.@§7[3/3] §2Jenprest: §aВот тебе маленькая взрывчатка. Я уже установила одну на месте засора. Если она не сработает, то используй ее.
-§7[1/3] §2Jenprest: §aAh, you’re alive. Looks like we underestimated the amount of sewage.@§7[1/3] §2Jenprest: §aОх, ты жив. Похоже, мы недооценили количество сточных вод.
-§7[2/3] §2Jenprest: §aLet's get out of here. Do you still have the explosive I gave you?@§7[2/3] §2Jenprest: §aДавай выбираться отсюда. У тебя еще осталась взрывчатка, которую я дала тебе?
-§7[3/3] §2Jenprest: §aGood, let's use it on this wall, it looks like we can break right through...@§7[3/3] §2Jenprest: §aХорошо, давай ее используем на этой стене, она выглядит так, будто через нее можно будет выбраться....
-§7[1/1] §2Jenprest: §aOh no, oh no no no! Did you just open §a§lthat? §aCome here immediately.@§7[1/1] §2Jenprest: §aОх нет, нет нет нет! Ты только что §a§lоткрыл ее?§a Иди сюда, скорее.
-§7[1/7] §2Jenprest: §aOh no... This is very, very bad.@§7[1/7] §2Jenprest: §aО нет... Это очень, очень плохо.
-§7[2/7] §2Jenprest: §aThis was sealed for a reason. It used to be the old Ragni prison.@§7[2/7] §2Jenprest: §aЭто место было запечатано не просто так. Раньше здесь была старая тюрьма Рагни.
-§7[3/7] §2Jenprest: §aIt has a horrible history. People hid here during raids.@§7[3/7] §2Jenprest: §aУ нее ужасная история. Люди прятались в ней во время набегов.
-§7[4/7] §2Jenprest: §aBut over 100 years ago, the horde found it and killed hundreds.@§7[4/7] §2Jenprest: §aНо более 100 лет назад, стая нашла это место и убила сотни жителей.
-§7[5/7] §2Jenprest: §aNow the dead remain in there.. Corrupt. It was sealed to stop them from attacking the city.@§7[5/7] §2Jenprest: §aТолько мертвые остались там... Порча. Тюрьма была запечатана, чтобы остановить атаки на город.
-§7[6/7] §2Jenprest: §aRumour has it that Bob, the hero of Wynn, was born in that very prison.@§7[6/7] §2Jenprest: §aХодят слухи, что Боб, герой провинции Винн, был рожден в этой тюрьме.
-§7[7/7] §2Jenprest: §aThere's nothing for it. We have to act. I will inform the high command. You… You go in and defeat the leader.@§7[7/7] §2Jenprest: §aПохоже больше ничего не остается. Нам нужно действовать. Я сообщу обо всем высшему командованию. А ты... Ты пойдешь туда и уничтожишь их лидера.
-§7[1/1] §2???: §aRelease me...@§7[1/1] §2???: §aОсвободи меня...
+§7[1/4] §2Jenprest: §aSoldier! Good timing. We've been requesting help for ages.@§7[1/4] §2Jenprest: §a士兵！你來的正是時候。我們找人找很久了。
+§7[2/4] §2Jenprest: §aLooks like we have a blocked pipe in the sewers. No wonder no one wanted the job.@§7[2/4] §2Jenprest: §a看起來在下水道裡有一條堵塞住的水管。難怪沒有人想要做這份工作。
+§7[3/4] §2Jenprest: §aI'm going to need you to get your hands dirty. I'll need some assistance with the blockage.@§7[3/4] §2Jenprest: §a你的手等下一定會弄髒。因為我需要你幫我清理堵塞物。
+§7[4/4] §2Jenprest: §aMeet me up the hill at the sewer entrance, just right of this big drain here.@§7[4/4] §2Jenprest: §a在那排水道右邊山丘上的水道入口處找我。
+§7[1/3] §2Jenprest: §aAh you're already here. Coming up behind you soldier!@§7[1/3] §2Jenprest: §a你已經到了阿。過來，在你後面！
+§7[2/3] §2Jenprest: §aHere's the brief. We get in, deploy small explosives to dislodge the blockage and get out.@§7[2/3] §2Jenprest: §a我先做個簡單的說明。我們進去之後，安裝小型炸藥把堵塞物炸開，然後出來。
+§7[3/3] §2Jenprest: §aI forgot to mention this won't be without danger. There's all sorts of nasty things in this sewer. Keep your wits about you. Right, let's go!@§7[3/3] §2Jenprest: §a我忘了提醒你這個任務不可能沒有危險，這個下水道裡竟是些讓人討厭的東西。保持冷靜，隨機應變。好，走吧！
+§7[1/3] §2Jenprest: §aDo you feel like there's something lurking that doesn't want us here?@§7[1/3] §2Jenprest: §a你有沒有感覺到什麼東西似乎潛伏在附近？不想讓我們待在這。
+§7[2/3] §2Jenprest: §aAnyway, I've found the blockage. It's right up ahead.@§7[2/3] §2Jenprest: §a不管怎樣，我們找到堵塞物了，就在前面。
+§7[3/3] §2Jenprest: §aHere's a small explosive. I placed one at the blockage already, if that alone doesn't work, use this.@§7[3/3] §2Jenprest: §a這裡是一些小型炸彈。我已經放一個在堵塞物那了，如果那個不管用，就換這個。
+§7[1/3] §2Jenprest: §aAh, you’re alive. Looks like we underestimated the amount of sewage.@§7[1/3] §2Jenprest: §a太好了，你還活著。看來我們的低估了這汙水的水量。
+§7[2/3] §2Jenprest: §aLet's get out of here. Do you still have the explosive I gave you?@§7[2/3] §2Jenprest: §a走吧！我們離開這裡。你還留有我之前給你的炸彈嗎？
+§7[3/3] §2Jenprest: §aGood, let's use it on this wall, it looks like we can break right through...@§7[3/3] §2Jenprest: §a好，讓我們用在這個牆上，看起我們有辦法直接炸開……
+§7[1/1] §2Jenprest: §aOh no, oh no no no! Did you just open §a§lthat? §aCome here immediately.@§7[1/1] §2Jenprest: §a噢不，噢不不不！你剛剛是不是把那個打開？現在馬上過來。
+§7[1/7] §2Jenprest: §aOh no... This is very, very bad.@§7[1/7] §2Jenprest: §a噢不……這真的非常非常糟糕。
+§7[2/7] §2Jenprest: §aThis was sealed for a reason. It used to be the old Ragni prison.@§7[2/7] §2Jenprest: §a把這個關起來是有原因的。這以前是Ragni的舊監獄。
+§7[3/7] §2Jenprest: §aIt has a horrible history. People hid here during raids.@§7[3/7] §2Jenprest: §a有著一段可怕的歷史。我們被襲擊的時候人們都躲在這裡。
+§7[4/7] §2Jenprest: §aBut over 100 years ago, the horde found it and killed hundreds.@§7[4/7] §2Jenprest: §a但在一百多年前，他們找到了這裡並且殺了大多數的人。
+§7[5/7] §2Jenprest: §aNow the dead remain in there.. Corrupt. It was sealed to stop them from attacking the city.@§7[5/7] §2Jenprest: §a裡面還存在著那些亡靈。這就是為什麼我們要封印這裡，避免他們攻擊城市。
+§7[6/7] §2Jenprest: §aRumour has it that Bob, the hero of Wynn, was born in that very prison.@§7[6/7] §2Jenprest: §a有個傳說有關Wynn的英雄Bob，他出生在這個險峻的監獄裡。
+§7[7/7] §2Jenprest: §aThere's nothing for it. We have to act. I will inform the high command. You… You go in and defeat the leader.@§7[7/7] §2Jenprest: §a已經沒有其他的方法了。我們必須行動。我會趕快通知上級長官。你……你去想辦法打敗他們的首腦。
+§7[1/1] §2???: §aRelease me...@§7[1/1] §2???: §a釋放我...
 
-§7[1/2] §2Jenprest: §aHello, I am a lieutenant in the Ragni army. I have a job for you soldier.@§7[1/2] §2Jenprest: §aПриветствую, я лейтенант армии Рагни. У меня есть работа для тебя, солдат.
-§7[2/2] §2Jenprest: §aWait, you aren't level 5 yet! Come back to me when you get stronger.@§7[2/2] §2Jenprest: §aМинутку, ты еще не достиг 5 уровня! Возвращайся ко мне, когда станешь сильнее.
-§7[1/1] §2Jenprest: §aI fear we face a much worse enemy than a blocked drain..@§7[1/1] §2Jenprest: §aБоюсь, что мы столкнулись с более опасным врагом, чем засоренные трубы..
-§7[1/1] §2Jenprest: §aThe sewer entrance is just right of the big gate. I'll meet you there.@§7[1/1] §2Jenprest: §aВход в канализацию справа от этих больших ворот. Я встречу тебя там.
+§7[1/2] §2Jenprest: §aHello, I am a lieutenant in the Ragni army. I have a job for you soldier.@§7[1/2] §2Jenprest: §a哈囉，我是Ragni軍隊的少尉。我有個任務要給你，士兵
+§7[2/2] §2Jenprest: §aWait, you aren't level 5 yet! Come back to me when you get stronger.@§7[2/2] §2Jenprest: §a等一下，你還沒有5等。在你變得強壯之後回來找我吧。
+§7[1/1] §2Jenprest: §aI fear we face a much worse enemy than a blocked drain..@§7[1/1] §2Jenprest: §a我害怕我們會遇到比堵住的水溝更糟糕的敵人
+§7[1/1] §2Jenprest: §aThe sewer entrance is just right of the big gate. I'll meet you there.@§7[1/1] §2Jenprest: §a下水道的入口在大門的右邊。我會在那裏與你碰面。
