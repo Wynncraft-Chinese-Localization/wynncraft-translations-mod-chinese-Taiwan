@@ -1,6 +1,5 @@
 quest_stages.txt
 Item_lore.txt
-Predmet_lore.txt
+Legend_Myth_lore.txt
 Territory_lore.txt
-regex.txt
 Notranslate.txt

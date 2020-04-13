@@ -1,6 +1,3 @@
-§a  §lFriends§r@§a  §lДрузья
-§e  §lParty§r@§e  §lПати§r
-§b§l  Guild§r@§b§l  Гильдия
-§7Make a party§r@§7Создай пати§r
-§7by typing:§r@§7написав:§r
-§7/party create§r@ 
+§7Make a party@§7Создай пати
+§7by typing:@§7написав:
+§7/party create@ 

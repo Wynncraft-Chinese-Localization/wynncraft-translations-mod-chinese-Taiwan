@@ -1,7 +1,4 @@
 §cZombie Grook§6 [Lv. 5]@ 
-§f§lRagni Main Entrance@ 
-§f§lRagni North Suburbs@ 
-§f§lRagni North Entrance@ 
 §cZombie Archer§6 [Lv. 4]@ 
 §cZombie§6 [Lv. 3]@ 
 §cJenprest§6 [Lv. 9]@ 
@@ -20,18 +17,14 @@ RaveSkeleDoor1@
 §cWild Mooshroom§6 [Lv. 12]@ 
 §cAcolyte of the Order§6 [Lv. 72]@ 
 §cInfernal Imp§6 [Lv. 73]@ 
-§f§lBlack Magic@ 
 §cMagus of the Order§6 [Lv. 74]@ 
 §cAbyssal Wight§6 [Lv. 73]@ 
 §cGuardian of the Order§6 [Lv. 75]@ 
 §cEnt Abomination§6 [Lv. 72]@ 
-§f§lArachnida Cave@ 
-§f§lRagni East Suburbs@ 
 §cPutrid Zombie§6 [Lv. 5]@ 
 §cSpitting Zombie§6 [Lv. 4]@ 
 §cZombie Archer§6 [Lv. 3]@ 
 §cDecaying Zombie§6 [Lv. 3]@ 
-§f§lMaltic Plains@ 
 §cZombie§6 [Lv. 7]@ 
 aqueCorpse@ 
 RaveAquaductWater2@ 
@@ -46,7 +39,6 @@ RaveBraceFireRing@
 DrBWflametest@ 
 §cInfernal Spider§6 [Lv. 5]@ 
 ThTantiPlatform@ 
-§2Lava Pool@ 
 §cAngry Nomad§6 [Lv. 4]@ 
 §cGullum§6 [Lv. 1]@ 
 §cNesting Spider§6 [Lv. 8]@ 
@@ -56,12 +48,10 @@ elisfelis@
 §cYoung Forest Spider§6 [Lv. 3]@ 
 §cMercenary Warrior§6 [Lv. 76]@ 
 §cMercenary Archer§6 [Lv. 76]@ 
-§f§lNemract Plains West@ 
 §cTurtle§6 [Lv. 18]@ 
 §cBiting Bug§6 [Lv. 19]@ 
 §cZombie§6 [Lv. 15]@ 
 §cFisherman§6 [Lv. 22]@ 
-§f§lNemract Plains East@ 
 §cRoaming Skeleton§6 [Lv. 21]@ 
 §cMuddy Zombie§6 [Lv. 22]@ 
 §cMerlug§6 [Lv. 23]@ 
@@ -70,47 +60,35 @@ elisfelis@
 §cMiner Zombie§6 [Lv. 9]@ 
 §cMiner Zombie§6 [Lv. 8]@ 
 §cMiner Zombie Patron§6 [Lv. 10]@ 
-§f§lDetlas Far Suburbs@ 
 §cDead Suburb Resident§6 [Lv. 7]@ 
 §cCorrupted Apple§6 [Lv. 10]@ 
 §cBurned Suburb Resident§6 [Lv. 9]@ 
 §cDead Lumberjack§6 [Lv. 13]@ 
 §cNii Hawker§6 [Lv. 75]@ 
-§f§lDetlas Suburbs@ 
 §cOrchard Owner§6 [Lv. 20]@ 
 §cObelisk of the Eye§6 [Lv. 75]@ 
 §cHollow Shade§6 [Lv. 70]@ 
 §cNaragath, the Demon Prince§6 [Lv. 90]@ 
 §cHierophant of the Order§6 [Lv. 75]@ 
-§f§lBanshees Cave@ 
-§f§lDark Forest Village@ 
-§f§lGraveyard South@ 
 §cNii Prime§6 [Lv. 75]@ 
 §2store.wynncraft.com@ 
 §4§n/§c§n!§4§n\@ 
 §5store.wynncraft.com@ 
 §6store.wynncraft.com@ 
 §3store.wynncraft.com@ 
-§f§lEfelim East Plains@ 
 §cCorrupt Heliolux§6 [Lv. 77]@ 
 §cSuccoru Parasite§6 [Lv. 78]@ 
-§f§lSpiraling Trees@ 
 §cLight Dog§6 [Lv. 80]@ 
-§f§lRoad to Corruption@ 
 §cUndead Miner§6 [Lv. 1]@ 
 §cUndead Miner§6 [Lv. 2]@ 
-§f§lLight Realm East Mid-Upper@ 
 §cCorrupted Renegade§6 [Lv. 1]@ 
 §cCorrupted Renegade §6[Lv. 1]@ 
 §cSkeletal Miner§6 [Lv. 1]@ 
 §cWeak Zombie§6 [Lv. 1]@ 
 §cUndead Warrior§6 [Lv. 1]@ 
 §cUndead Warrior §6[Lv. 10]@ 
-§f§lLight Realm Entrance Upper@ 
 §cRat§6 [Lv. 2]@ 
 §cBloated Succoru Parasite§6 [Lv. 80]@ 
-§f§lLight Realm East Mid@ 
-§f§lRagni@ 
 §cZombie Raider§6 [Lv. 3]@ 
 §cWarrior Zombie§6 [Lv. 6]@ 
 §cDevourer of Light§6 [Lv. 80]@ 
@@ -122,7 +100,6 @@ elisfelis@
 §cBoar§6 [Lv. 8]@ 
 RaveGhostTestBone@ 
 RaveGhostTestMain@ 
-§f§lEmerald Trail@ 
 RaveGhostTestWool@ 
 §cFire Zombie§6 [Lv. 5]@ 
 §cZombie§6 [Lv. 5]@ 
@@ -136,15 +113,8 @@ RaveGhostTestBook@
 §cBattered Warrior§6 [Lv. 5]@ 
 §cBattered Warrior§6 [Lv. 7]@ 
 §cZombie§6 [Lv. 10]@ 
-§f§lPlains@ 
-§f§lOrphion's Seal@ 
-§f§lAldorei Valley Lower@ 
-§e0§7/§62@ 
 §cShroom Sleeper§6 [Lv. 69]@ 
 §cCave Pixie§6 [Lv. 71]@ 
-§f§lAldorei Valley Mid@ 
-§f§lAldorei Valley Upper@ 
-§f§lAldorei’s River@ 
 §cSugha Orc Axe Barbarian§6 [Lv. 45]@ 
 §cOrc§6 [Lv. 45]@ 
 §cBlue Krait§6 [Lv. 53]@ 
@@ -152,14 +122,10 @@ RaveGhostTestBook@
 §cInland Taipan§6 [Lv. 55]@ 
 §cLizardman Darter§6 [Lv. 53]@ 
 §cLizardman Bruiser§6 [Lv. 55]@ 
-§f§lBlack Camp@ 
 §cSable Orc Axe Raider§6 [Lv. 45]@ 
 §cDeathjump Spider§6 [Lv. 48]@ 
-§f§lRed Camp@ 
 §cDamask Orc Axe Warrior§6 [Lv. 45]@ 
 §cGoblin Hexer§6 [Lv. 43]@ 
-§f§lQuartz Mines North East@ 
-§f§lBucie South West@ 
 §cRuin Crawler§6 [Lv. 45]@ 
 §cCrumbled Skeleton§6 [Lv. 8]@ 
 §cSkeletal Guardian§6 [Lv. 8]@ 
@@ -221,42 +187,30 @@ RaveGhostTestBook@
 §cQuartz Bandit§6 [Lv. 46]@ 
 §cQuartz Ranger§6 [Lv. 45]@ 
 mcTNT@ 
-§f§lQuartz Mines South West@ 
 §a0/§226@ 
 §cGurui Fighter§6 [Lv. 78]@ 
 §cAnimated Water§6 [Lv. 75]@ 
 §cMermaid§6 [Lv. 75]@ 
 §cPigman Raider§6 [Lv. 15]@ 
 §cAngry Pig§6 [Lv. 3]@ 
-§f§lPigmen Ravines Entrance@ 
 §cTunnel Pigman§6 [Lv. 14]@ 
 §cRavine Pigman§6 [Lv. 16]@ 
 §cPigman Raider§6 [Lv. 9]@ 
 §cRavine Pigman§6 [Lv. 14]@ 
-§f§lSouth Pigmen Ravines@ 
 §cTransformed Pigman§6 [Lv. 15]@ 
-§f§lPigmen Ravines@ 
 §cDark Cultist§6 [Lv. 14]@ 
 §cPigman Runner§6 [Lv. 13]@ 
 §cDark Cultist§6 [Lv. 15]@ 
-§f§lBucie North West@ 
-§f§lBucie South East@ 
-§f§lBucie North East@ 
 §cPigman Striker§6 [Lv. 17]@ 
-§f§lLlevigar Farm@ 
-§f§lGuild Hall@ 
 §cDrunken Crewman§6 [Lv. 5]@ 
 §cMuffy§6 [Lv. 75]@ 
 §cCurious Foliage§6 [Lv. 65]@ 
 §cPhrumkin Gangster§6 [Lv. 72]@ 
 §cPigman Overlord§6 [Lv. 20]@ 
-§e1§7/§62@ 
-§e2§7/§62@ 
 §cLuxroot Sapling§6 [Lv. 68]@ 
 §cLuxroot Sentinel§6 [Lv. 73]@ 
 §cAzur Myconid§6 [Lv. 72]@ 
 §cRoyal Bug§6 [Lv. 76]@ 
-§f§lLight Forest North Exit@ 
 §cAldor-Nix§6 [Lv. 70]@ 
 §cRecluse Spider§6 [Lv. 70]@ 
 §cBandit Alchemist§6 [Lv. 73]@ 
@@ -268,7 +222,6 @@ mcTNT@
 §cSatyr Tambourinist§6 [Lv. 70]@ 
 §cSatyr Flutist§6 [Lv. 70]@ 
 §cRecluse Spiderling§6 [Lv. 71]@ 
-§f§lPath to Cinfras@ 
 §cDark Cultist§6 [Lv. 11]@ 
 §cDark Cultist§6 [Lv. 10]@ 
 §cRaul§6 [Lv. 44]@ 
@@ -280,19 +233,15 @@ mcTNT@
 §cHunter§6 [Lv. 44]@ 
 §cUlric§6 [Lv. 44]@ 
 §cAlpha§6 [Lv. 44]@ 
-§f§lLight Forest East Mid@ 
 §cLight Fairy§6 [Lv. 70]@ 
 §cPond Nymph§6 [Lv. 75]@ 
 §cFlera Myconid§6 [Lv. 70]@ 
 §cLesser Ethrela Myconid§6 [Lv. 73]@ 
 §cJad'lr Myconid§6 [Lv. 71]@ 
-§f§lLight Forest East Lower@ 
 §cGrifforion Toutatis§6 [Lv. 73]@ 
 §cGrifforion Secouris§6 [Lv. 73]@ 
 §cGrifforion Panaplis§6 [Lv. 73]@ 
-§f§lLight Forest West Mid@ 
 §cWood Sprite§6 [Lv. 75]@ 
-§f§lLight Forest Entrance@ 
 clockDoor4@ 
 §cAngry Druid§6 [Lv. 75]@ 
 §cThe Eternal Beast§6 [Lv. 65]@ 
@@ -303,7 +252,6 @@ clockDoor5@
 §cMomgy§6 [Lv. 71]@ 
 §cRaksdens Cultist§6 [Lv. 65]@ 
 §cWounded Raksdens Cultist§6 [Lv. 65]@ 
-§f§lLight Forest South Entrance@ 
 §cRiver Salmon§6 [Lv. 75]@ 
 clockDoor6@ 
 §cFire Fairy§6 [Lv. 65]@ 
@@ -313,7 +261,6 @@ clockDoor6@
 clockDoor2@ 
 §cTempus, Stealer of Time§6 [Lv. 45]@ 
 clockDoor1@ 
-§f§lRoad To Light Forest@ 
 clockDoor7@ 
 §cMeritiath§6 [Lv. 62]@ 
 §cAcanit, Holder of Time§6 [Lv. 40]@ 
@@ -327,12 +274,9 @@ clockDoor8@
 §cTemporal Rift§6 [Lv. 20]@ 
 §cInsane Horse§6 [Lv. 22]@ 
 §cFlower Fairy§6 [Lv. 15]@ 
-§f§lAbandoned Farm@ 
 §cInsane Blacksmith§6 [Lv. 24]@ 
-§f§lNorth Nivla Forest@ 
 §cSpider Egg§6 [Lv. 20]@ 
 §cSpitter Spiderling§6 [Lv. 16]@ 
-§eSpider Egg§6 [Lv. 20]@ 
 §cEerie Spiderling§6 [Lv. 20]@ 
 droppeditamsdads@ 
 man55@ 
@@ -340,7 +284,6 @@ man55@
 §cBloodcurling Arachne§6 [Lv. 20]@ 
 §cPremature Creepling§6 [Lv. 18]@ 
 §cSticky Arachne§6 [Lv. 16]@ 
-§e4x ••••@ 
 §c❤❤@ 
 §b§lVIP+@ 
 §cDwarven Traitor§6 [Lv. 43]@ 
@@ -350,20 +293,15 @@ man55@
 §cTribal Warrior§6 [Lv. 64]@ 
 §cTribal Shaman§6 [Lv. 67]@ 
 §cLost Adventurer§6 [Lv. 61]@ 
-§6§lAltar of Sanctification@ 
 §cWild Leopard§6 [Lv. 61]@ 
 §cTree Spider§6 [Lv. 62]@ 
-§f§lDernal Jungle Upper@ 
 §cCannibal§6 [Lv. 69]@ 
 §cOzio§6 [Lv. 65]@ 
-§f§lCinfras@ 
-§f§lCinfras County Mid-Upper@ 
 §cFelroc§6 [Lv. 77]@ 
 labPlanet@ 
 §cFelroc Brutahealen§6 [Lv. 78]@ 
 §cLyran Soldier§6 [Lv. 83]@ 
 §cLyran Cub§6 [Lv. 81]@ 
-§f§lCinfras County Mid-Lower@ 
 §cBandit§6 [Lv. 76]@ 
 §cLyran Veteran§6 [Lv. 86]@ 
 §2[§aVIP§2]@ 
@@ -380,7 +318,6 @@ labPlanet@
 §cTribal Raindancer§6 [Lv. 74]@ 
 §cBloodthirsty Fiend§6 [Lv. 55]@ 
 §cJungle Viper§6 [Lv. 64]@ 
-§f§lNivla Forest Entrance@ 
 §cZombie Assassin§6 [Lv. 10]@ 
 §cForest Cave Spider§6 [Lv. 5]@ 
 §a12§2/15@ 
@@ -403,11 +340,8 @@ labPlanet@
 §a2§2/3@ 
 §a3§2/3@ 
 §cGoblin Scout§6 [Lv. 3]@ 
-§f§lDead Island South West@ 
 §cDead Villager§6 [Lv. 68]@ 
 §cDern Minion§6 [Lv. 70]@ 
-§f§lDead Island North West@ 
-§f§lDead Island North East@ 
 §cAwakened Spirit§6 [Lv. 68]@ 
 §cDead Island Bovemist§6 [Lv. 68]@ 
 §cDern Beast§6 [Lv. 70]@ 
@@ -415,18 +349,13 @@ labPlanet@
 §cSpider Egg§6 [Lv. 6]@ 
 §cResurrected Ragni Soldier§6 [Lv. 7]@ 
 §a0§2/1@ 
-§f§lNivla Forest@ 
 §cFungal Parasite§6 [Lv. 7]@ 
 §cFungal Parasite§6 [Lv. 8]@ 
-§f§lNivla Forest Edge@ 
 §cStalker Spider§6 [Lv. 10]@ 
-§f§lCathedral Harbour@ 
 §cZombified Guard§6 [Lv. 10]@ 
 §cCave Dwelling Rabbit§6 [Lv. 10]@ 
 §cShadow Skulk§6 [Lv. 65]@ 
 §cZombie§6 [Lv. 13]@ 
-§f§lDetlas Close Suburbs@ 
-§f§lDetlas@ 
 §cCorrupted Salted§6 [Lv. 5]@ 
 §2[§a|||||100%|||||§2]@ 
 @ 
@@ -437,7 +366,6 @@ labPlanet@
 §cPyrosilver Spitter§6 [Lv. 58]@ 
 §cMagma Rock§6 [Lv. 55]@ 
 §cVolcano Sludge§6 [Lv. 55]@ 
-§f§lVolcano Lower@ 
 §cGalvambler§6 [Lv. 57]@ 
 §cVolcano Sludge§6 [Lv. 54]@ 
 §cVulcantern§6 [Lv. 59]@ 
@@ -452,18 +380,13 @@ bellMarker@
 randomPass@ 
 tripwireMarker@ 
 §cDrunk Property Owner§6 [Lv. 20]@ 
-§f§lNemract Town@ 
-§2§fNemract Citizen@ 
 §cSilt Formation§6 [Lv. 19]@ 
 §cBubbling Mud Pile§6 [Lv. 17]@ 
 §cSlimy Swamp Zombie§6 [Lv. 21]@ 
 §cRat§6 [Lv. 3]@ 
-§f§lLlevigar Entrance@ 
-§f§lLlevigar@ 
 §cDark Wight§6 [Lv. 68]@ 
 §cDungMerch§6 [Lv. 85]@ 
 ThNo@ 
-§f§lTime Valley@ 
 §cTimelost Adventurer§6 [Lv. 15]@ 
 §cAncient Guardian§6 [Lv. 18]@ 
 §cValley Wanderer§6 [Lv. 12]@ 
@@ -480,7 +403,6 @@ fotfparticle1@
 §cMountain Zombie§6 [Lv. 45]@ 
 §cCorrupt Coal Miner§6 [Lv. 45]@ 
 §cCorrupted Foreman§6 [Lv. 50]@ 
-§f§lLusuco@ 
 §cZombie Warrior§6 [Lv. 44]@ 
 §cFallen Knight§6 [Lv. 48]@ 
 §cFrozen Iron Golem§6 [Lv. 47]@ 
@@ -492,15 +414,12 @@ imaxenetherfireball@
 §cCorruption Sludgeling§6 [Lv. 45]@ 
 §cPhantom Twain§6 [Lv. 50]@ 
 §cLost Soul§6 [Lv. 49]@ 
-§6§lPrison of Souls@ 
 §cFrozen Spirit§6 [Lv. 43]@ 
-§f§lTwain Lake@ 
 §cWater Phantom§6 [Lv. 47]@ 
 §cDisembodied Head§6 [Lv. 44]@ 
 imaxenesaakstorm@ 
 §cCavalry Specter§6 [Lv. 46]@ 
 mobTwoChecker@ 
-§f§lTwain Mansion@ 
 mobThreeChecker@ 
 §cHowling Phantom§6 [Lv. 50]@ 
 §cPhantom§6 [Lv. 48]@ 
@@ -591,7 +510,6 @@ RaveWEXBMarker@
 §cEvil Eye§6 [Lv. 50]@ 
 §cDemon's Eye§6 [Lv. 55]@ 
 §cShivering Skeleton§6 [Lv. 46]@ 
-§f§lNesaak Bridge Transition@ 
 §cRaging Bandit§6 [Lv. 50]@ 
 §cJon The Hermit§6 [Lv. 42]@ 
 §cFreezing Bandit§6 [Lv. 45]@ 
@@ -602,27 +520,21 @@ RaveWEXBMarker@
 §cFrost Bandit§6 [Lv. 46]@ 
 §cFrozen Bandit§6 [Lv. 45]@ 
 §cBridge Archer§6 [Lv. 55]@ 
-§f§lGreat Bridge Jungle@ 
 §cIboju Exile§6 [Lv. 54]@ 
 §cFlicker Frog§6 [Lv. 50]@ 
 §cTribe Zombie§6 [Lv. 51]@ 
-§f§lJungle Lower@ 
 §cCursed Slingra Sheep§6 [Lv. 53]@ 
 §cJungle Slime§6 [Lv. 51]@ 
 §cJungle Slime§6 [Lv. 52]@ 
 §cSlimey Slayer§6 [Lv. 66]@ 
 §cCharged Egg§6 [Lv. 52]@ 
 §cThunder Grub§6 [Lv. 52]@ 
-§f§lJungle Mid@ 
 §cRotten Zombie§6 [Lv. 52]@ 
 §cTribal Fetish§6 [Lv. 64]@ 
-§6§lTribal Sanctuary@ 
 §cFetish Shaman§6 [Lv. 66]@ 
 §cNewly-formed Slime§6 [Lv. 50]@ 
 §cDeceased Warrior§6 [Lv. 63]@ 
 §cSoaked Zombie§6 [Lv. 53]@ 
-§2§fJungle Native@ 
-§f§lJungle Upper@ 
 §cHerb Spawn§6 [Lv. 59]@ 
 §cCarnadile§6 [Lv. 51]@ 
 §cJungle Slime§6 [Lv. 45]@ 
@@ -631,9 +543,7 @@ RaveWEXBMarker@
 §cJungle Fetish§6 [Lv. 53]@ 
 §cDead Miner§6 [Lv. 64]@ 
 §cHerb Spawn§6 [Lv. 63]@ 
-§f§lJungle Lake@ 
 §cNether Fiend§6 [Lv. 62]@ 
-§f§lCity of Troms@ 
 §cMagic Table§6 [Lv. 67]@ 
 §cYahya`s Apprentice§6 [Lv. 55]@ 
 §cDust§6 [Lv. 67]@ 
@@ -650,17 +560,13 @@ Google Chrome@
 §cPhoenix§6 [Lv. 85]@ 
 §cCanyon Fleris§6 [Lv. 84]@ 
 §cTroll Hunter§6 [Lv. 81]@ 
-§f§lPath To Ozoth’s Spire Lower@ 
 §cBaby Dragon§6 [Lv. 83]@ 
-§f§lThanos@ 
 §cJinko Bandito§6 [Lv. 83]@ 
 §cJinko Cub§6 [Lv. 81]@ 
 §cJinko Shanker§6 [Lv. 86]@ 
 §cImp Thief§6 [Lv. 82]@ 
 §cBugbear Raider§6 [Lv. 82]@ 
 §cBugbear Soldier§6 [Lv. 80]@ 
-§f§lMilitary Base@ 
-§f§lMilitary Base Upper@ 
 §cStone-Throwing Troll§6 [Lv. 83]@ 
 §cCave Troll§6 [Lv. 84]@ 
 §cTroll Minion§6 [Lv. 90]@ 
@@ -700,31 +606,23 @@ Icicle@
 §cRazorouse§6 [Lv. 75]@ 
 §cFleshed Statuette§6 [Lv. 78]@ 
 PigeonSticker_@ 
-§f§lCinfras’s Small Farm@ 
 §cOvergrown Sentinel§6 [Lv. 78]@ 
 §cStone Sentinel§6 [Lv. 78]@ 
 §cObsidian Sentinel§6 [Lv. 78]@ 
 §cInfestating Silver Rat§6 [Lv. 72]@ 
-§f§lPlains Lake@ 
 §cChamber Lurker§6 [Lv. 23]@ 
-§f§lMine Base Plains@ 
 §cTunnel Spider§6 [Lv. 23]@ 
 §cGiant Termite§6 [Lv. 21]@ 
 §cAncient Priest§6 [Lv. 25]@ 
 §cCorrupted Miner§6 [Lv. 26]@ 
-§f§lAngry Village@ 
-§f§lNesaak Transition@ 
-§f§lNesaak Plains North East@ 
 §cFrozen Berserker§6 [Lv. 47]@ 
 §cSnow Owl§6 [Lv. 45]@ 
 §cIce Zombie§6 [Lv. 43]@ 
 §cFrostbite§6 [Lv. 45]@ 
 §cFrozen Nesaak Citizen§6 [Lv. 42]@ 
-§f§lNesaak Plains South West@ 
 §cSnow Zombie§6 [Lv. 43]@ 
 §cIcy Wolf§6 [Lv. 47]@ 
 §cHailstorm§6 [Lv. 47]@ 
-§f§lNesaak Plains Mid North West@ 
 §cRotten Woodcutter§6 [Lv. 39]@ 
 §cDark Cultist§6 [Lv. 20]@ 
 §cDark Cultist§6 [Lv. 18]@ 
@@ -734,15 +632,12 @@ PigeonSticker_@
 §cCorrupted Sentinel§6 [Lv. 47]@ 
 §cGhost The Direwolf§6 [Lv. 38]@ 
 §cEgg Guardian§6 [Lv. 65]@ 
-§f§lSelchar@ 
 §cBoss Altar@ 
 §cRoaming Zombie§6 [Lv. 20]@ 
-§f§lMt. Wynn@ 
 §cRock Thrower§6 [Lv. 17]@ 
 §cRuin Golem§6 [Lv. 27]@ 
 §cUndead Spearman§6 [Lv. 60]@ 
 §cUndead Firespewer§6 [Lv. 62]@ 
-§f§lRagni Plains@ 
 fid_code@ 
 fid_count@ 
 pf_noSpam@ 
@@ -760,12 +655,10 @@ keyDrop@
 §cRotten Zombie§6 [Lv. 56]@ 
 §c✕ §71 §8- §2✔ §a2 §8- §c✕ §73@ 
 §c✕ §71 §8- §2✔ §a2 §8- §2✔ §a3@ 
-§f§lDetlas Savannah Transition@ 
 §cCultist§6 [Lv. 15]@ 
 §cFirefly§6 [Lv. 15]@ 
 §cFungal Knight§6 [Lv. 12]@ 
 §cSpore Launcher§6 [Lv. 12]@ 
-§f§lTernaves@ 
 §cRebel Cow§6 [Lv. 35]@ 
 §cSentient Polypore§6 [Lv. 15]@ 
 ThLauraAnim@ 
@@ -803,24 +696,19 @@ Count@
 §723/25@ 
 §724/25@ 
 §725/25@ 
-§f§lCinfras County Upper@ 
 §cBandit Guard Dog§6 [Lv. 78]@ 
 §cBandit Stalker§6 [Lv. 78]@ 
 §cBandit Squad Leader§6 [Lv. 78]@ 
-§f§lGylia Lake South East@ 
 §cShark Warrior§6 [Lv. 76]@ 
 §cSharkshooter§6 [Lv. 76]@ 
-§f§lGylia Lake North East@ 
 @ 
 @ 
-§f§lJitak’s Farm@ 
 §cGert§6 [Lv. 78]@ 
 §cGerten Hunter§6 [Lv. 78]@ 
 §cBandit Scavenger§6 [Lv. 75]@ 
 §cBandit Sentry§6 [Lv. 75]@ 
 §cGerten Warrior§6 [Lv. 76]@ 
 §cGerten Archer§6 [Lv. 76]@ 
-§f§lOlux@ 
 §cUnclean Bones§6 [Lv. 6]@ 
 §cScavenger Beetle§6 [Lv. 37]@ 
 §cPutrid Sludge§6 [Lv. 52]@ 
@@ -829,8 +717,6 @@ Count@
 §cDecaying Corpse§6 [Lv. 45]@ 
 §cBigfoot§6 [Lv. 60]@ 
 §cCave Bat§6 [Lv. 54]@ 
-§f§lSwamp Dark Forest Transition Upper@ 
-§f§lSwamp Dark Forest Transition Mid@ 
 §cAncient Guardian§6 [Lv. 55]@ 
 §cSwamp Naga§6 [Lv. 55]@ 
 §cHanja Ranger§6 [Lv. 52]@ 
@@ -840,7 +726,6 @@ Count@
 §cFlaming Skull§6 [Lv. 60]@ 
 §cRot Wolf§6 [Lv. 61]@ 
 §cDarkloid Beetle§6 [Lv. 63]@ 
-§f§lTaproot Descent@ 
 §cPhantasm§6 [Lv. 62]@ 
 §cMeskis§6 [Lv. 71]@ 
 §cDevourer§6 [Lv. 65]@ 
@@ -850,7 +735,6 @@ Count@
 TLP_PuzzleControl@ 
 §cDark Knight§6 [Lv. 62]@ 
 §cRotting Luxroot§6 [Lv. 64]@ 
-§f§lGelibord Castle@ 
 §cChaos Elemental§6 [Lv. 64]@ 
 §cFlesh Amalgam§6 [Lv. 75]@ 
 §cConsuming Viscera§6 [Lv. 72]@ 
@@ -861,22 +745,18 @@ TLP_PuzzleControl@
 §cScleragora§6 [Lv. 74]@ 
 §cGhoul§6 [Lv. 62]@ 
 §cWrathful Shade§6 [Lv. 70]@ 
-§f§lPath To Prison@ 
 §cWerewolf§6 [Lv. 70]@ 
 §cWalgkuer§6 [Lv. 70]@ 
-§f§lShanjugin’s River@ 
 §cShanjugin§6 [Lv. 72]@ 
 §cShadow Murloc§6 [Lv. 71]@ 
 §cRevenant§6 [Lv. 71]@ 
 §cDecayed Soul§6 [Lv. 72]@ 
 §cAlpha Werewolf§6 [Lv. 72]@ 
 §cRotting Myconid§6 [Lv. 73]@ 
-§f§lGraveyard North@ 
 §cFriendly Clown§6 [Lv. 70]@ 
 §cHorseless Head§6 [Lv. 71]@ 
 §cArcane Spawn§6 [Lv. 75]@ 
 §cRestless Devourer§6 [Lv. 77]@ 
-§f§lAbandoned Tower@ 
 §cPeppered Ghost§6 [Lv. 59]@ 
 §cBandit Miner§6 [Lv. 75]@ 
 §cFerox Slime§6 [Lv. 55]@ 
@@ -946,20 +826,16 @@ TLP_PuzzleControl@
 §cSlykaar§6 [Lv. 60]@ 
 §cSlykaar§6 [Lv. 63]@ 
 §cSlime Piece§6 [Lv. 55]@ 
-§f§lGylia Lake North West@ 
 §cGerten Hunting Dog§6 [Lv. 76]@ 
 §cHungry Gert§6 [Lv. 78]@ 
 §cGerten Guard§6 [Lv. 77]@ 
 §cGerten Guard Chief§6 [Lv. 77]@ 
 §cGerten Guard Trainee§6 [Lv. 76]@ 
 §cGerten Prison Warden§6 [Lv. 80]@ 
-§f§lGert Camp@ 
 §cPU-02 Miner Patroller§6 [Lv. 85]@ 
-§f§lStatue@ 
 §cL-21 Repaired Bot§6 [Lv. 85]@ 
 §cU-03 Miner Bot§6 [Lv. 85]@ 
 §cL-22 Repaired Bot§6 [Lv. 85]@ 
-§f§lCorkus Castle@ 
 §cAstrochelys§6 [Lv. 85]@ 
 corkuscannon33@ 
 corkuscannon32@ 
@@ -994,7 +870,6 @@ corkuscannon2@
 corkuscannon18@ 
 corkuscannon3@ 
 corkuscannon1@ 
-§f§lCorkus City@ 
 §cU-45 Repaired Bot§6 [Lv. 83]@ 
 §cU-04 ClockBot§6 [Lv. 85]@ 
 §cSun God§6 [Lv. 28]@ 
@@ -1008,11 +883,7 @@ Creamie@
 §cFreezing Nether Hulk§6 [Lv. 28]@ 
 §cCorrupt IcyShard§6 [Lv. 43]@ 
 §cGiant Rat§6 [Lv. 5]@ 
-§f§lSavannah East Upper@ 
 §cWannabe Assassin§6 [Lv. 56]@ 
-§6§lPlague Laboratory@ 
-§f§lMeteor Crater@ 
-§f§lQuartz Mines South East@ 
 §cNii Slayer§6 [Lv. 75]@ 
 §cHarrowing Banshee§6 [Lv. 78]@ 
 §cMagic Mimic§6 [Lv. 80]@ 
@@ -1036,24 +907,17 @@ VPorkVillagerCorrectDetect@
 VPorkVillagerTotalDetect@ 
 §cCamp Orc Leader§6 [Lv. 63]@ 
 §cDryad§6 [Lv. 73]@ 
-§f§lLight Forest North Entrance@ 
-§f§lLight Forest West Upper@ 
-§f§lNivla Forest Exit@ 
 §cSpider-Infested Root§6 [Lv. 6]@ 
 §cSteppe-Lurker§6 [Lv. 25]@ 
 §cSavannah Ocelot§6 [Lv. 24]@ 
-§f§lKatoa Ranch@ 
 §cLarkster Pirate§6 [Lv. 4]@ 
 §cKatoa Crab§6 [Lv. 4]@ 
 §cSaw-tooth Spider§6 [Lv. 10]@ 
-§f§lDetlas Trail West Plains@ 
 §cSonimante§6 [Lv. 73]@ 
 §cMage Zombie§6 [Lv. 11]@ 
 Rare Poro@ 
 Gray Poro@ 
-§f§lLight Forest West Lower@ 
 §cVolatile Corrupter§6 [Lv. 74]@ 
-§f§lNether Plains Upper@ 
 §cRogue Nether Wight§6 [Lv. 12]@ 
 §cUnderground Zombie§6 [Lv. 15]@ 
 §cHaywire Hard Drive§6 [Lv. 48]@ 
@@ -1067,7 +931,6 @@ Gray Poro@
 §cTNT Minecart§6 [Lv. 28]@ 
 §a1§2/1@ 
 §cSpinwarp Spider§6 [Lv. 10]@ 
-§f§lRoad to Elkurn@ 
 §cRoot Golem§6 [Lv. 11]@ 
 §cRoot Brute§6 [Lv. 11]@ 
 §cBurning Root Golem§6 [Lv. 11]@ 
@@ -1080,30 +943,20 @@ RaveNivlaTPOrb@
 §cCrab§6 [Lv. 2]@ 
 §cCrab Hiding in Sand§6 [Lv. 4]@ 
 §cGreedy Zombie§6 [Lv. 8]@ 
-§f§lCoastal Trail@ 
-§2§fMaltic Citizen@ 
-§f§lMaltic@ 
 §cBig Boss Elak§6 [Lv. 47]@ 
 §cGoblin Cutter§6 [Lv. 40]@ 
 §cGoblin Skullcleaver§6 [Lv. 43]@ 
 §cGoblin Warrior§6 [Lv. 42]@ 
-§f§lOrc Road@ 
 §cOgre Skirmisher§6 [Lv. 50]@ 
 §cGoblin Underboss§6 [Lv. 44]@ 
 §cKappa Dumdy§6 [Lv. 60]@ 
 Creeper@ 
-§f§lMaltic Coast@ 
 §cCrab§6 [Lv. 4]@ 
 §cBig Boss Visbe§6 [Lv. 47]@ 
-§f§lSwamp West Lower@ 
 §cBaby Swamp Ogre§6 [Lv. 55]@ 
-§f§lSwamp East Lower@ 
 §cSpitting Frog Spirit§6 [Lv. 55]@ 
 §cSwamp Ogre§6 [Lv. 60]@ 
 RaveOrcMarker@ 
-§f§lOrc Lake@ 
-§f§lFarmers Valley@ 
-§f§lSouth Nivla Forest@ 
 Bimsiiii@ 
 §cBee Swarm§6 [Lv. 5]@ 
 RaveWarpBobSkeleton@ 
@@ -1139,10 +992,7 @@ aarondoorlocktop1@
 §cYeti Poacher§6 [Lv. 49]@ 
 §cKooko§6 [Lv. 21]@ 
 RaveFBStatue@ 
-§f§lEfelim Village@ 
-§f§lEfelim South Plains@ 
 §cCold Shadow§6 [Lv. 50]@ 
-§f§lEfelim South East Plains@ 
 §cMinotaurus Bolter§6 [Lv. 72]@ 
 §cRodoroc Citizen§6 [Lv. 94]@ 
 §cRodoroc Elite Soldier§6 [Lv. 95]@ 
@@ -1192,11 +1042,9 @@ VEyeSpell2@
 VMHSandMeteor@ 
 §cYahya - The Final Form§6 [Lv. 9001]@ 
 §cGolden Poison Frog§6 [Lv. 55]@ 
-§f§lSwamp Lower@ 
 §cCursed Silk Spider§6 [Lv. 51]@ 
 §cTribal Crocodile§6 [Lv. 52]@ 
 §cHungry Alligator§6 [Lv. 53]@ 
-§f§lCinfras Entrance@ 
 §cRat§6 [Lv. 1]@ 
 §cMinotaurus Lancer§6 [Lv. 74]@ 
 §cMinotaurus Cook§6 [Lv. 76]@ 
@@ -1206,16 +1054,11 @@ VMHSandMeteor@
 §cSwamp Troll§6 [Lv. 62]@ 
 §cThug§6 [Lv. 75]@ 
 §cMutant Rat§6 [Lv. 72]@ 
-§f§lSwamp Dark Forest Transition Lower@ 
-§f§lEntrance to Olux@ 
 §cEnraged Bull§6 [Lv. 53]@ 
-§f§lCinfras Outskirts@ 
 §cWill o Wisp§6 [Lv. 71]@ 
 §cAlligator Leader§6 [Lv. 55]@ 
 §cMadman§6 [Lv. 55]@ 
 §cFurious Fay§6 [Lv. 58]@ 
-§f§lLight Forest Canyon@ 
-§f§lLight Realm Entrance@ 
 §cGlowing Beetle§6 [Lv. 77]@ 
 §cFungal Sprite§6 [Lv. 75]@ 
 §cLight Wisp§6 [Lv. 76]@ 
@@ -1226,13 +1069,10 @@ VMHSandMeteor@
 rightRandomSearch@ 
 awsRandomSearch@ 
 §cPsychopath§6 [Lv. 60]@ 
-§f§lFortress North@ 
 §cCursed Villager§6 [Lv. 60]@ 
 §cCursed Farmer§6 [Lv. 60]@ 
 §cCursed Adventurer§6 [Lv. 60]@ 
 §cShadow Archer§6 [Lv. 61]@ 
-§f§lGelibord Corrupted Farm@ 
-§f§lMansion of Insanity@ 
 waterRelicPuzzle6@ 
 waterRelicPuzzle4@ 
 waterRelicPuzzle2@ 
@@ -1252,7 +1092,6 @@ RaveQuartronMarker@
 §cQuartron Left Blaster§6 [Lv. 50]@ 
 §cQuartron Right Charger§6 [Lv. 50]@ 
 §cNauter Fighter§6 [Lv. 43]@ 
-§f§lBob's Tomb@ 
 HaunterX3@ 
 Lamp@ 
 sd@ 
@@ -1305,7 +1144,6 @@ ghost1@
 §cRestless Victim§6 [Lv. 54]@ 
 §cConsuming Sludge§6 [Lv. 60]@ 
 §cMagical Flux§6 [Lv. 54]@ 
-§6§lArena of the Legends@ 
 §cAncient Iboju Shaman§6 [Lv. 68]@ 
 VBridgeParticles@ 
 VBridgePlaysound@ 
@@ -1319,9 +1157,7 @@ VBridgeSpell@
 §cAncient Nemract Resident§6 [Lv. 22]@ 
 §cMudslinger§6 [Lv. 18]@ 
 §cDrowning Fish§6 [Lv. 19]@ 
-§f§lDetlas Trail East Plains@ 
 §cDetlas Golem§6 [Lv. 50]@ 
-§f§lTernaves Plains Upper@ 
 §cDr. Essren@ 
 Poro@ 
 El Poro@ 
@@ -1333,8 +1169,6 @@ El Poro@
 §cMutineer§6 [Lv. 25]@ 
 §cBone Parasite§6 [Lv. 17]@ 
 §cUndead Commander§6 [Lv. 21]@ 
-§6§lRotten Passage@ 
-§f§lAncient Nemract@ 
 §cZombie Hiding in Bushes§6 [Lv. 18]@ 
 §cShining Urchin§6 [Lv. 28]@ 
 §cCryo-shell Crawler§6 [Lv. 38]@ 
@@ -1342,7 +1176,6 @@ El Poro@
 §cAncient Nemract Resident§6 [Lv. 20]@ 
 §cAncient Nemract Resident§6 [Lv. 23]@ 
 §cAncient Nemract Scout§6 [Lv. 25]@ 
-§f§lNemract Road@ 
 §cMud Spider§6 [Lv. 17]@ 
 §cUndead Explorer§6 [Lv. 25]@ 
 §cMud Brute§6 [Lv. 23]@ 
@@ -1373,7 +1206,6 @@ sPuzzle@
 §cTotemic Protector§6 [Lv. 40]@ 
 §cWild Coyote§6 [Lv. 34]@ 
 §cDead Cowboy§6 [Lv. 36]@ 
-§f§lRymek West Upper@ 
 §cScorched Zombie§6 [Lv. 35]@ 
 §cCorrupted Owl Fanatic§6 [Lv. 40]@ 
 §cCrazed Donkey§6 [Lv. 34]@ 
@@ -1392,18 +1224,15 @@ VEyeTotemPlaysound@
 §cUndead Miner§6 [Lv. 32]@ 
 §cTotemic Guardian§6 [Lv. 40]@ 
 §cShadow Spears Bandit§6 [Lv. 33]@ 
-§f§lRymek East Mid@ 
 §cLava Monster§6 [Lv. 38]@ 
 §cSandy Scarab§6 [Lv. 31]@ 
 §cTomb Fish§6 [Lv. 37]@ 
 §cShifting Sandpile§6 [Lv. 30]@ 
 §cRattlesnake§6 [Lv. 30]@ 
-§f§lDesert East Lower@ 
 §cRiver Locust Swarm§6 [Lv. 30]@ 
 VDaggerOnGround@ 
 §cSand Crawler§6 [Lv. 33]@ 
 §cSand Crawler§6 [Lv. 31]@ 
-§f§lDesert Mid-Lower@ 
 corpe_AlmujMoltenOrb1@ 
 cookedheck2@ 
 cookedheck1@ 
@@ -1412,7 +1241,6 @@ cookedheck1@
 §cCave Slime§6 [Lv. 31]@ 
 §cEmerald Golem§6 [Lv. 70]@ 
 §cMoldy Apple§6 [Lv. 30]@ 
-§f§lDesert West Lower@ 
 §cSand Golem§6 [Lv. 34]@ 
 §cDesert Crawler§6 [Lv. 33]@ 
 §cHighway Bandit§6 [Lv. 27]@ 
@@ -1422,11 +1250,8 @@ cookedheck1@
 §cDead Prospector§6 [Lv. 37]@ 
 §cCorrupted Ore§6 [Lv. 35]@ 
 §cCorrupted Miner§6 [Lv. 28]@ 
-§f§lAbandoned Pass@ 
-§f§lRymek West Lower@ 
 §cRymek Bandit§6 [Lv. 36]@ 
 VNecklaceDisappear2@ 
-§f§lRymek East Lower@ 
 §cCracked Husk§6 [Lv. 38]@ 
 §cWracked Husk§6 [Lv. 38]@ 
 §cEnflamed Lava Monster§6 [Lv. 40]@ 
@@ -1442,17 +1267,12 @@ deadvill1@
 §cCaptain Nomor Beard§6 [Lv. 31]@ 
 §cLunatic Interloper§6 [Lv. 34]@ 
 §cLunatic Remnant§6 [Lv. 31]@ 
-§eLunatic Devote§6 [Lv. 32]@ 
 §cLunatic Devote§6 [Lv. 32]@ 
 §cLunatic Squid§6 [Lv. 38]@ 
 1@ 
 em@ 
 §cLunar Parasite§6 [Lv. 36]@ 
-§f§lHalf Moon Island@ 
-§f§lGromblins Hideout@ 
-§6§lChallenge of the Blades@ 
 markerxc@ 
-§f§lLexdales Prison@ 
 §cVicious Guard Dog§6 [Lv. 60]@ 
 VPrisonDoor10179Playsound@ 
 §cRioting Prisoner§6 [Lv. 75]@ 
@@ -1465,14 +1285,11 @@ corpe_AlmujOrbSpinnerCounter@
 §cDesert Raider§6 [Lv. 30]@ 
 §cGooey Slime§6 [Lv. 34]@ 
 §cDesert Camel§6 [Lv. 32]@ 
-§f§lDesert Mid-Upper@ 
 VBookDoorPlaysound@ 
 §cCrystallized Miner§6 [Lv. 35]@ 
 §cDeath Worm§6 [Lv. 33]@ 
-§f§lDesert Upper@ 
 VDesertDoorPlaysound211@ 
 §cSand Juggler§6 [Lv. 34]@ 
-§f§lMummy's Tomb@ 
 §cHidden Bandit§6 [Lv. 35]@ 
 §cCrystallized Scarab§6 [Lv. 34]@ 
 §cQuicksand Carvers Bandit§6 [Lv. 34]@ 
@@ -1480,19 +1297,15 @@ VDesertDoorPlaysound211@
 §cHorror§6 [Lv. 35]@ 
 §cCrystal Fanatic§6 [Lv. 35]@ 
 §cCrystal Fanatic Leader§6 [Lv. 35]@ 
-§f§lDesert West Upper@ 
 §cFallen Soldier§6 [Lv. 36]@ 
-§f§lAlmuj City@ 
 callum18502@ 
 §cBandit§6 [Lv. 62]@ 
 §cPiranha§6 [Lv. 65]@ 
 §cMandragora§6 [Lv. 60]@ 
 §cPhrumkin Prankster§6 [Lv. 62]@ 
-§f§lPre-Light Forest Transition@ 
 §cMinotaurus Smasher§6 [Lv. 64]@ 
 §cBucca Miner§6 [Lv. 64]@ 
 §cBucca§6 [Lv. 64]@ 
-§f§lLight Forest South Exit@ 
 §cFloral Sprite§6 [Lv. 72]@ 
 §cGiant Crusher Mantis§6 [Lv. 72]@ 
 §cCursed Silk Spiderling§6 [Lv. 50]@ 
@@ -1510,12 +1323,9 @@ callum18502@
 §cSayleros' Brother's Skeleton §f▪▪▪▪▪§8▪▪§6 [Lv. 23]@ 
 §cSayleros' Brother's Skeleton §f▪▪▪▪▪▪§8▪§6 [Lv. 23]@ 
 §cSayleros' Brother's Skull §f▪▪▪▪▪▪▪§8§6 [Lv. 23]@ 
-§f§lSwamp Mountain Transition Upper@ 
-§f§lSwamp Mountain Transition Mid-Upper@ 
 §cSlime Spawn§6 [Lv. 59]@ 
 §cBaby Worm§6 [Lv. 55]@ 
 §cCorrupted Lumberjack§6 [Lv. 16]@ 
-§f§lFortress South@ 
 §cOnix Viper§6 [Lv. 69]@ 
 §cPetrified Adventurer§6 [Lv. 67]@ 
 §cDecaying Fortress Guard§6 [Lv. 65]@ 
@@ -1568,16 +1378,12 @@ callum18502@
 §cSinister Arachne§6 [Lv. 20]@ 
 §cArakadicus Child§6 [Lv. 15]@ 
 §cArakadicus§6 [Lv. 25]@ 
-§f§lSwamp West Mid-Upper@ 
 §cGanhir§6 [Lv. 60]@ 
 §cSpores§6 [Lv. 50]@ 
 §cInfungi§6 [Lv. 52]@ 
-§f§lSwamp West Upper@ 
 §cMorel§6 [Lv. 52]@ 
 §cCursed Maiden§6 [Lv. 55]@ 
 §cInfungus§6 [Lv. 52]@ 
-§f§lSwamp East Upper@ 
-§f§lSwamp East Mid-Upper@ 
 §cChip§6 [Lv. 52]@ 
 §cDonnie§6 [Lv. 52]@ 
 §cThe Cockatrice§6 [Lv. 38]@ 
@@ -1598,16 +1404,11 @@ awsGPFire@
 §cMagic Mimic§6 [Lv. 60]@ 
 §cYoung Grootslang§6 [Lv. 56]@ 
 §cSentient Vine§6 [Lv. 58]@ 
-§f§lSwamp Mountain Transition Lower@ 
 §cFlawed Iron Golem§6 [Lv. 59]@ 
-§f§lSwamp Mountain Transition Mid@ 
 §cEmbryotic Goo§6 [Lv. 55]@ 
 §cGroot Sludge§6 [Lv. 57]@ 
-§6§lSunrise Canyon@ 
-§f§lSwamp West Mid@ 
 §cRelocated Troll§6 [Lv. 54]@ 
 §cStirge§6 [Lv. 50]@ 
-§f§lSwamp East Mid@ 
 §cFeligember Frog§6 [Lv. 55]@ 
 §cNaga Fighter§6 [Lv. 56]@ 
 §cCursed Corpse§6 [Lv. 53]@ 
@@ -1630,8 +1431,6 @@ awsGPFire@
 §cThrashing Root§6 [Lv. 74]@ 
 §cDisgruntled Grook§6 [Lv. 71]@ 
 §cNosy Zhight Tourist§6 [Lv. 55]@ 
-§f§lZhight Island@ 
-§f§lMaro Peaks@ 
 §cScavenger§6 [Lv. 61]@ 
 §cMountain Ram§6 [Lv. 56]@ 
 §cScavenger§6 [Lv. 62]@ 
@@ -1654,44 +1453,26 @@ awsGPFire@
 §cPhosphorous Fisher§6 [Lv. 57]@ 
 §cSogbrush Lurker§6 [Lv. 55]@ 
 §cMagic Mimic§6 [Lv. 70]@ 
-§f§lHobbit River@ 
 §cGollier§6 [Lv. 74]@ 
-§f§lKrolton’s Cave@ 
 §cElefolk Hunter§6 [Lv. 85]@ 
 §cElefolk Warrior§6 [Lv. 87]@ 
-§f§lTemple of the Lost East@ 
-§f§lCanyon Waterfall Mid North@ 
-§f§lCanyon Fortress@ 
 §cBurnt Elefolk Warrior§6 [Lv. 87]@ 
-§f§lCanyon Survivor@ 
 §cFerocious Bear§6 [Lv. 90]@ 
 §cSlime- Infested Miner§6 [Lv. 85]@ 
 §cDementor§6 [Lv. 88]@ 
-§f§lCanyon Lower South East@ 
 §cTower Troll§6 [Lv. 86]@ 
 §cCyclops§6 [Lv. 84]@ 
 §cBurning Soul§6 [Lv. 89]@ 
-§f§lValley of the Lost@ 
-§f§lCliff Side of the Lost@ 
-§f§lCanyon Dropoff@ 
-§f§lMountain Path@ 
-§f§lCanyon Waterfall North@ 
-§f§lCanyon Upper North West@ 
 §cAngered Spore§6 [Lv. 83]@ 
-§f§lAir Temple Upper@ 
-§f§lCliffside Lake@ 
 §cHobgoblin Miner§6 [Lv. 83]@ 
 §cCave Hobgoblin§6 [Lv. 82]@ 
 §cHobgoblin Demolition§6 [Lv. 82]@ 
-§f§lKandon Farm@ 
 §cGargoyle§6 [Lv. 87]@ 
 §cEarth Borer Beetle§6 [Lv. 84]@ 
 §cRock Bagworm§6 [Lv. 86]@ 
-§f§lCliffside Passage@ 
 §cRock Entity§6 [Lv. 85]@ 
 §cRock Entity§6 [Lv. 83]@ 
 §cAdventuring Skyraider§6 [Lv. 99]@ 
-§f§lEltom@ 
 Progress@ 
 vittupaska@ 
 CCrater@ 
@@ -1702,7 +1483,6 @@ jormalaisenpaska@
 §cGuard Golem§6 [Lv. 53]@ 
 §cSurgeon§6 [Lv. 50]@ 
 §cFactory Worker§6 [Lv. 58]@ 
-§f§lLittle Wood@ 
 Lechuga@ 
 §cBeach Crab§6 [Lv. 23]@ 
 §cDrunk Captain§6 [Lv. 28]@ 
@@ -1713,10 +1493,7 @@ Lechuga@
 §cTiderider Squid§6 [Lv. 28]@ 
 §cWave Raiser§6 [Lv. 35]@ 
 §cStorm Shaker§6 [Lv. 32]@ 
-§f§lNodguj Nation@ 
 §cViking Infiltrator§6 [Lv. 40]@ 
-§f§lDujgon Nation@ 
-§f§lSkiens Island@ 
 §cSkien's Bomber§6 [Lv. 56]@ 
 §cDead Pirate§6 [Lv. 45]@ 
 §cRotten Deckhand§6 [Lv. 46]@ 
@@ -1737,10 +1514,8 @@ Lechuga@
 §cIcy Ranger§6 [Lv. 40]@ 
 §cFrosted Shaman§6 [Lv. 41]@ 
 §cCatapult Operator§6 [Lv. 43]@ 
-§f§lSanta's Hideout@ 
 §cDrowned Sarnfic Citizen§6 [Lv. 63]@ 
 §cLion Master§6 [Lv. 35]@ 
-§f§lBremminglar@ 
 §cSky Flux§6 [Lv. 68]@ 
 PP@ 
 §cCrystalline Deity§6 [Lv. 28]@ 
@@ -1773,7 +1548,6 @@ xtilbo@
 §cBlood Imp§6 [Lv. 64]@ 
 §cPoltergeist§6 [Lv. 66]@ 
 §cRed Scale Spider§6 [Lv. 60]@ 
-§f§lTwisted Housing@ 
 §cElemental Miasma§6 [Lv. 66]@ 
 §cWandering Memory§6 [Lv. 70]@ 
 §cLament of Sorrow§6 [Lv. 69]@ 
@@ -1791,7 +1565,6 @@ kidNoteblock@
 §cArmored Training Dummy§6 [Lv. 91]@ 
 §cAnimated Training Dummy§6 [Lv. 86]@ 
 §cAssassin Training Dummy§6 [Lv. 80]@ 
-§f§lOrc Battlegrounds@ 
 TargetBlock@ 
 PlayerBlock@ 
 MissCaritat@ 
@@ -1827,7 +1600,6 @@ DemonicCaritat@
 §c§l1:52@ 
 §c§l1:51@ 
 §c✕ §71 §8- §c✕ §72 §8- §2✔ §a3@ 
-§f§lLion Lair@ 
 §cBloodweb Spider Broody§6 [Lv. 45]@ 
 §cMagic Mimic§6 [Lv. 50]@ 
 §cPride Male Lion§6 [Lv. 37]@ 
@@ -1859,7 +1631,6 @@ Cybul@
 §cDreadful Torture§6 [Lv. 93]@ 
 §cSpirit of Makai§6 [Lv. 94]@ 
 §cTwisted Soul§6 [Lv. 95]@ 
-§f§lLlevigar Gate East@ 
 §cNecronomicon§6 [Lv. 96]@ 
 §cDevouring Wraith§6 [Lv. 97]@ 
 §cBloodthirsty Wyvern§6 [Lv. 98]@ 
@@ -1869,10 +1640,8 @@ Cybul@
 §cAncient Watcher§6 [Lv. 102]@ 
 §cCrystal Templar§6 [Lv. 103]@ 
 §cAnimancer§6 [Lv. 104]@ 
-§f§lOrphion's Seal Upper@ 
 §cFragmented Soul§6 [Lv. 105]@ 
 §cGemstone Behemoth§6 [Lv. 106]@ 
-§f§lDark Forest Cinfras Transition@ 
 §cRunic Avatar§6 [Lv. 107]@ 
 §cMaleficus§6 [Lv. 108]@ 
 §cCorrupted Raider§6 [Lv. 43]@ 
@@ -1884,7 +1653,6 @@ Cybul@
 §cBaby Yeti§6 [Lv. 40]@ 
 §cDire Wolf§6 [Lv. 46]@ 
 §cIce Elemental§6 [Lv. 45]@ 
-§f§lIcy Descent@ 
 §cGlacial Golem§6 [Lv. 50]@ 
 §cFrost Golem§6 [Lv. 50]@ 
 §cWinter Ram§6 [Lv. 41]@ 
@@ -1895,8 +1663,6 @@ peppupersepano@
 §cExplosive Boulder§6 [Lv. 40]@ 
 RaveGGDoorTP1@ 
 RaveGGDoorRise@ 
-§f§lLost Atoll@ 
-§f§lPirate Town@ 
 merkiblooperdooper@ 
 CraterTrap3@ 
 CraterTrap4@ 
@@ -1923,19 +1689,14 @@ piraattipuhemies@
 §cLuu Luu Snake§6 [Lv. 95]@ 
 §cPernix Monkey§6 [Lv. 88]@ 
 §cAstrochelys Manis§6 [Lv. 95]@ 
-§f§lCorkus Outskirts@ 
 §cPernix Monkey§6 [Lv. 92]@ 
 §cOutlaw§6 [Lv. 85]@ 
 §cTurret§6 [Lv. 1]@ 
 §cKing Crab§6 [Lv. 85]@ 
 §cEnraged Polar Bear§6 [Lv. 44]@ 
-§f§lNesaak Plains South East@ 
-§2§fNesaak Citizen@ 
-§f§lNesaak Village@ 
 VTheorickStaffPlaysound@ 
 theoricktwainstaff1@ 
 DunneBoktor!@ 
-§f§lGelibord@ 
 §cPrismatic Geode§6 [Lv. 70]@ 
 §cBone Juggler§6 [Lv. 61]@ 
 §cRelic Guardian§6 [Lv. 35]@ 
@@ -1946,8 +1707,6 @@ DunneBoktor!@
 §cSoul of Referick§6 [Lv. 28]@ 
 §cAbyssal Knight§6 [Lv. 65]@ 
 §cChained Spirit§6 [Lv. 62]@ 
-§f§lLone Farmstead@ 
-§f§lAbandoned Church@ 
 §cVengeful Spirit§6 [Lv. 63]@ 
 §cPoltergeist§6 [Lv. 65]@ 
 §cHantergeist§6 [Lv. 71]@ 
@@ -2088,7 +1847,6 @@ UndericeFishRandomizer@
 §cNether Magma Slime§6 [Lv. 27]@ 
 §cZombster§6 [Lv. 15]@ 
 §cLava Infused Miner§6 [Lv. 19]@ 
-§f§lNether Plains Lower@ 
 §cArien Beetle§6 [Lv. 45]@ 
 §cBear Cub§6 [Lv. 46]@ 
 §cOrc Sentinel§6 [Lv. 45]@ 
@@ -2103,12 +1861,10 @@ UndericeFishRandomizer@
 §cGoblin Sharpshooter§6 [Lv. 40]@ 
 §cGlacial Penguin§6 [Lv. 48]@ 
 §cSpider of Eira§6 [Lv. 49]@ 
-§f§lLlevigar Plains West Lower@ 
 §cMutated Star Thief§6 [Lv. 46]@ 
 §cMutated Skull§6 [Lv. 41]@ 
 §cBloodweb Spider Swarm§6 [Lv. 42]@ 
 §cLlevigar Wild Horse§6 [Lv. 40]@ 
-§f§lLlevigar Farm Plains East@ 
 Choco@ 
 §cBig Boss Dolg§6 [Lv. 47]@ 
 §cCorrupted Spirit§6 [Lv. 24]@ 
@@ -2121,7 +1877,6 @@ aaronboulder3@
 §cAnimated Ore§6 [Lv. 44]@ 
 §cInsane Thief§6 [Lv. 45]@ 
 §cMeteoric Energy§6 [Lv. 43]@ 
-§f§lDesert East Mid@ 
 §cInsect§6 [Lv. 29]@ 
 cookedsword1@ 
 RaveSwordDiscMarker@ 
@@ -2148,14 +1903,9 @@ RaveSwordDiscDoor1@
 §cVulcini§6 [Lv. 55]@ 
 rixk@ 
 GregTheDragon@ 
-§f§lGylia Lake South West@ 
-§f§lPath To Thanos@ 
-§f§lBandit Cave Lower@ 
 §cBandit Watcher§6 [Lv. 87]@ 
 §cGold Bandit§6 [Lv. 86]@ 
 §cShady Coal Miner§6 [Lv. 85]@ 
-§f§lBurning Airship@ 
-§f§lBandit Cave Upper@ 
 §cBandit Ranger§6 [Lv. 81]@ 
 §cRocky Slime§6 [Lv. 82]@ 
 §cCharging Minotaur§6 [Lv. 87]@ 
@@ -2163,25 +1913,16 @@ GregTheDragon@
 §cDevourer Squid§6 [Lv. 83]@ 
 §cCanyon Thug§6 [Lv. 85]@ 
 §cSticky Nectar Essence§6 [Lv. 84]@ 
-§f§lBandit Camp Exit@ 
-§f§lCanyon Mountain East@ 
 btg_corpse@ 
 §cBig Razorouse§6 [Lv. 54]@ 
-§f§lCanyon Valley South@ 
 §cBandit Houndmaster§6 [Lv. 83]@ 
 §cBandit Brawler§6 [Lv. 83]@ 
 §cBandit Ambusher§6 [Lv. 83]@ 
 §cBandit Trickster§6 [Lv. 83]@ 
 §cCrystal Focus§6 [Lv. 125]@ 
 §cMagical Disturbance§6 [Lv. 125]@ 
-§f§lPath To Ozoth’s Spire Upper@ 
-§f§lBurning Farm@ 
-§f§lCanyon Path North West@ 
-§f§lGhostly Path@ 
 §cAiluropoda Warrior§6 [Lv. 88]@ 
 §cAiluropoda Shaman§6 [Lv. 86]@ 
-§f§lPath To The Arch@ 
-§f§lCanyon Path South East@ 
 §cCongealed Blood§6 [Lv. 80]@ 
 §cCanyon Ooze§6 [Lv. 80]@ 
 §cMolten Man§6 [Lv. 85]@ 
@@ -2192,38 +1933,30 @@ btg_corpse@
 §cOgre Warhulk§6 [Lv. 84]@ 
 §cOgre Thug§6 [Lv. 84]@ 
 Rockslide3_4@ 
-§f§lAir Temple Lower@ 
 Rockslide3_1@ 
 Rockslide3_2@ 
 Rockslide3_3@ 
 §cTroll Savage§6 [Lv. 82]@ 
 §cIfrit§6 [Lv. 88]@ 
-§f§lCliffside Valley@ 
 Rockslide2_1@ 
 §cVoltaic Animant§6 [Lv. 82]@ 
 §cVoltaic Animant§6 [Lv. 81]@ 
 §cSpear Gargoyle§6 [Lv. 87]@ 
 §cDestroyed Gargoyle§6 [Lv. 82]@ 
-§f§lCanyon Of The Lost@ 
 §cSubterrane Bandit§6 [Lv. 85]@ 
 lab3particles@ 
 Rockslide2_2@ 
 Rockslide2_3@ 
 Rockslide2_4@ 
-§f§lCliffside Waterfall@ 
 §cHarpy§6 [Lv. 83]@ 
 §cPurple Worm§6 [Lv. 82]@ 
 §cRoper§6 [Lv. 80]@ 
-§f§lEntrance to Thesead South@ 
 §cShimmer Moth§6 [Lv. 85]@ 
-§f§lEntrance to Thesead North@ 
 treter@ 
 lab3puz@ 
 lab3chicken@ 
 ParticleCreater@ 
 §cOgre Mage§6 [Lv. 83]@ 
-§f§lThesead@ 
-§2§fThesead Citizen@ 
 §cTroll Sharpshooter§6 [Lv. 82]@ 
 §cRebel Miner Marksman§6 [Lv. 90]@ 
 §cRebel Miner§6 [Lv. 90]@ 
@@ -2245,22 +1978,15 @@ coop4@
 §cSandstorm Vandals Bandit Gertrude§6 [Lv. 36]@ 
 §cSandstorm Vandals Bandit Joe§6 [Lv. 36]@ 
 §cSandstorm Vandals Bandit Knox§6 [Lv. 36]@ 
-§f§lRooster Island@ 
 §cCluckles§6 [Lv. 26]@ 
-§f§lAldorei Lowlands@ 
 §cPotato Imp§6 [Lv. 24]@ 
 §cHurricane§6 [Lv. 63]@ 
-§f§lAnimal Bridge@ 
-§f§lNesaak Plains Upper North West@ 
 §cWild Snow Wolf§6 [Lv. 41]@ 
 §cSnow Golem§6 [Lv. 43]@ 
 §c§dPig Puck§6 [Lv. 1]@ 
-§f§lElkurn Fields@ 
-§f§lSavannah West Upper@ 
 §cDrowning Squid§6 [Lv. 16]@ 
 §cSea Cockroach§6 [Lv. 17]@ 
 §cDry Coral Reef§6 [Lv. 18]@ 
-§f§lThe Bear Zoo@ 
 §cOld Bear§6 [Lv. 15]@ 
 §cUndead Noble Warrior§6 [Lv. 24]@ 
 §cAngry Bovemist Spirit§6 [Lv. 22]@ 
@@ -2309,11 +2035,9 @@ Testerb@
 §cMask Guard§6 [Lv. 23]@ 
 §cMiner Chef§6 [Lv. 5]@ 
 §cAncient Nemract Soldier§6 [Lv. 25]@ 
-§f§lElkurn@ 
 DrBracekeyhole1@ 
 §cLedant Queen§6 [Lv. 75]@ 
 §cNether Blaze§6 [Lv. 26]@ 
-§f§lNether Gate@ 
 §cBlack Bat§6 [Lv. 20]@ 
 RaveKH1Ande@ 
 RaveKH2Ande@ 
@@ -2327,7 +2051,6 @@ RaveKH2Circ@
 CorpseParty3@ 
 §cGorgu§6 [Lv. 70]@ 
 §cSandshorn Skeleton§6 [Lv. 32]@ 
-§f§lDesert East Upper@ 
 §cCommander Takan§6 [Lv. 30]@ 
 §cSmoke Demon§6 [Lv. 53]@ 
 §cCursed Ashes§6 [Lv. 56]@ 
@@ -2436,7 +2159,6 @@ RaveGGCannonBall@
 §a0§2/2@ 
 §a1§2/2@ 
 §a2§2/2@ 
-§f§lIcy Island@ 
 §cPirate Cannoneer§6 [Lv. 65]@ 
 §cRedbeard§6 [Lv. 75]@ 
 §cSkeletal Pirate§6 [Lv. 65]@ 
@@ -2457,19 +2179,15 @@ Beezlebub@
 Mark Zuckerberg@ 
 §cTreasure Guardian§6 [Lv. 70]@ 
 §cTrainer§6 [Lv. 70]@ 
-§f§lTree Island@ 
 §cSliding Gravel§6 [Lv. 17]@ 
 §cPhoenix Spear@ 
 §cAncient Nemract Resident§6 [Lv. 24]@ 
 §cAncient Nemract Resident§6 [Lv. 12]@ 
 §cRotten Skeleton§6 [Lv. 28]@ 
 ThKittenVanish@ 
-§f§lDurum Isles Center@ 
 @ 
 @ 
 vitunpaska@ 
-§6§lBovine Barn@ 
-§f§lDurum Isles East@ 
 §cDurum Protector§6 [Lv. 25]@ 
 §cGuardian Scarecrow§6 [Lv. 20]@ 
 §cRotten Necromancer§6 [Lv. 31]@ 
@@ -2489,7 +2207,6 @@ ThKittenParticle@
 RaveCorRootsCounter@ 
 §cCorrupted Emerald Miner§6 [Lv. 27]@ 
 CorpseParty2@ 
-§f§lCorrupted Road@ 
 §cMagic Essence§6 [Lv. 79]@ 
 §cWater Spirit§6 [Lv. 78]@ 
 §cLake Guardian§6 [Lv. 80]@ 
@@ -2506,7 +2223,6 @@ CorpseParty2@
 §cElven Druid§6 [Lv. 79]@ 
 §cTree Protector§6 [Lv. 79]@ 
 §cGuardian Spirit§6 [Lv. 79]@ 
-§f§lCinfras County Lower@ 
 §cEmbassy Guard§6 [Lv. 77]@ 
 §cEmbassy Druid§6 [Lv. 79]@ 
 §cEmbassy Sorcerer§6 [Lv. 79]@ 
@@ -2528,7 +2244,6 @@ DuKan@
 §cDustling§6 [Lv. 38]@ 
 §cLimestone Jackal§6 [Lv. 39]@ 
 §cShambler§6 [Lv. 38]@ 
-§f§lAldorei’s Arch@ 
 BTG_DeathStare@ 
 BTG_TheHaunted@ 
 BTG_TheHauntedScare@ 
@@ -2554,7 +2269,6 @@ UndericeFish3@
 §cGritty Zombie§6 [Lv. 33]@ 
 §cSandstorm Vandals Bandit Hilda§6 [Lv. 36]@ 
 §cTanned Sunfish§6 [Lv. 68]@ 
-§f§lJofash Docks@ 
 §cCoconut Crustacean§6 [Lv. 68]@ 
 §cFeral Goat§6 [Lv. 70]@ 
 §cCaptain Goldenclaw§6 [Lv. 100]@ 
@@ -2572,12 +2286,10 @@ UndericeFish3@
 §cPeculiar One§6 [Lv. 91]@ 
 §cOtherworldly Inhabitant§6 [Lv. 92]@ 
 §cDissappearing Shadow§6 [Lv. 93]@ 
-§f§lMining Base Upper@ 
 RaveAMElevator@ 
 §cCorrupted Cave Miner§6 [Lv. 26]@ 
 §cMine Crawler§6 [Lv. 25]@ 
 §cMoving Minecart§6 [Lv. 29]@ 
-§f§lTernaves Plains Lower@ 
 §cGromblin§6 [Lv. 73]@ 
 §cNesting Spider§6 [Lv. 70]@ 
 §cForest Spider§6 [Lv. 65]@ 
@@ -2588,36 +2300,26 @@ RaveAMElevator@
 §cDragon Egg§6 [Lv. 20]@ 
 §cDragonling Whelp§6 [Lv. 100]@ 
 §cStormscarred Miner§6 [Lv. 96]@ 
-§f§lSwamp Island@ 
-§f§lAhmsord Outskirts@ 
 §cAngel Of Wind§6 [Lv. 98]@ 
 §cAngel Of War§6 [Lv. 99]@ 
 Snail@ 
-§f§lAstraulus' Tower@ 
-§f§lMolten Reach@ 
-§f§lSnail Island@ 
 §cAngel Of Nature§6 [Lv. 100]@ 
 §cYouthful Angel§6 [Lv. 97]@ 
 §cKaian Watcher§6 [Lv. 97]@ 
-§eKaian Sorcerer§6 [Lv. 99]@ 
 §cKaian Observer§6 [Lv. 100]@ 
 §cAngel Of Agony §f▪§8▪▪▪§6 [Lv. 96]@ 
-§f§lTemple Island@ 
 §cFurious Angel Of Agony §f▪▪§8▪▪§6 [Lv. 97]@ 
 §cEnraged Angel Of Agony §f▪▪▪§8▪§6 [Lv. 98]@ 
-§f§lLegendary Island@ 
 §cAttacker Mech T4N11§6 [Lv. 83]@ 
 §cMarsufosa Cephalargia§6 [Lv. 90]@ 
 §cAstrochelys Mordeo§6 [Lv. 95]@ 
 §cH-216 War Machine§6 [Lv. 90]@ 
 §cWild Marsufosa§6 [Lv. 90]@ 
 §cCorkus Bandit§6 [Lv. 85]@ 
-§f§lRoad To Mine@ 
 MAParticle1@ 
 §cCortrich§6 [Lv. 83]@ 
 §cRotting Human§6 [Lv. 35]@ 
 §cDesperate Man§6 [Lv. 33]@ 
-§f§lSavannah East Lower@ 
 §cMountain Owl§6 [Lv. 33]@ 
 §cBig Snow Rabbit§6 [Lv. 33]@ 
 §cPenguin§6 [Lv. 33]@ 
@@ -2665,10 +2367,8 @@ Suicidal Machine@
 §cFlaming Skeleton§6 [Lv. 72]@ 
 §cCorrupted Witherhead Spawn§6 [Lv. 70]@ 
 §cCorrupted Witherhead§6 [Lv. 80]@ 
-§f§lCanyon Walk Way@ 
 §cPlasmatic Shellwalker§6 [Lv. 88]@ 
 §cPlasmatic Shambler§6 [Lv. 86]@ 
-§f§lThanos Exit Upper@ 
 Rockslide1_4@ 
 Rockslide1_3@ 
 Rockslide1_2@ 
@@ -2710,7 +2410,6 @@ FEETX@
 §cHexed Gem-Parasite§6 [Lv. 62]@ 
 SkiensDoor@ 
 §cSewer Rat§6 [Lv. 82]@ 
-§f§lMilitary Base Lower@ 
 ArrowTrigger@ 
 §cCorpus Accipientis §f▪§8▪▪▪§6 [Lv. 90]@ 
 §cCorpus Accipientis §f▪▪§8▪▪§6 [Lv. 90]@ 
@@ -2721,8 +2420,6 @@ ArrowTrigger@
 §cHive Droneling§6 [Lv. 79]@ 
 §cYoung Hive Drone§6 [Lv. 82]@ 
 §cHive Scuttler§6 [Lv. 81]@ 
-§f§lThanos Valley West@ 
-§f§lHive@ 
 §cHive Scuttler§6 [Lv. 80]@ 
 §cElecculent§6 [Lv. 80]@ 
 §cShamba Bandia§6 [Lv. 81]@ 
@@ -2841,7 +2538,6 @@ BraceMHcount@
 §cPsychomancer§6 [Lv. 95]@ 
 §cSwallowed Adventurer§6 [Lv. 83]@ 
 §cDragon Flame§6 [Lv. 82]@ 
-§f§lPhinas Farm@ 
 §cHot Steam§6 [Lv. 85]@ 
 §cSteam Mech-DM1§6 [Lv. 85]@ 
 §cParasite§6 [Lv. 83]@ 
@@ -2858,13 +2554,9 @@ RaveWaterCenter@
 RaveWaterFx@ 
 CraterWater4@ 
 RaveWaterClone@ 
-§f§lCanyon High Path@ 
-§f§lHive South@ 
 §cDeserter Arbalest§6 [Lv. 85]@ 
 §cDeserter Marauder§6 [Lv. 85]@ 
-§f§lCherry Blossom Forest@ 
 §cGorgon§6 [Lv. 80]@ 
-§eCyclops§6 [Lv. 84]@ 
 §cWerecat§6 [Lv. 84]@ 
 RaveWaterPath@ 
 §cIntelligent Mech-DM3 §6 [Lv. 86]@ 
@@ -2875,8 +2567,6 @@ RaveWaterPath@
 §cArrow Trap§6 [Lv. 86]@ 
 §cSecurity Bot§6 [Lv. 86]@ 
 §cBig Boss Mech-DM666§6 [Lv. 90]@ 
-§f§lThesead Suburbs@ 
-§f§lRanol’s Farm@ 
 §cHarpy Rockthrower§6 [Lv. 83]@ 
 §cMountain Harpy§6 [Lv. 83]@ 
 §cWater Whirler§6 [Lv. 85]@ 
@@ -2884,8 +2574,6 @@ RaveWaterPath@
 §cMagic Mimic§6 [Lv. 90]@ 
 §cShard Shooter§6 [Lv. 85]@ 
 §cDeserter Mauler§6 [Lv. 85]@ 
-§f§lCorkus Abandoned Tower@ 
-§6§lAerie of the Recluse@ 
 §cAvos§6 [Lv. 93]@ 
 §cGravel Golem§6 [Lv. 89]@ 
 §cAnimated Nature Totem§6 [Lv. 89]@ 
@@ -2983,7 +2671,6 @@ IzyTur's Slave@
 §cDestrachan§6 [Lv. 89]@ 
 §cDevouring Destrachan§6 [Lv. 90]@ 
 §cHellkite§6 [Lv. 90]@ 
-§f§lLava Lake Bridge@ 
 §cHell Avem§6 [Lv. 93]@ 
 VDragonDoorPlaysound@ 
 §cCharring Minotaur§6 [Lv. 89]@ 
@@ -2997,13 +2684,9 @@ VDragonDoorPlaysound@
 §cSalamander Painbringer§6 [Lv. 90]@ 
 §cHowling Salamander§6 [Lv. 89]@ 
 §cDraconic Wizard§6 [Lv. 95]@ 
-§f§lEntrance to Rodoroc@ 
 §cPhoenix Hatchling§6 [Lv. 90]@ 
 §cEnraged Fanatic§6 [Lv. 84]@ 
-§f§lBandits Toll@ 
-§f§lWizard Tower North@ 
 §cFlareling§6 [Lv. 87]@ 
-§f§lRodoroc@ 
 §cRattling Mage Remains§6 [Lv. 3]@ 
 Line1Cow@ 
 Line2Cow@ 
@@ -3025,14 +2708,10 @@ Line2Cow@
 §cH-212 War Machine§6 [Lv. 95]@ 
 §cH-101 War Machine§6 [Lv. 90]@ 
 §cS-38 Stealth Bot§6 [Lv. 95]@ 
-§f§lFallen Factory@ 
 §cUnstable Geyser§6 [Lv. 1]@ 
 §cU-05 Miner Bot§6 [Lv. 85]@ 
-§f§lCorkus Countryside@ 
 §cOutlaw Skirmisher§6 [Lv. 90]@ 
 §cOutlaw Berserker§6 [Lv. 90]@ 
-§6§lGeyser Pit@ 
-§f§lCorkus City Mine@ 
 RaveAirshipClone3@ 
 RaveAirshipMain2@ 
 RaveAirshipMain3@ 
@@ -3059,15 +2738,11 @@ ThAKTimer@
 §cFanatic Assistant§6 [Lv. 86]@ 
 ThSpell@ 
 §cOutlaw Chief§6 [Lv. 90]@ 
-§f§lCorkus Forest North@ 
 §cBushpig§6 [Lv. 85]@ 
-§f§lCorkus Forest South@ 
-§f§lFactory Entrance@ 
 §cMatryoshka Idol§6 [Lv. 55]@ 
 §cWerebear Berserker§6 [Lv. 73]@ 
 §cThunder-Charged Goat§6 [Lv. 96]@ 
 §cRain Cloud Ram§6 [Lv. 97]@ 
-§f§lJofash Tunnel@ 
 §cGale Dragonling§6 [Lv. 99]@ 
 §cSky Dragonling§6 [Lv. 98]@ 
 CraterTrap2@ 
@@ -3082,24 +2757,18 @@ CraterTrapBullet@
 §cCorkus Virus Doctor §f▪▪§6 [Lv. 140]@ 
 §cRegenerative Virus§6 [Lv. 100]@ 
 §cMagic Mimic§6 [Lv. 85]@ 
-§f§lAldorei’s North Exit@ 
 §cSylphid Ghost§6 [Lv. 96]@ 
 §cSylphid Servant§6 [Lv. 98]@ 
 §cSylphid Gatekeeper§6 [Lv. 99]@ 
-§f§lSky Castle@ 
 §cEnslaved Villager Guard§6 [Lv. 95]@ 
 §cSilver Conure§6 [Lv. 95]@ 
 §cSky Conure§6 [Lv. 97]@ 
-§f§lSky Island Ascent@ 
 §cLost Coal Miner§6 [Lv. 95]@ 
-§f§lRaider's Base Lower@ 
 §cSky Snail§6 [Lv. 95]@ 
 §cOutraged Angel Of Agony §f▪▪▪▪§8§6 [Lv. 99]@ 
-§f§lPath to Ahmsord Upper@ 
 §cTerra Lamprophis§6 [Lv. 95]@ 
 VSewerStick3@ 
 VSewerGunpowder2@ 
-§f§lDragonling Nests@ 
 VSewerStick2@ 
 VSewerGunpowder1@ 
 VSewerStick1@ 
@@ -3107,10 +2776,8 @@ VSewerTNT@
 VSewerGunpowder3@ 
 §cTerra Channeler§6 [Lv. 95]@ 
 §cFirelord Messenger§6 [Lv. 90]@ 
-§eFire Disciple§6 [Lv. 87]@ 
 §cFire Fanatic§6 [Lv. 89]@ 
 §cFirelord Priestess§6 [Lv. 87]@ 
-§f§lCrater Descent@ 
 VRodorocGatePlaysound@ 
 VGlassWindowTowerPlaysound@ 
 §cFrosted Guard§6 [Lv. 91]@ 
@@ -3119,7 +2786,6 @@ VGlassWindowTowerPlaysound@
 §cFading Fire Elemental§6 [Lv. 94]@ 
 §cCryostone Golem§6 [Lv. 92]@ 
 §cDark Ice Mage§6 [Lv. 91]@ 
-§f§lLava Lake@ 
 §cCryovern Shard-Spitter§6 [Lv. 95]@ 
 §cCryovern Fledgeling§6 [Lv. 94]@ 
 aaronparticlestand1@ 
@@ -3138,13 +2804,11 @@ aaronparticlestand1@
 §cMaster Ice Mage§6 [Lv. 95]@ 
 §cChilly Shard§6 [Lv. 94]@ 
 RaveMHStatue1@ 
-§f§lActive Volcano@ 
 Wibble Wubble@ 
 §cBandit Bloodhound§6 [Lv. 83]@ 
 §cRabid Bat§6 [Lv. 86]@ 
 §cIce Hulk§6 [Lv. 88]@ 
 §cCanyon Terror§6 [Lv. 93]@ 
-§f§lCorkus Mountain@ 
 §cMaxie§6 [Lv. 43]@ 
 §cM4x1-Mech§6 [Lv. 83]@ 
 §cF4t4-Mech§6 [Lv. 83]@ 
@@ -3157,7 +2821,6 @@ Wind1@
 Wind2@ 
 Wind3@ 
 avosarenarandomizer1@ 
-§f§lCorkus Docks@ 
 §cRogue Mech-TE1§6 [Lv. 83]@ 
 §cMech§6 [Lv. 80]@ 
 §cSandy Sandpile§6 [Lv. 30]@ 
@@ -3169,7 +2832,6 @@ Vanilla@
 Pistache@ 
 §cCrumbling Mage Remains§6 [Lv. 3]@ 
 Brimm@ 
-§f§lCorkus Sea Port@ 
 §cP-18 Rogue Patroller§6 [Lv. 85]@ 
 §cU-10 Servant Bot§6 [Lv. 85]@ 
 §cH-215 War Machine§6 [Lv. 85]@ 
@@ -3185,21 +2847,17 @@ Rin@
 VIceBridgePlaysound@ 
 Playful Bear@ 
 §cMama Zomble§6 [Lv. 60]@ 
-§f§lHerb Cave@ 
 §cRanger§6 [Lv. 100]@ 
 §cRanger§6 [Lv. 90]@ 
 1MCRocker@ 
 ThElevator@ 
-§f§lAhmsord@ 
 §cSandstorm Vandals Leader Randall§6 [Lv. 39]@ 
 Bagofdicks6969696969xxx@ 
 §cExploding TNT§6 [Lv. 85]@ 
 §cRelic Guardian§6 [Lv. 40]@ 
-§f§lMountain Edge@ 
 §cSpirit of the Lost§6 [Lv. 83]@ 
 §cHarpy Broodmother§6 [Lv. 83]@ 
 §cRebel Miner Leader§6 [Lv. 95]@ 
-§f§lRuined Houses@ 
 imaxequestparticlething@ 
 §cOutlaw§6 [Lv. 93]@ 
 §cDartslinger§6 [Lv. 93]@ 
@@ -3218,11 +2876,8 @@ btg_blindfold@
 §cShift-O-Bot§6 [Lv. 92]@ 
 §cCorkus Accipientis §f▪▪§8▪▪▪§6 [Lv. 140]@ 
 §cShift-O-Bot§6 [Lv. 100]@ 
-§f§lCorkus Sea Cove@ 
 §cHive Drone§6 [Lv. 100]@ 
 Homie Wybel@ 
-§f§lDurum Isles Lower@ 
-§f§lAvos Temple@ 
 Haisay@ 
 Orange Justice@ 
 EPIC01010@ 
@@ -3238,15 +2893,12 @@ EPIC01010@
 §cStormy Knight§6 [Lv. 92]@ 
 §cSpirit of Gale§6 [Lv. 101]@ 
 §cHeatscar Spider§6 [Lv. 93]@ 
-§f§lMolten Heights Portal@ 
 §cTemporal Horror§6 [Lv. 20]@ 
 §cGold Goblin§6 [Lv. 94]@ 
 §cScorched Miner§6 [Lv. 95]@ 
 chip@ 
 §c§n/§4!§c§n\@ 
-§f§lAngel Refuge@ 
 hellfire@ 
-§f§lCentral Islands@ 
 §cLost Coal Miner§6 [Lv. 97]@ 
 §cWeak Zombie§6 [Lv. 3]@ 
 ThHeadRedline@ 
@@ -3302,7 +2954,6 @@ Pinkie Pie@
 §cMwanza Lizard§6 [Lv. 79]@ 
 §cBasilic Lizard§6 [Lv. 79]@ 
 §cSoldier Mogroth§6 [Lv. 79]@ 
- 
 §cGila Lizard§6 [Lv. 79]@ 
 §cFiery Creeper§6 [Lv. 79]@ 
 §cReaper Carnisky§6 [Lv. 79]@ 
@@ -3552,7 +3203,6 @@ EggNoodle@
 Mr Sniffles@ 
 §cCrazy Fisherman§6 [Lv. 50]@ 
 §cStarving Sailor§6 [Lv. 46]@ 
-§f§lRegular Island@ 
 §c§l3:52@ 
 §cMama Zomble§6 [Lv. 12]@ 
 §cDeep Volcano Sludge§6 [Lv. 58]@ 
@@ -3574,13 +3224,10 @@ RaveGGDoorLight@
 §cPossessed Aryn§6 [Lv. 72]@ 
 ThCuts@ 
 §8§l1@ 
-§f§l2@ 
 hitDetector@ 
 M1@ 
 PlantMob10@ 
 NatPartCarLeft@ 
-§f§l4@ 
-§f§l6@ 
 §l10@ 
 §l8@ 
 §8§l9@ 
@@ -3629,10 +3276,7 @@ Cooliann@
 §cCanopy Leopard§6 [Lv. 71]@ 
 MrWarats@ 
 §cYoung Cyclops§6 [Lv. 86]@ 
-§f§lCanyon Path North Mid@ 
-§f§lCanyon Entrance Waterfall@ 
 Hisssssssssssss@ 
-§f§lVolcano Upper@ 
 §cDeep Volcano Sludge§6 [Lv. 56]@ 
 powder ranger@ 
 §cChained Soul§6 [Lv. 71]@ 
@@ -3666,9 +3310,7 @@ Xynle@
 Lieutenant Miffi@ 
 §cDepth Lurker§6 [Lv. 54]@ 
 §cPiranha§6 [Lv. 55]@ 
-§f§lCanyon Path South West@ 
 §cHorror§6 [Lv. 85]@ 
-§f§lOld Coal Mine@ 
 §cEnraged Trammor§6 [Lv. 79]@ 
 §cDeep Terror§6 [Lv. 52]@ 
 §cFaceless Observor§6 [Lv. 53]@ 
@@ -3698,7 +3340,6 @@ dat boi@
 EBlader@ 
 RaveAKSwarmWall@ 
 §cUndead Miner§6 [Lv. 27]@ 
-§f§lKandon-Beda@ 
 §cSky Ivy§6 [Lv. 92]@ 
 §cCave Treguard§6 [Lv. 96]@ 
 §cGout of Flames§6 [Lv. 41]@ 
@@ -3720,7 +3361,6 @@ SaschaThaFox@
 §cTroms Guard§6 [Lv. 70]@ 
 §cAncient Wolf§6 [Lv. 70]@ 
 §cPossessed Parrot§6 [Lv. 66]@ 
-§f§lDernal Jungle Mid@ 
 §cShrine Guardian§6 [Lv. 68]@ 
 §cExcavators§6 [Lv. 70]@ 
 §cKapok Flinger§6 [Lv. 68]@ 
@@ -3737,7 +3377,6 @@ SaschaThaFox@
 §cEnthralled§6 [Lv. 70]@ 
 §cRunic Crystal§6 [Lv. 80]@ 
 §cCorrupted Ancient§6 [Lv. 75]@ 
-§f§lDernal Jungle Lower@ 
 §cCorrupted Amadel§6 [Lv. 80]@ 
 §cCrystal Sentry§6 [Lv. 80]@ 
 §cLight Weaver§6 [Lv. 100]@ 
@@ -3899,12 +3538,7 @@ ThImaxParticle@
 §a1§7/§a5@ 
 §a2§7/§a5@ 
 §a3§7/§a5@ 
-§e3@ 
-§e1@ 
-§e5@ 
-§e4@ 
 §a4§7/§a5@ 
-§e2@ 
 §a5§7/§a5@ 
 §cAncient Avos Shaman§6 [Lv. 100]@ 
 CraftyDuck_@ 
@@ -3977,8 +3611,6 @@ MADE IN HEAVEN@
 Radio@ 
 frosting@ 
 §cFirelord§6 [Lv. 92]@ 
-§f§lSky Falls@ 
-§f§lRaider's Base Upper@ 
 logitak@ 
 ItzAzura@ 
 Nolannnn@ 
@@ -4161,124 +3793,7 @@ Shura@
 Oikage@ 
 Clouwd@ 
 Critiri@ 
-§f§lLight Realm East Upper@ 
 Madsi6@ 
-§eSecurity Guard§6 [Lv. 75]@ 
-§eWild Boar§6 [Lv. 70]@ 
-§eAerolia Flower§6 [Lv. 16]@ 
-§eWayward Idol§6 [Lv. 66]@ 
-§eUnburied Remains§6 [Lv. 50]@ 
-§eTribal Ritualmaster§6 [Lv. 65]@ 
-§eCoursing-Watch Golem§6 [Lv. 55]@ 
-§eRelic Guardian§6 [Lv. 55]@ 
-§eVolatile Durian§6 [Lv. 52]@ 
-§eFruit Bat§6 [Lv. 62]@ 
-§eDragon Turtle§6 [Lv. 84]@ 
-§eDragonborn Sentinel§6 [Lv. 84]@ 
-§eWandering Elf§6 [Lv. 76]@ 
-§eZombified Sheep§6 [Lv. 8]@ 
-§eAngry Blacksmith§6 [Lv. 26]@ 
-§eAngry Farmer§6 [Lv. 24]@ 
-§eStrato's Soul§6 [Lv. 44]@ 
-§eSacrificial Altar§6 [Lv. 25]@ 
-§eSloughing Sandpile§6 [Lv. 30]@ 
-§eTumbleweed§6 [Lv. 35]@ 
-§ePotato Treasurer of Olux§6 [Lv. 54]@ 
-§eVenerable Werewolf§6 [Lv. 74]@ 
-§eDeacon of the Order§6 [Lv. 70]@ 
-§eTerva Bison§6 [Lv. 26]@ 
-§eLarkster Pirate§6 [Lv. 6]@ 
-§eLarkster Pirate§6 [Lv. 5]@ 
-§eLarkster's Cook§6 [Lv. 7]@ 
-§eKatoa Crab§6 [Lv. 4]@ 
-§eCaptured Root Golem§6 [Lv. 11]@ 
-§eRelic Guardian§6 [Lv. 50]@ 
-§eAnimated Statue§6 [Lv. 16]@ 
-§eOdd Mushroom§6 [Lv. 73]@ 
-§eArwins§6 [Lv. 74]@ 
-§eRelic Guardian§6 [Lv. 40]@ 
-§eWynnic Sailor§6 [Lv. 30]@ 
-§eLush Water Skater§6 [Lv. 30]@ 
-§eCaptain Larkster§6 [Lv. 8]@ 
-§eRelic Guardian§6 [Lv. 25]@ 
-§eDrunk Bandit§6 [Lv. 36]@ 
-§eBurly Bandit§6 [Lv. 35]@ 
-§eTavern Bandit§6 [Lv. 32]@ 
-§eGreedy Miner§6 [Lv. 37]@ 
-§eRymek Citizen§6 [Lv. 35]@ 
-§eBrawler Bandit Guard§6 [Lv. 35]@ 
-§eLunar Possessed§6 [Lv. 36]@ 
-§eSpiny Skeleton Guard§6 [Lv. 35]@ 
-§eTomb Robber§6 [Lv. 36]@ 
-§ePossessive Militarist§6 [Lv. 34]@ 
-§eRelic Guardian§6 [Lv. 35]@ 
-§eDrunken Gambler§6 [Lv. 74]@ 
-§eRamhead Worshipper§6 [Lv. 63]@ 
-§eRamhead Charger§6 [Lv. 63]@ 
-§eSogbrush§6 [Lv. 50]@ 
-§eNovice Fire Mage§6 [Lv. 84]@ 
-§eGnomish Archaeologist§6 [Lv. 80]@ 
-§eIsland Crab§6 [Lv. 34]@ 
-§eSturdy Crab§6 [Lv. 28]@ 
-§eDrunked Mate§6 [Lv. 42]@ 
-§ePirate§6 [Lv. 60]@ 
-§eCaptain Smokey§6 [Lv. 95]@ 
-§eCorkian Sailor§6 [Lv. 85]@ 
-§eDrunk Corkian Sailor§6 [Lv. 85]@ 
-§eAgullos§6 [Lv. 81]@ 
-§eCorbys§6 [Lv. 81]@ 
-§ePolar Bear§6 [Lv. 44]@ 
-§ePlains Brigand§6 [Lv. 45]@ 
-§eForest Guardian§6 [Lv. 75]@ 
-§eHobgoblin Farmer§6 [Lv. 80]@ 
-§eShimmerstalk§6 [Lv. 88]@ 
-§eBäckahästen§6 [Lv. 85]@ 
-§eThesead Marshal§6 [Lv. 85]@ 
-§eMage§6 [Lv. 60]@ 
-§ePrivateer§6 [Lv. 58]@ 
-§ePrivateer Captain§6 [Lv. 61]@ 
-§eDurum Scarecrow§6 [Lv. 20]@ 
-§eDark Skeleton Warrior§6 [Lv. 95]@ 
-§eAdventuring Hobbit§6 [Lv. 95]@ 
-§eGuard§6 [Lv. 35]@ 
-§eRelic Guardian§6 [Lv. 30]@ 
-§eRelic Guardian§6 [Lv. 60]@ 
-§eSpider Egg§6 [Lv. 72]@ 
-§eMooington§6 [Lv. 57]@ 
-§eBoar§6 [Lv. 70]@ 
-§eCarrion Spider§6 [Lv. 94]@ 
-§eSuspicious Egg§6 [Lv. 90]@ 
-§eRaging Bull§6 [Lv. 85]@ 
-§eElven Merchant§6 [Lv. 80]@ 
-§eScared Citizen§6 [Lv. 80]@ 
-§eCorkus Citizen§6 [Lv. 80]@ 
-§ePatriotic Scientist§6 [Lv. 86]@ 
-§ePatriotic Engineer§6 [Lv. 86]@ 
-§eLegend Keeper Golem§6 [Lv. 55]@ 
-§eSkyraider§6 [Lv. 100]@ 
-§eRodoroc Peacekeeper§6 [Lv. 96]@ 
-§eLight Ice Mage§6 [Lv. 91]@ 
-§eDwarven Poacher§6 [Lv. 95]@ 
-§eAvos Young Soldier§6 [Lv. 90]@ 
-§eAvos Shaman§6 [Lv. 93]@ 
-§eAvos Guard§6 [Lv. 92]@ 
-§eAvos Warrior§6 [Lv. 93]@ 
-§eLonely Spider§6 [Lv. 18]@ 
-§eDrunk Relos Sailor§6 [Lv. 80]@ 
-§eSalt-soaked Skeleton§6 [Lv. 34]@ 
-§eFleris Matriarch§6 [Lv. 91]@ 
-§eScared Wybel§6 [Lv. 90]@ 
-§e"Human"§6 [Lv. 35]@ 
-§eDocile Wolf§6 [Lv. 64]@ 
-§eSpring Murloc§6 [Lv. 65]@ 
-§eStone Cutter Mole§6 [Lv. 94]@ 
-§eRelic Guardian§6 [Lv. 65]@ 
-§eDeranged Parrot§6 [Lv. 66]@ 
-§eCrystalline Guardian§6 [Lv. 75]@ 
-§eFallen Wybel§6 [Lv. 95]@ 
-§eCoastal Monkey§6 [Lv. 70]@ 
-§e"Pirate"§6 [Lv. 45]@ 
-§eNii Guardian§6 [Lv. 75]@ 
 §cEmerald Dragonling§6 [Lv. 98]@ 
 (´・ω・｀)@ 
 (｀・ω・´)@ 
@@ -4320,7 +3835,6 @@ Toby@
 §aVillHideoutBandit2§6 [Lv. 1]@ 
 §aVillHideoutBandit3§6 [Lv. 1]@ 
 JoeySplats@ 
-§f§lThanos Exit@ 
 SaviorOfWorlds@ 
 Bob The Creeper@ 
 Manfred@ 
@@ -4340,11 +3854,9 @@ T0xicMind@
 My First Godly Y@ 
 §7ItsMayaBro's Iron Golem@ 
 §bMystery Vault@ 
-§e§lКЛИКНИТЕ@ 
 §8lv§7001 Bat@ 
 "Sign posting guys, sign posting!"@ 
 3g94076d4b@ 
-§e§lКЛИКНИТЕ@ 
 §bThe Spooky Man@ 
 §6Hytale Trailer@ 
 §8lv§7001 Endermite@ 
@@ -4352,60 +3864,28 @@ My First Godly Y@
 §bIngame Store@ 
 §5HALLOWEEN SALE@ 
 §5§l85% OFF@ 
-§e§lНАЖМИТЕ@ 
 §bГлавное лобби@ 
 §bСчетчик Хайпы@ 
 §c▮§c▮§c▮§c▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮@ 
-§eИграют: 44@ 
-§e§lНАЖМИТЕ, ЧТОБЫ НАЧАТЬ ИГРАТЬ@ 
-§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§7▮§7▮§7▮§7▮@ 
-§eИграют: 1@ 
 §d§lОБНОВЛЕНИЕ 0.7 ВЫШЛО!@ 
 §bМАКСИМУМ ХАЙПЫ@ 
 §a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮§a▮@ 
-§eИграют: 27,573@ 
 §6▮§6▮§6▮§6▮§6▮§6▮§6▮§6▮§6▮§6▮§6▮§6▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮§7▮@ 
-§eИграют: 71@ 
-§eИграют: 497@ 
 §fДоступно: 3!@ 
 §6HALLOWEEN SALE@ 
 §6§l85% OFF@ 
 §bHytale Trailer@ 
-§eИграют: 27,569@ 
-§eИграют: 63@ 
 §cДоступно: 3!@ 
 §fHytale Trailer@ 
-§eИграют: 27,581@ 
 §5Epic Victory Pose Gesture@ 
 §cПосылок: 5@ 
-§eИграют: 498@ 
-§eИграют: 27,593@ 
 §fПосылок: 5@ 
-§eИграют: 495@ 
-§eИграют: 494@ 
-§eИграют: 27,604@ 
 §61 Vote Delivery!@ 
-§eИграют: 493@ 
-§eИграют: 27,591@ 
 §b1 Vote Delivery!@ 
-§eИграют: 27,585@ 
 §51 Vote Delivery!@ 
-§eИграют: 27,588@ 
-§eИграют: 64@ 
 §6Free Daily Reward!@ 
-§eИграют: 27,596@ 
-§eИграют: 45@ 
 §bFree Daily Reward!@ 
-§eИграют: 491@ 
 §5Free Daily Reward!@ 
-§eИграют: 27,601@ 
-§eИграют: 27,590@ 
-§eИграют: 489@ 
-§eИграют: 490@ 
-§eИграют: 27,600@ 
-§eИграют: 27,621@ 
-§eИграют: 65@ 
-§eИграют: 492@ 
 Hugh@ 
 Jass@ 
 Villager@ 
@@ -4420,26 +3900,20 @@ GalaxyDono@
 mcnuts37@ 
 §a§lOpen Lucky Crate! §7§l(Right-Click)@ 
 §b§lHide and Seek@ 
-§ePunch to warp@ 
 §b§lDeathRun@ 
 §b§lCowboys and Indians@ 
-§eDice Pet@ 
 §b§lTrouble / Murder@ 
 §b§lin Mineville@ 
 §9snowdog8 §71 minute ago@ 
 §b§lSurvival Games@ 
-§eMasked Man Pet@ 
 §9SpookyDuckyGirl §71 minute ago@ 
 §b§lSkyWars@ 
 §b§lBedWars@ 
 §6§l» §e§lUPDATED! §6§l«@ 
-§eElephant Pet@ 
 §b§lSkyGiants@ 
 §b§lThe Lab@ 
 §b§l§d§lThe §b§lArcade!@ 
 §b§lGravity@ 
-§eTrooper Pet@ 
-§e§l§e§lAr§a§lca§b§lde §d§lShuffle@ 
 §b§lBlockParty@ 
 §7§lX7ELO's Bee@ 
 §9snowdog8 §72 minutes ago@ 
@@ -4514,7 +3988,6 @@ Flame Demon@
 §3y3drq6dltptglbdhjdebhxl@ 
 §aRare Nether Crown Trail@ 
 §7§lClixcZ_'s Bee@ 
-§eSwagonite Pet@ 
 §bLucky Block Hat@ 
 §aNether Crown Trail@ 
 §96bubbaboy §7Just Now@ 
@@ -4568,7 +4041,6 @@ Brony@
 §3mu4isgzwdddc384@ 
 §3ptsph1qvezybi5p@ 
 §6Epic Cookie Pet@ 
-§eCookie Pet@ 
 §9Kompet3nz §7Just Now@ 
 §9Kompet3nz §710 seconds ago@ 
 §9Kompet3nz §715 seconds ago@ 
@@ -4617,32 +4089,11 @@ Spooky Pumpkin@
 §8lv§7001 selinasuncle@ 
 ix27o74oye@ 
 ug27z0e452@ 
-§eИграют: 27@ 
-§eИграют: 521@ 
 §d§l0.7.2 UPDATE LIVE!@ 
-§eИграют: 24,019@ 
-§eИграют: 68@ 
-§eИграют: 30@ 
 §fДоступно: 2!@ 
-§eИграют: 24,018@ 
 §cДоступно: 2!@ 
 §cПосылок: 6@ 
-§eИграют: 31@ 
-§eИграют: 519@ 
-§eИграют: 67@ 
-§eИграют: 24,016@ 
 §fПосылок: 6@ 
-§eИграют: 24,028@ 
-§eИграют: 66@ 
-§eИграют: 24,015@ 
-§eИграют: 518@ 
-§eИграют: 23,997@ 
-§eИграют: 26@ 
-§eИграют: 24,030@ 
-§eИграют: 32@ 
-§eИграют: 520@ 
-§eИграют: 24,035@ 
-§eИграют: 25@ 
 Xeskey@ 
 poprony@ 
 Cozuni@ 
@@ -4846,13 +4297,11 @@ BTG_Stand3@
 §cOrange Wybel §f▪▪▪§8▪▪§6 [Lv. 140]@ 
 §cOrange Wybel §f▪▪▪▪§8▪§6 [Lv. 140]@ 
 §cOrange Wybel §f▪▪▪▪▪§6 [Lv. 140]@ 
-§eWeird Stone§6 [Lv. 81]@ 
 §cSea Troll§6 [Lv. 55]@ 
 §cValiant Teki§6 [Lv. 80]@ 
 §cQuasi Gargoyle§6 [Lv. 81]@ 
 §cRisen Soldier§6 [Lv. 3]@ 
 §cScorch Blob§6 [Lv. 75]@ 
-§eEastern Nomad§6 [Lv. 95]@ 
 §cAngry Goblin§6 [Lv. 45]@ 
 §cElder Pyromancer§6 [Lv. 87]@ 
 §cElder Thaumaturge§6 [Lv. 87]@ 
@@ -4869,7 +4318,6 @@ BTG_Stand3@
 §cSniper§6 [Lv. 50]@ 
 §cSniper§6 [Lv. 60]@ 
 §cRogue§6 [Lv. 60]@ 
-§f§lLight Realm Corruption@ 
 §cCleric§6 [Lv. 60]@ 
 §cHonour Guard§6 [Lv. 60]@ 
 §cBishop§6 [Lv. 60]@ 
@@ -4909,17 +4357,6 @@ BTG_Stand3@
 §cAvos Berserker§6 [Lv. 85]@ 
 §cTravelling Battle Monk§6 [Lv. 85]@ 
 §cStranded Sailor§6 [Lv. 90]@ 
-Welcome to §a§lWynncraft@ 
-mobs§7, cinematics §7& much more!@ 
-quests§7, builds§7, items§7. CMBs§7,@ 
-§fⒾ §6§lWoodworking§f Ⓘ@ 
-§fⒹ §6§lJeweling§f Ⓓ@ 
-§fⒻ §6§lTailoring§f Ⓕ@ 
-§fⒶ §6§lCooking§f Ⓐ@ 
-§fⒺ §6§lScribing§f Ⓔ@ 
-§fⒼ §6§lWeaponsmithing§f Ⓖ@ 
-§fⒽ §6§lArmouring§f Ⓗ@ 
-§fⓁ §6§lAlchemism§f Ⓛ@ 
 Muffin@ 
 §cMaster Fire Mage§6 [Lv. 100]@ 
 Siroopfles@ 
@@ -5065,3 +4502,1661 @@ Jelly Welly@
 Burned Meatball@ 
 Virginity Rocks@ 
 Nyaaaaaaa@ 
+§cMercenary§6 [Lv. 70]@ 
+§cHonour Guard§6 [Lv. 50]@ 
+§cWitch§6 [Lv. 60]@ 
+§cRanger§6 [Lv. 70]@ 
+§cRogue§6 [Lv. 70]@ 
+§cBarbarian§6 [Lv. 70]@ 
+§cSniper§6 [Lv. 80]@ 
+§cHonour Guard§6 [Lv. 80]@ 
+§cSniper§6 [Lv. 70]@ 
+§cBishop§6 [Lv. 80]@ 
+§cCleric§6 [Lv. 50]@ 
+§cBishop§6 [Lv. 50]@ 
+§cBarbarian§6 [Lv. 60]@ 
+§cCleric§6 [Lv. 90]@ 
+§cBarbarian§6 [Lv. 100]@ 
+§cWitch§6 [Lv. 90]@ 
+§2Lil@ 
+§2[§a+1§2 Unprocessed Oak Log]@ 
+§2[§a+1§2 Unprocessed Birch Log]@ 
+§2[§a+1§2 Unprocessed Wheat]@ 
+§2[§a+2§2 Unprocessed Oak Log]@ 
+§2[§a+1§2 Unprocessed Copper Ore]@ 
+§2[§a+1§2 Unprocessed Trout]@ 
+§2[§a+1§2 Unprocessed Gudgeon]@ 
+§2[§a+1§2 Unprocessed Barley]@ 
+§2[§a+1§2 Unprocessed Granite Ore]@ 
+§2[§a+1§2 Unprocessed Gold Ore]@ 
+§2[§a+1§2 Unprocessed Willow Log]@ 
+§2[§a+1§2 Unprocessed Acacia Log]@ 
+§2Tinemild@ 
+§2[§a+1§2 Unprocessed Salmon]@ 
+§2[§a+1§2 Unprocessed Spruce Log]@ 
+§2[§a+1§2 Unprocessed Sandstone Ore]@ 
+§2[§a+1§2 Unprocessed Carp]@ 
+§2[§a+1§2 Unprocessed Oat]@ 
+§2[§a+1§2 Unprocessed Iron Ore]@ 
+§2[§a+1§2 Unprocessed Malt]@ 
+§2[§a+1§2 Unprocessed Icefish]@ 
+§2[§a+1§2 Unprocessed Jungle Log]@ 
+§2[§a+1§2 Unprocessed Hops]@ 
+§2[§a+1§2 Unprocessed Rye]@ 
+§2[§a+1§2 Unprocessed Millet]@ 
+§2[§a+1§2 Unprocessed Dark Log]@ 
+§2[§a+1§2 Unprocessed Piranha]@ 
+§2[§a+1§2 Unprocessed Silver Ore]@ 
+§2[§a+1§2 Unprocessed Decay Roots]@ 
+§2[§a+1§2 Unprocessed Light Log]@ 
+§2[§a+1§2 Unprocessed Rice]@ 
+§2[§a+1§2 Unprocessed Pine Log]@ 
+§7error_72's Mooshroom@ 
+_Leg@ 
+FreeHugz@ 
+splody@ 
+Velatros@ 
+Aonq@ 
+DecoysIsBored@ 
+xYLukas@ 
+_User@ 
+Puuug@ 
+Floof@ 
+Капитан@ 
+§a§b§e§l§7Right click: Open Crate@ 
+§a§b§e§l§a§lBasic@ 
+§a§b§e§l§7Left click: Preview Rewards@ 
+§2Стражник@ 
+Гриндер@ 
+§bРаботадатель@ 
+Барахольщик@ 
+Мясник@ 
+§bRick@ 
+Булочник@ 
+§bКузнец@ 
+§bПроводник@ 
+Банк@ 
+Дозорный@ 
+Подпольщик@ 
+Бармен@ 
+Gari@ 
+Алхимик@ 
+Кожевник@ 
+Лучник@ 
+Рыболов@ 
+Мечник@ 
+Jon@ 
+§c[¦¦¦ §f§l12 §c¦¦¦]@ 
+§c[¦¦¦ §f§l3 §c¦¦¦]@ 
+§c[¦¦¦ §f§l18 §c¦¦¦]@ 
+§c[¦¦¦ §f§l11 §c¦¦¦]@ 
+§c[¦¦¦ §f§l1 §c¦¦¦]@ 
+§aКристалический зомби@ 
+§a+1@ 
+§c[¦¦¦ §f§l25 §c¦¦¦]@ 
+§c[¦¦¦ §f§l10 §c¦¦¦]@ 
+§c[¦¦¦ §f§l13 §c¦¦¦]@ 
+§c[¦¦¦ §f§l14 §c¦¦¦]@ 
+§c[¦¦¦ §f§l15 §c¦¦¦]@ 
+§c[¦¦¦ §f§l16 §c¦¦¦]@ 
+§c[¦¦¦ §f§l9 §c¦¦¦]@ 
+§c[¦¦¦ §f§l5 §c¦¦¦]@ 
+§c[¦¦¦ §f§l17 §c¦¦¦]@ 
+§c[¦¦¦ §f§l6 §c¦¦¦]@ 
+Ресурсы@ 
+Боб хавальник@ 
+Броня@ 
+Брокер@ 
+Cyyaa@ 
+Blokies@ 
+Chowder@ 
+Prof_EGG@ 
+Dusty@ 
+Pontosaurus@ 
+Clarence@ 
+Seafoam@ 
+Affogato@ 
+GurmyWurmy@ 
+niteshead@ 
+^^^^^^^^^^^@ 
+Alice@ 
+Green Firework@ 
+Hamsterlordje@ 
+Pégase@ 
+Shadow@ 
+Bying Abysso Gal@ 
+Anastasia@ 
+TheSaucePan@ 
+AfroSnail@ 
+sgt_ghost123@ 
+Jimmy The Potato@ 
+Murasakino@ 
+Shiro@ 
+BronzeAngel@ 
+Weiss@ 
+whats 9 + 10@ 
+Smokey The Wybel@ 
+Copper@ 
+Maarcus@ 
+Charlezz@ 
+MoMo@ 
+LiquidEmerald@ 
+Useless Shit@ 
+_jazzzii_@ 
+MrSebbelonien@ 
+JJ4EVA@ 
+Creepy boi@ 
+Cilva@ 
+FrozenDelicacy@ 
+Anakin Cybel@ 
+GetZoinked@ 
+Horou_@ 
+IcedOutLaL@ 
+Asthaeros@ 
+대가리박고 자살하자 @ 
+Enderman@ 
+Nix@ 
+Stellarite@ 
+Join Aincrad UwU@ 
+GoulartJJ@ 
+§cYahyaBot V4.04§6 [Lv. 9002]@ 
+§cNoob§6 [Lv. 1]@ 
+§cRainbow Pegasus§6 [Lv. 1]@ 
+§cSweet Kitty§6 [Lv. 1]@ 
+§cPuffshroom§6 [Lv. 100]@ 
+§cAngry Mushroom§6 [Lv. 100]@ 
+§cSpore-spitting Cow§6 [Lv. 100]@ 
+§cSpore Duster§6 [Lv. 100]@ 
+§cSwamp Nightmare§6 [Lv. 100]@ 
+§cCarnivorous Leech§6 [Lv. 100]@ 
+§cMeteor Sentient§6 [Lv. 100]@ 
+§cVoid Master§6 [Lv. 100]@ 
+§cDeath Metal §f▪§8▪§6 [Lv. 150]@ 
+§cRAR.gaddon§6 [Lv. 110]@ 
+§cGlitch-Doctor§6 [Lv. 110]@ 
+§cWired Beast§6 [Lv. 110]@ 
+§cSnow Malware§6 [Lv. 110]@ 
+§cAntivirus§6 [Lv. 110]@ 
+§cMetalkevö§6 [Lv. 110]@ 
+§cDeath Metal §f▪▪§6 [Lv. 150]@ 
+§cMechorrupter of Worlds §f▪§8▪§6 [Lv. 160]@ 
+§cMechorrupter Spawn§6 [Lv. 120]@ 
+§cMechorrupter of Worlds §f▪▪§6 [Lv. 160]@ 
+§cRobob’s Reinvention §f▪§8▪§6 [Lv. 160]@ 
+§cRobob Thunder Sword§6 [Lv. 120]@ 
+§cRobob Earth Sword§6 [Lv. 120]@ 
+§cRobob Air Sword§6 [Lv. 120]@ 
+§cRobob Fire Sword§6 [Lv. 120]@ 
+§cRobob Water Sword§6 [Lv. 120]@ 
+§cRobob’s Reinvention §f▪▪§6 [Lv. 160]@ 
+§cOrange Cybel - 01§6 [Lv. 160]@ 
+§cRemote-Controlled Cybel§6 [Lv. 130]@ 
+§cOrange Cybel - 02§6 [Lv. 160]@ 
+§cOrange Cybel - 03§6 [Lv. 160]@ 
+§cOrange Cybel - 04§6 [Lv. 160]@ 
+§cOrange Cybel - 05§6 [Lv. 160]@ 
+§cRemote Detonation Device§6 [Lv. 130]@ 
+§cDoctor Legendary §f▪§8▪▪§6 [Lv. 170]@ 
+§cDoctor Legendary §f▪▪§8▪§6 [Lv. 170]@ 
+§cDoctor Legendary §f▪▪▪§6 [Lv. 170]@ 
+Bdominik2005@ 
+Little Tom@ 
+Taro_Settels@ 
+AndyReich@ 
+Salted@ 
+Grian@ 
+Jumla@ 
+§cZephra Reaper§6 [Lv. 80]@ 
+§cZephra Sycophant§6 [Lv. 85]@ 
+§cZephra Devil§6 [Lv. 85]@ 
+§cZephra Uth§6 [Lv. 90]@ 
+serori_owo@ 
+Human Garbage@ 
+BumBo@ 
+JumBo@ 
+MumBo@ 
+_834@ 
+Charlie@ 
+bob_Evans123@ 
+§cSunstone Ram§6 [Lv. 62]@ 
+Maarcuseu@ 
+the mythical pig@ 
+Hopster@ 
+Popster@ 
+Join Hax UwU@ 
+Tangerine@ 
+Be3Al2Si6O18@ 
+§cUrdar Egg§6 [Lv. 95]@ 
+§cAdamastor§6 [Lv. 100]@ 
+§cUrdar§6 [Lv. 95]@ 
+Daminator@ 
+AshenR0se@ 
+McWaggle@ 
+Mega Man@ 
+Wall-E@ 
+Ryuk@ 
+Stewie@ 
+O1@ 
+CountBurn@ 
+Dream96@ 
+AIexxx@ 
+meme@ 
+daisy_kitty@ 
+SmallDu@ 
+Jeramy@ 
+general_Henaut@ 
+Sexy Wybel@ 
+Pig@ 
+Grumm@ 
+Spell Blocker@ 
+Trade Blocker@ 
+Bank Blocker@ 
+Xalatath@ 
+Lucifer@ 
+Noodles@ 
+ByboZ_@ 
+Marshmellow@ 
+Pikachu@ 
+Combo@ 
+Salkasm@ 
+thegamerNL2002@ 
+Gucci@ 
+Jigglypuff@ 
+Kreeper Klaus@ 
+xP9nda@ 
+Fluffert@ 
+KuchenOneeChan@ 
+Novastar66@ 
+Totoro@ 
+Asuns@ 
+H2O@ 
+Entity@ 
+CreepyDF@ 
+Rem_s2@ 
+#Kirdow@ 
+Big cute Potatoe@ 
+Big Ugly Egg@ 
+KingOfDark@ 
+KingOfNeptune@ 
+GhostTreads@ 
+gwylkill@ 
+The Gray One@ 
+Blang@ 
+TaqticalCube@ 
+§cBlade of Shade§6 [Lv. 70]@ 
+§cRevenant of Skien §f▪§8▪▪▪▪▪▪▪▪▪▪§6 [Lv. 70]@ 
+§cWitch§6 [Lv. 50]@ 
+§7[§7]@ 
+§7[§a||||||||||§7]@ 
+§7[§a|||||||||§4|§7]@ 
+§7[§a||||||||§4||§7]@ 
+§7[§a|||||||§4|||§7]@ 
+§7[§a||||||§4||||§7]@ 
+§7[§62 Sleeper Spore's§7]@ 
+§bTowerWars §7[v0.4]@ 
+§bKing of the Hill §7[v0.2]@ 
+§bSkyBlock §7[v0.7]@ 
+§bCapture The Wool §7[v0.3]@ 
+§bThe Pit §7[v0.4]@ 
+§bSkyBlock §7[v0.7.2]@ 
+§7[§a|||||§4|||||§7]@ 
+§7[§a||||§4||||||§7]@ 
+§7[§a|||§4|||||||§7]@ 
+§7[§a||§4||||||||§7]@ 
+§7[§A§a|§4|||||||||§7]@ 
+§7[§a§4||||||||||§7]@ 
+xMakyOwO@ 
+Drayer_@ 
+DreamSquid@ 
+Ced@ 
+Ugly Pinky-Clone@ 
+Cool Pinky@ 
+casparof@ 
+cyborg@ 
+Veteran@ 
+FiiOriginal@ 
+Ancalagon @ 
+Columbus@ 
+MoonyxD@ 
+TehAdoom@ 
+ThatsCrazyx@ 
+420_relliKratS@ 
+§cHowler§6 [Lv. 41]@ 
+Pssshey@ 
+1AndOnlyDonut@ 
+EnderJonas07@ 
+Blockfox_XV@ 
+GiornoDono@ 
+Diarrhoea@ 
+Barry@ 
+Drogon@ 
+Prolapsed Anus@ 
+Flower@ 
+Cookie@ 
+(ಠ_ಠ)@ 
+§abdnChicken§6 [Lv. 1]@ 
+§aTriggerSign§6 [Lv. 1]@ 
+§aMOSBone§6 [Lv. 1]@ 
+§aMOSSeeds§6 [Lv. 1]@ 
+§aCrew2§6 [Lv. 100]@ 
+abisRTPInvadeSpikeWall@ 
+§cWarpweaver§6 [Lv. 32]@ 
+§cSearblaze§6 [Lv. 28]@ 
+§cShade Stalker§6 [Lv. 34]@ 
+§cScorchwight§6 [Lv. 39]@ 
+abisRTPInvadeSpikeWallR@ 
+§cHarbinger of Corruption§6 [Lv. 40]@ 
+§cOsearer§6 [Lv. 50]@ 
+§a!!!@ 
+§cRat§6 [Lv. 25]@ 
+§cRat§6 [Lv. 26]@ 
+§cRat§6 [Lv. 28]@ 
+§cGiant Rat§6 [Lv. 30]@ 
+§cColossal Rat §f▪§8▪§6 [Lv. 34]@ 
+§cColossal Rat §f▪▪§6 [Lv. 34]@ 
+§cGiant Rat§6 [Lv. 27]@ 
+§c.@ 
+§cWiff of Death§6 [Lv. 25]@ 
+§6.@ 
+England@ 
+City@ 
+§cLidin Caretaker§6 [Lv. 101]@ 
+§cAdult Lidin§6 [Lv. 101]@ 
+§cKontyric Mole§6 [Lv. 108]@ 
+§cThe Ignited§6 [Lv. 109]@ 
+§cThe Lantern Keeper§6 [Lv. 109]@ 
+§cRekindled Unsurmountable§6 [Lv. 103]@ 
+§cVoid Soul Roamer§6 [Lv. 106]@ 
+§cParanoid Amblyop§6 [Lv. 108]@ 
+§cThe Unsighted§6 [Lv. 107]@ 
+§cCrystal of Insanity§6 [Lv. 105]@ 
+VSkull10931@ 
+§cBlack Geist§6 [Lv. 110]@ 
+§7T@ 
+§cAnimated Guard Statue§6 [Lv. 60]@ 
+§cMagical Guard§6 [Lv. 60]@ 
+§cDemonic Dragon§6 [Lv. 102]@ 
+§aabiswas witherskull§6 [Lv. 1]@ 
+§cProgenitor§6 [Lv. 102]@ 
+abisRTPInvadeSpikeWallL@ 
+TOTHTOMI@ 
+§f✯@ 
+§cUmbral Sentinel§6 [Lv. 97]@ 
+§cWildered Miner§6 [Lv. 96]@ 
+§cDernic Lurker§6 [Lv. 98]@ 
+§bIrtitack§6 [Lv. 102]@ 
+§cOmnispective Wanderer§6 [Lv. 115]@ 
+ptoUth1A@ 
+ptoUth2A@ 
+ptoNii2A@ 
+ptoNii1A@ 
+ptoNii3A@ 
+ptoNii4A@ 
+ptoTol1A@ 
+Ocean Man@ 
+§cLlevigar Wild Horse§6 [Lv. 41]@ 
+BraceMagicOrderMover@ 
+§cEnraged Undead§6 [Lv. 60]@ 
+Stoopid_Dog@ 
+Aries@ 
+KONO DIO DA@ 
+§cBlinder§6 [Lv. 100]@ 
+§cDigestive Acid§6 [Lv. 104]@ 
+§cLeukocytic Growth§6 [Lv. 104]@ 
+§cStomach Dweller§6 [Lv. 105]@ 
+§cLongleg Gripper§6 [Lv. 104]@ 
+§cShrieking Observer§6 [Lv. 103]@ 
+§cDecoct Crawler§6 [Lv. 100]@ 
+§cEyeless§6 [Lv. 96]@ 
+Modded Hamster@ 
+ptoPONRDetect@ 
+ptoSoul3@ 
+ptoSoul1@ 
+ptoSoul2@ 
+corpe_ponrpuzzlerandom@ 
+corpe_ponrpuzzlesoul@ 
+corpe_ponrpuzzletimer@ 
+§cEyebawl§6 [Lv. 101]@ 
+§cWatchers§6 [Lv. 103]@ 
+Carboner@ 
+§cDarkness§6 [Lv. 100]@ 
+§cSprite Guardian§6 [Lv. 100]@ 
+§cEyed Shade§6 [Lv. 105]@ 
+§cFloating Stalker§6 [Lv. 100]@ 
+§cJealous Spiteful§6 [Lv. 99]@ 
+Barth@ 
+VRTDRuinDoorPlaysound1@ 
+§cEnraptured Obsessor§6 [Lv. 105]@ 
+ThPassword@ 
+˚w˚@ 
+•w•@ 
+ºwº@ 
+Loc@ 
+Cow@ 
+corpe_frostwalkerdummy@ 
+Sha25dow@ 
+corpe_craftingclay@ 
+§cOcular Gunk§6 [Lv. 99]@ 
+§cStatue Knight §f▪§8▪§6 [Lv. 94]@ 
+§cLilium Slime§6 [Lv. 97]@ 
+Tatortoteous@ 
+Blue Curry@ 
+Critmaskid@ 
+§cPetunia Slime§6 [Lv. 95]@ 
+§cGooey Knight §f▪▪§6 [Lv. 92]@ 
+§cScarlet Slime§6 [Lv. 95]@ 
+§cUnstable Slime§6 [Lv. 95]@ 
+her magneticsty@ 
+§cJattelik Slime§6 [Lv. 96]@ 
+Creampay@ 
+§cLilla Slime§6 [Lv. 94]@ 
+§cMellan Slime§6 [Lv. 95]@ 
+Cyborg Scotch@ 
+§cInfernal Ember§6 [Lv. 110]@ 
+§cBevonatu Slykaar§6 [Lv. 110]@ 
+§cShyve Slime§6 [Lv. 98]@ 
+§cVointi Slime§6 [Lv. 110]@ 
+§aUpcoming Attack§6 [Lv. 1]@ 
+§aUpcoming Attack Visual§6 [Lv. 1]@ 
+§aUpcoming Attack§6 [Lv. 100]@ 
+§cCorrupted Slykaar§6 [Lv. 110]@ 
+§cSlime Piece§6 [Lv. 95]@ 
+xRqdioqctive@ 
+§cTakertuva Slime§6 [Lv. 105]@ 
+Purpura@ 
+Creminho@ 
+InfiniteSlashX@ 
+NyouroNyouro@ 
+Snerp Is A Bad@ 
+§cSol Hornet§6 [Lv. 42]@ 
+§cSol Drone§6 [Lv. 44]@ 
+§cSol Larvae§6 [Lv. 39]@ 
+§cMummy's Minion§6 [Lv. 40]@ 
+Terminator@ 
+§cTurret§6 [Lv. 85]@ 
+Eevee@ 
+§cUnstable Geyser§6 [Lv. 85]@ 
+§cDoor Guardian§6 [Lv. 60]@ 
+lil creep@ 
+§aMarius' Casket§6 [Lv. 50]@ 
+§a§o!!!@ 
+§aFireball§6 [Lv. 50]@ 
+§aFire Prison§6 [Lv. 50]@ 
+§aWind Platform§6 [Lv. 50]@ 
+§aWind Prison§6 [Lv. 50]@ 
+§aRickeo's Shackles§6 [Lv. 50]@ 
+§aDark Platform§6 [Lv. 50]@ 
+§aDark Swirl§6 [Lv. 50]@ 
+Minccino@ 
+Mecha-Poro@ 
+§cIntelligent Mech-DM3§6 [Lv. 86]@ 
+u003cu003cu003cu003cu003cu003cu003cu003cu003cu003cu003c@ 
+Floffers@ 
+§cGenemorph§6 [Lv. 98]@ 
+§cGenecocoon§6 [Lv. 98]@ 
+SmoresSnores@ 
+Choco Cocoa@ 
+CookieAndCream@ 
+§cGenerecoup§6 [Lv. 98]@ 
+§cToxified Rock§6 [Lv. 99]@ 
+§cSpiteful Flatterer§6 [Lv. 102]@ 
+Aja@ 
+boom@ 
+Emalio@ 
+§c20s@ 
+Toorie@ 
+djcooper6@ 
+DernSwordThing@ 
+WedOpenHoleThing@ 
+§cLeg Eater§6 [Lv. 107]@ 
+§cTenebrous Alnamar§6 [Lv. 106]@ 
+§cReality Swimmer§6 [Lv. 109]@ 
+§cRepurposed Host§6 [Lv. 107]@ 
+§cCursed Shrieker§6 [Lv. 110]@ 
+Chroma@ 
+Join Fox!@ 
+Creepah@ 
+Pinky Winky@ 
+Imaginary Friend@ 
+Kruimel@ 
+snowman boy@ 
+DutchSpruceRun@ 
+Despacito@ 
+§cMutated Irtitack§6 [Lv. 105]@ 
+§cDarkness§6 [Lv. 102]@ 
+§cWicked Eyeball§6 [Lv. 102]@ 
+§cSickly Toxin§6 [Lv. 100]@ 
+§cKiller Imp§6 [Lv. 102]@ 
+§cDark Giant Rat§6 [Lv. 100]@ 
+§cDernic Nightmare§6 [Lv. 102]@ 
+§cDern Outlander§6 [Lv. 102]@ 
+§cPerishing Spider§6 [Lv. 100]@ 
+§cSclera§6 [Lv. 105]@ 
+§cHaggard Bat§6 [Lv. 100]@ 
+§cStone Scolty§6 [Lv. 102]@ 
+§cWeeping Granite§6 [Lv. 106]@ 
+§cEvolved Stone Scolty§6 [Lv. 105]@ 
+§cAsh Eater§6 [Lv. 102]@ 
+§cVoid Rift§6 [Lv. 103]@ 
+§cThat Which Condenses§6 [Lv. 105]@ 
+corpe_tolaltartimer@ 
+§cSilencer§6 [Lv. 100]@ 
+§cCrawling Death§6 [Lv. 100]@ 
+§cBleeding Eye§6 [Lv. 102]@ 
+§cInfecting Eye§6 [Lv. 101]@ 
+§cDigesting Eye§6 [Lv. 100]@ 
+§cDigestive Fire§6 [Lv. 100]@ 
+§cIrritating Gunk§6 [Lv. 100]@ 
+§cRampaging Velotante§6 [Lv. 102]@ 
+§cStalking Eye§6 [Lv. 100]@ 
+§cDyeing Eye§6 [Lv. 102]@ 
+§cFiery Heart§6 [Lv. 98]@ 
+§cWatery Heart§6 [Lv. 98]@ 
+§cEarthy Heart§6 [Lv. 98]@ 
+§cShading Eye§6 [Lv. 102]@ 
+§cDreading Eye§6 [Lv. 102]@ 
+§cThat Which Coalesces§6 [Lv. 105]@ 
+§cToxified Arthropod§6 [Lv. 99]@ 
+§cToxified Sheep§6 [Lv. 99]@ 
+§cToxified Giant§6 [Lv. 100]@ 
+§cScared Eye§6 [Lv. 102]@ 
+Shrek @ 
+Malai@ 
+Tikiti maji@ 
+Eternity_JeanTi@ 
+§cReshaped Blank§6 [Lv. 104]@ 
+§cWatching Eye§6 [Lv. 100]@ 
+§cZombified Cow§6 [Lv. 59]@ 
+2 in da pink@ 
+§cMutated Lutho Citizen§6 [Lv. 105]@ 
+§cDense Slime Chunk§6 [Lv. 104]@ 
+§cParasitic Slimer§6 [Lv. 103]@ 
+§cKing of the Parasitic Slimers§6 [Lv. 108]@ 
+§3Hams_@ 
+§cPoison Tendril§6 [Lv. 104]@ 
+§cToxxulous Ripper§6 [Lv. 105]@ 
+§cLarbonic Canker§6 [Lv. 108]@ 
+§cToxical Stalker§6 [Lv. 105]@ 
+§cVirulent Bacteria§6 [Lv. 102]@ 
+§cRadiated Mutant Spider§6 [Lv. 106]@ 
+§cUpside Downer§6 [Lv. 109]@ 
+§cCrab of the Red Sands§6 [Lv. 106]@ 
+§cVoid Grub§6 [Lv. 100]@ 
+§cGiga Goo§6 [Lv. 110]@ 
+§7 @ 
+§cVoid Demon§6 [Lv. 111]@ 
+§cBog Creature§6 [Lv. 102]@ 
+VPickaxe12076@ 
+§cExplosive Beast§6 [Lv. 102]@ 
+§cInvading Toxin§6 [Lv. 102]@ 
+§cToxitack§6 [Lv. 104]@ 
+§cSpewer§6 [Lv. 107]@ 
+§cToxamine§6 [Lv. 104]@ 
+<o/@ 
+DappyKape@ 
+§0.@ 
+§cVolatile Host§6 [Lv. 101]@ 
+Tugboat777@ 
+Fairy Floss@ 
+Violence is key@ 
+Green Goblin@ 
+Diglett@ 
+§cNurturing Kanter§6 [Lv. 110]@ 
+§cProtective Kantyr§6 [Lv. 110]@ 
+§cConaedi Guardian§6 [Lv. 106]@ 
+§cToxic Cloud§6 [Lv. 101]@ 
+§cToxic Creeper§6 [Lv. 107]@ 
+§cPathogenesis§6 [Lv. 106]@ 
+§cGreen Foot§6 [Lv. 108]@ 
+§cLidin Fledgling§6 [Lv. 101]@ 
+§cDark Beast Idol§6 [Lv. 107]@ 
+§cInverspirit§6 [Lv. 105]@ 
+§cInverstare§6 [Lv. 103]@ 
+§cTaker§6 [Lv. 101]@ 
+§cHaphephobe§6 [Lv. 104]@ 
+§cShimmerstar§6 [Lv. 100]@ 
+§cReversion Catalyst§6 [Lv. 101]@ 
+§cFlickering Shimmerstar§6 [Lv. 101]@ 
+§cReversion Catalyst§6 [Lv. 103]@ 
+§cScalecore§6 [Lv. 101]@ 
+§cFlaking Scalecore§6 [Lv. 102]@ 
+§cReversion Catalyst§6 [Lv. 105]@ 
+§cDark Core§6 [Lv. 102]@ 
+§cDistorting Core§6 [Lv. 103]@ 
+§cReversion Catalyst§6 [Lv. 107]@ 
+§cCore Expulsion§6 [Lv. 103]@ 
+§cCaliginous Reversion§6 [Lv. 104]@ 
+§cReversion Catalyst§6 [Lv. 109]@ 
+§cThe Wretches§6 [Lv. 109]@ 
+§cParticle1§6 [Lv. 0]@ 
+§cParticle2§6 [Lv. 0]@ 
+§cRetaliating Gazer§6 [Lv. 109]@ 
+Stratos@ 
+purehound@ 
+ShadowPrower@ 
+§cBob's Reincarnation§6 [Lv. 110]@ 
+XGhostzz_Random_Sound@ 
+XGhostzz_FT_PushableBlock@ 
+XGhostzz_FT_Target@ 
+XGhostzz_Random_Sound3@ 
+XGhostzz_Random_Sound2@ 
+XGhostzz_FT_Scanner@ 
+XGhostzz_FT_PushableBlock_Selected@ 
+XGhostzz_FT_PushableBlock_Moving@ 
+cocococo@ 
+Bade@ 
+robopig3000@ 
+Luky0@ 
+§cStatue Knight §f▪§8▪§6 [Lv. 54]@ 
+§cZangori Slime§6 [Lv. 57]@ 
+§cVerdant Slime§6 [Lv. 55]@ 
+§cGooey Knight §f▪▪§6 [Lv. 52]@ 
+§cCitrus Slime§6 [Lv. 54]@ 
+§cMucous Slingra§6 [Lv. 54]@ 
+§cRadiant Slime§6 [Lv. 58]@ 
+§cBevonatu Slykaar§6 [Lv. 63]@ 
+§cVointi Slime§6 [Lv. 63]@ 
+§cSkyshroom§6 [Lv. 99]@ 
+Geoff@ 
+§cCow?§6 [Lv. 59]@ 
+Epicness937@ 
+Scuffatron 3000@ 
+S.C.U.F@ 
+§cTakertuva Slime§6 [Lv. 60]@ 
+§cMaelstrom Beholder§6 [Lv. 107]@ 
+§cCascading Artery§6 [Lv. 110]@ 
+§cEye§6 [Lv. 2]@ 
+ptoHoleRandom@ 
+ptoHole@ 
+corpe_rtddbvoidhole22@ 
+corpe_rtddbvoidhole33@ 
+corpe_eyevoidholetimer1@ 
+corpe_rtddbvoidhole11@ 
+corpe_rtddbvoidhole44@ 
+corpe_rtddbvoidhole55@ 
+corpe_rtddbvoidhole3@ 
+corpe_rtddbvoidhole4@ 
+corpe_rtddbvoidhole1@ 
+corpe_rtddbvoidhole2@ 
+corpe_eyevoidholetimer2@ 
+corpe_rtddbvoidhole5@ 
+Bae@ 
+nibba@ 
+Booooooooooooom@ 
+§ao§6 [Lv. 1]@ 
+§cPirate Skirmisher§6 [Lv. 50]@ 
+Ghost@ 
+§cNitro Nucleus§6 [Lv. 105]@ 
+Compact Cat 2.0@ 
+§cHaphephile§6 [Lv. 104]@ 
+§cUnstable Phenomenon§6 [Lv. 107]@ 
+§cMaelstrom Clinger§6 [Lv. 106]@ 
+§cSwirling Vortex§6 [Lv. 109]@ 
+Carboon@ 
+§cTiny Goo§6 [Lv. 99]@ 
+Leonidas@ 
+Blitz@ 
+Lel2Poulet@ 
+CowsHateMoos@ 
+Legend@ 
+Youpi@ 
+Thing  1@ 
+Thing  3@ 
+Thing  2@ 
+§cRiled Skyshroom Enthusiast§6 [Lv. 96]@ 
+Klichei@ 
+Ice cream Altsu@ 
+Little Altsu@ 
+Grass Altsu@ 
+§aThrown Seeds§6 [Lv. 1]@ 
+Infinius@ 
+§cEater Of Light§6 [Lv. 110]@ 
+§aJump Pad§6 [Lv. 100]@ 
+§aWall Jump§6 [Lv. 1]@ 
+§aFourEm§6 [Lv. 1]@ 
+§cInvisible NPC§6 [Lv. 90]@ 
+§aWaterGlass§6 [Lv. 1]@ 
+§aCrew5§6 [Lv. 100]@ 
+§aCrew3§6 [Lv. 100]@ 
+§aThat Which Coalesces§6 [Lv. 105]@ 
+§cDusty Librarian§6 [Lv. 52]@ 
+§0ddd@ 
+AL73@ 
+§cExtinguished Husk§6 [Lv. 39]@ 
+Crazy@ 
+MasterKush@ 
+Kushy@ 
+Cloudy@ 
+woobeewoo@ 
+Rodriguinhu@ 
+FradiFradi@ 
+§cJinko Loco Assassino§6 [Lv. 86]@ 
+SwagSuperEagle@ 
+AndhyIrfanID@ 
+Hombruh@ 
+BobLeSwagger@ 
+Future Base@ 
+Big P@ 
+§cGiant Rat§6 [Lv. 29]@ 
+MaGNesiuMz_@ 
+Can I eat yet@ 
+corpe_grookwartsflame@ 
+awsCannonBallHitPoint@ 
+§cMilitary Boss§6 [Lv. 105]@ 
+§cRagni Defender§6 [Lv. 103]@ 
+§cRagni Citizen§6 [Lv. 103]@ 
+corpe_almujparkourreset@ 
+§cTheorick§6 [Lv. 100]@ 
+§cIce Spear§6 [Lv. 45]@ 
+§cLegend Guard§6 [Lv. 103]@ 
+WedyfInvisThing@ 
+§cCorrupted§6 [Lv. 103]@ 
+§cRaw Corrupted Energy§6 [Lv. 100]@ 
+§cCorrupter of Land§6 [Lv. 100]@ 
+WedyfRuneGameBarrier2@ 
+WedyfRuneGameBarrier@ 
+WedyfRuneGame@ 
+WedyfUthRune@ 
+WedyfNiiRune@ 
+WedyfTolRune@ 
+§cCreature from Underneath§6 [Lv. 105]@ 
+§cDecaying Swamp Naga§6 [Lv. 101]@ 
+bridgeemeraldthing@ 
+§cSwamp Parasite§6 [Lv. 103]@ 
+§cFailed Iron Golem§6 [Lv. 100]@ 
+Satan@ 
+WedyfRodoThing@ 
+§1@ 
+§0@ 
+"WedyfCatapult5"@ 
+§cChief Avos§6 [Lv. 93]@ 
+§2[§aPlace Totem§2]@ 
+WedyfTotemThing@ 
+ptoRandomizer@ 
+§cMaxi-M Mobile Cannon 04§6 [Lv. 99]@ 
+§cMaxi-M Combat Disruptor 02§6 [Lv. 99]@ 
+§cMaxie§6 [Lv. 90]@ 
+§cAledar, the Betrayed§6 [Lv. 101]@ 
+§cTasim, the Resigned§6 [Lv. 101]@ 
+§cExplosive Charge§6 [Lv. 90]@ 
+§cElite Detlas Archer§6 [Lv. 90]@ 
+§cElite Detlas Mage§6 [Lv. 90]@ 
+§cElite Detlas Guard§6 [Lv. 90]@ 
+§cTasim, the Protector§6 [Lv. 101]@ 
+§cElite Detlas Archer§6 [Lv. 95]@ 
+§cElite Detlas Guard§6 [Lv. 95]@ 
+§cElite Detlas Mage§6 [Lv. 95]@ 
+HAH GAYYYYY@ 
+Pet_Pebble@ 
+§cRymek Luke §f▪§8▪§6 [Lv. 45]@ 
+§cRymek Luke §f▪▪§6 [Lv. 45]@ 
+Se123bi@ 
+RTD Treasure Hunt@ 
+Buddy@ 
+§cGrand Magus§6 [Lv. 75]@ 
+Casio@ 
+QuickSilver@ 
+ptoRainMobs1@ 
+§cExplosive Charge§6 [Lv. 95]@ 
+§cAledar, the Exterminator§6 [Lv. 101]@ 
+FireOfTheGodsx@ 
+uDanni@ 
+weirdbunny@ 
+Ball Of Cabbage@ 
+LordIncubus@ 
+UnknownBlank@ 
+Peppermint@ 
+InfinityBowman@ 
+Bool@ 
+2Fast4You@ 
+UnLuckyBlock@ 
+aatv@ 
+Waya_P@ 
+MasterBot V2@ 
+§cCrystal Sentry§6 [Lv. 75]@ 
+§cLight Weaver§6 [Lv. 85]@ 
+golden rat@ 
+Tracenji420@ 
+Terrarusis@ 
+pumsito@ 
+Chromisis@ 
+Charcoal@ 
+Snowman@ 
+bLand@ 
+Candy@ 
+Delinki@ 
+robohamster@ 
+Cilahn@ 
+GayBoy@ 
+StunLocked@ 
+Dusk@ 
+kgh0744@ 
+creeper@ 
+Mintae@ 
+NoobPro@ 
+§cLocust of Transformation§6 [Lv. 50]@ 
+Gucci Bang@ 
+Luis@ 
+Graphiter@ 
+Baguette@ 
+Aventi@ 
+Lil Hal@ 
+Krooks_Alt@ 
+Pigfish01@ 
+DiezXD@ 
+Imaxelius@ 
+Chantilly@ 
+Porg@ 
+BB-8@ 
+Ray@ 
+Voydz@ 
+Zygorg@ 
+DDungE_E@ 
+Akl@ 
+Ill be Tracer@ 
+IM ALRY TRACER@ 
+Neger@ 
+Honeydew@ 
+btg_fireRing@ 
+MasterWybel@ 
+Zeiref@ 
+Abrus@ 
+Cybel@ 
+Meme Stealer@ 
+juliusbl@ 
+destiel child@ 
+§cCastaway High Priest§6 [Lv. 90]@ 
+The frying pan@ 
+Yui@ 
+Mort@ 
+Arnold@ 
+Cheese@ 
+Mr. Mc. Creepy@ 
+RedKingNL@ 
+PapaWulf@ 
+Snowflake@ 
+MiniFlauticas@ 
+§6§lMore Minigames ->@ 
+§bHere you'll find plenty of@ 
+§bWynnter Spirit in forms of minigames!@ 
+§6§lWelcome to the Wynnter Fair!@ 
+§bPrizes to be won await!@ 
+§4§lParkour Exit@ 
+§7Welcome to@ 
+§a§lPig Puck@ 
+§7There are two teams that compete against each other to win.@ 
+§7A game like ice hockey but, with a pig as a puck!@ 
+§dPig Puck Merchant@ 
+§6§lAvalanche@ 
+§6§lThin Ice@ 
+§6§lPig Puck@ 
+§6§lWybelKart §eGet first place in a racing experience, out of 3 laps!@ 
+§6§lThin Ice §eWatch out! The ground crumbles behind you! Last one standing wins!@ 
+§6§lSanta Says@ 
+§6§lParkour@ 
+§6§lDodge 'Em@ 
+§2§7Click to join@ 
+§dCosmetic Merchant@ 
+§6§lWybelKart@ 
+§6§lWynnter Fair@ 
+§7Back To@ 
+§a§lSanta Says@ 
+§7Compete aginst the clock to win as many gifts as possible!@ 
+§7Complete all 6 tasks in within the 30 second time limit to earn 2 extra gifts.@ 
+§7Play alone or with up to 3 friends for maximum teamwork.@ 
+§a§lClick to Join@ 
+§fStatus: §aWaiting...@ 
+§fPlayers: §e0§7/§e3@ 
+awsSsModule2@ 
+game2enter@ 
+§cG§fi§cf§ft §cC§fo§cu§fn§ct§fe§cr@ 
+awsSsModule1@ 
+game1enter@ 
+presentPlacer1@ 
+presentPlacer3@ 
+§fPlayers: §e1§7/§e3@ 
+§gStatus: §cIn Progress@ 
+§aGrain Barrel@ 
+§7Maximum: §f3@ 
+§7§oClick to Take@ 
+§aWheat Stack@ 
+§aReindeer§6 [Lv. 20]@ 
+§aDasher@ 
+§7Preference: §fGrain@ 
+§7§oClick to Feed@ 
+§aDancer@ 
+§aPrancer@ 
+§7Preference: §fWheat@ 
+§aVixen@ 
+§aCommet@ 
+§aCupid@ 
+§aDonner@ 
+§cReindeer@ 
+§7§oClick to Save@ 
+awsChickenGate@ 
+§aEggnog Pot@ 
+§7§oClick to Add Ingredients@ 
+§aCooking Equiptment@ 
+§7§oClick to Grab a Bucket@ 
+§aChicken Pen Gate@ 
+§7Requires: §fKey@ 
+§7§oClick to Open Gate@ 
+§aChicken Nest@ 
+§7§oClick to Grab Eggs@ 
+§aSugar Cane@ 
+§7§oClick to Grab Sugar Cane@ 
+§aCane Refiner@ 
+§7Requires: §fSugar Cane@ 
+§7§oClick to Make Sugar@ 
+§aChicken Pen Key§6 [Lv. 1]@ 
+§aChicken Coop Key@ 
+§7§oClick to Pick up the Key@ 
+§aBessy the Dairy Cow@ 
+§7Requires: §fBucket@ 
+§7§oClick to Milk@ 
+awsBlockPlacer2@ 
+§aDough Pile@ 
+§aCake Pile@ 
+§7§oClick to Place@ 
+§aFree Oven@ 
+§7Requires Dough@ 
+§7§oClick to Cook@ 
+§4[§7Cooking§4]@ 
+§6[§eCo§7oking§6]@ 
+§6[§eCook§7ing§6]@ 
+§2[§7Cookin§ag§2]@ 
+§cCooked Cake@ 
+§7§oClick to Collect@ 
+§2[§aCookin§7g§2]@ 
+§cThe Grinch§6 [Lv. 50]@ 
+§cSiege Zombie§6 [Lv. 45]@ 
+§cSiege Archer Zombie§6 [Lv. 45]@ 
+§cRunners@ 
+§o§7Click to Grab@ 
+§cChair@ 
+§cRope@ 
+§cPresent@ 
+§aPresent@ 
+§o§7Click to Place@ 
+§aChair@ 
+§aRunners@ 
+awsSantaSays2@ 
+awsSantaSays1@ 
+awsSantaSays3@ 
+awsSantaSays4@ 
+awsSantaSays5@ 
+§aPlace Decoration@ 
+§7§oClick to Place Decoration@ 
+§7Maximum: §f1@ 
+§7§oClick to Get a Decoration@ 
+§cDecoration Chest@ 
+§dCookie Merchant@ 
+§aElusive Elf§6 [Lv. 40]@ 
+§cFallen Tree@ 
+§o§7Click to Push@ 
+§cOld Snowman@ 
+§o§7Click to collapse@ 
+§aDust Pile@ 
+§7Click to Sweep@ 
+§7Back to@ 
+§aParkour@ 
+§7The parkour consists of 3 Checkpoints@ 
+§7Make sure you go through them to save your progress@ 
+§b§lReward:@ 
+§7For the 1st run@ 
+§b10 Presents@ 
+§7For all next runs@ 
+§b6 Presents@ 
+§7(3/3)@ 
+§7(1/3)@ 
+§6§lLaunch@ 
+§fPlayers: §e0§7/§e10@ 
+§a§lClick to join@ 
+§a§lDodge 'Em@ 
+§7Beware of the Hunter!@ 
+§7At the start of each game a hunter is randomly selected.@ 
+§7The others must survive 1 minute without being pushed off.@ 
+ThIceCountingAS_1@ 
+§77@ 
+§76@ 
+§75@ 
+§74@ 
+§73@ 
+§72@ 
+§71@ 
+§70@ 
+§79@ 
+§78@ 
+§fPlayers: §e1§7/§e10@ 
+§c§lAvalanche §d- §fDifficulty: §a§lEasy@ 
+§7Right-Click to Join@ 
+§c§lAvalanche §d- §fDifficulty: §4§lHard@ 
+§a§lAvalanche@ 
+§7An avalanche is going to engulf Lusuco!@ 
+§7It's your job to prepare the town as much as you can.@ 
+§c§lAvalanche §d- §fDifficulty: §6§lMedium@ 
+§2Yot@ 
+§2Forve@ 
+§aPerkon§6 [Lv. 1]@ 
+§2Reddy@ 
+§2Miti@ 
+§a[Complete: Lost in The Snow]@ 
+§a[Complete: Defending the Gate]@ 
+§2Jaybip@ 
+§aUnstable Tnt§6 [Lv. 0]@ 
+§2Right Click to@ 
+§7Get the §a§lUnstable TNT@ 
+§2Ario@ 
+§2Elsa@ 
+§2Sven@ 
+§2Olaf@ 
+§7Deliver the §a§lUnstable TNTs@ 
+§a[Complete: Explosion Prevetion]@ 
+§2Jared@ 
+§2Hans@ 
+§aKristoff§6 [Lv. 1]@ 
+§2Kristoff@ 
+VAvalancheScorer@ 
+VAvalancheMessenger@ 
+§3Collect parts@ 
+§7to mend the heater@ 
+§7Right-click with a@ 
+VHeaterMessenger@ 
+§7part to add it@ 
+§cSnow Sprite§6 [Lv. 40]@ 
+§cBlizotaur§6 [Lv. 42]@ 
+§cSnowift§6 [Lv. 40]@ 
+§cAvalield§6 [Lv. 40]@ 
+§cFlocon§6 [Lv. 45]@ 
+§cSnowtinel§6 [Lv. 43]@ 
+§cWhiteout§6 [Lv. 40]@ 
+§cDelugiolem§6 [Lv. 40]@ 
+§2Nybun@ 
+§cTC§6 [Lv. 1]@ 
+§aGet the Temperature Controller@ 
+§cHV§6 [Lv. 2]@ 
+§aGet the Hydraulic Valve@ 
+§cEngine§6 [Lv. 2]@ 
+§aGet the Engine@ 
+§aPlace the Items in the Generator@ 
+§2Diro@ 
+§a[Complete: Temperature Control]@ 
+§7Left-Click to@ 
+§aDig the Snow@ 
+§7(2/3)@ 
+§7effect@ 
+§b§lSpeed@ 
+§a§lJump@ 
+§cC§6 [Lv. 1]@ 
+§cSanta's Coat@ 
+§dTree Merchant@ 
+§a§lThin Ice@ 
+§7The floor is melting, don't stop running!@ 
+§7Play with 3-7 other players for a harder challenge.@ 
+§7The last player left running is awarded gifts.@ 
+§fPlayers: §e0§7/§e7@ 
+§7Spectating@ 
+§6§lArea@ 
+§7Players: §e0§7/§e7@ 
+§7Status: §aWaiting...@ 
+Hugo@ 
+Roxy@ 
+§fPlayers: §e2§7/§e3@ 
+awsBlockPlacer1@ 
+§aRope@ 
+§dArmor Merchant@ 
+§7§oClick to Grab Key@ 
+§aDairy Cow@ 
+§7§oClick to Milk the Cow@ 
+badvibezforever@ 
+§aLevitation Potion§6 [Lv. 0]@ 
+§2Young Boy@ 
+§aKid§6 [Lv. 0]@ 
+§2Young Girl@ 
+Gloop@ 
+§aSnowman§6 [Lv. 20]@ 
+§6[Wynnter Fair Reward]@ 
+§fPlayers: §e1§7/§e7@ 
+§2Dog@ 
+§cBlanket§6 [Lv. 2]@ 
+§aGet the Blanket.@ 
+§aGet Water@ 
+ReeeeeeeMythical@ 
+FiaBoi@ 
+WataBoi@ 
+Ocronomic@ 
+§a[Complete: Child Rescue]@ 
+§aDeliver the Ingredients@ 
+§aCobweb§6 [Lv. 0]@ 
+§a1x@ 
+§a2x@ 
+§aRedstoneProjectile§6 [Lv. 1]@ 
+§a3x@ 
+§c§6 [Lv. 1]@ 
+§cSnow Sprite§6 [Lv. 70]@ 
+§cBlizotaur§6 [Lv. 77]@ 
+§cSnowift§6 [Lv. 70]@ 
+§cAvalield§6 [Lv. 72]@ 
+§cFlocon§6 [Lv. 75]@ 
+§cSnowtinel§6 [Lv. 75]@ 
+§cWhiteout§6 [Lv. 80]@ 
+§cDelugiolem§6 [Lv. 75]@ 
+CT Pet - Modeler@ 
+Floofy@ 
+§7Jbip's CT Pet - GM@ 
+§7Peeves5200's CT Pet - Moderator@ 
+Infernikko@ 
+Boomer@ 
+Jtree@ 
+Scourge114@ 
+§a[Complete: Stone Cold]@ 
+ArrowGamez@ 
+HOVER@ 
+Encastinator@ 
+Unicorn@ 
+Celise@ 
+DominikGamer@ 
+Appowo@ 
+§7Salkasm's CT Pet - Moderator@ 
+§f§l2@ 
+§f§l4@ 
+§f§l6@ 
+
+§e0§7/§62@ 
+§e1§7/§62@ 
+§e2§7/§62@ 
+§eSpider Egg§6 [Lv. 20]@ 
+§e4x ••••@ 
+§eLunatic Devote§6 [Lv. 32]@ 
+§eKaian Sorcerer§6 [Lv. 99]@ 
+§eCyclops§6 [Lv. 84]@ 
+§eFire Disciple§6 [Lv. 87]@ 
+§e3@ 
+§e1@ 
+§e5@ 
+§e4@ 
+§e2@ 
+§eSecurity Guard§6 [Lv. 75]@ 
+§eWild Boar§6 [Lv. 70]@ 
+§eAerolia Flower§6 [Lv. 16]@ 
+§eWayward Idol§6 [Lv. 66]@ 
+§eUnburied Remains§6 [Lv. 50]@ 
+§eTribal Ritualmaster§6 [Lv. 65]@ 
+§eCoursing-Watch Golem§6 [Lv. 55]@ 
+§eRelic Guardian§6 [Lv. 55]@ 
+§eVolatile Durian§6 [Lv. 52]@ 
+§eFruit Bat§6 [Lv. 62]@ 
+§eDragon Turtle§6 [Lv. 84]@ 
+§eDragonborn Sentinel§6 [Lv. 84]@ 
+§eWandering Elf§6 [Lv. 76]@ 
+§eZombified Sheep§6 [Lv. 8]@ 
+§eAngry Blacksmith§6 [Lv. 26]@ 
+§eAngry Farmer§6 [Lv. 24]@ 
+§eStrato's Soul§6 [Lv. 44]@ 
+§eSacrificial Altar§6 [Lv. 25]@ 
+§eSloughing Sandpile§6 [Lv. 30]@ 
+§eTumbleweed§6 [Lv. 35]@ 
+§ePotato Treasurer of Olux§6 [Lv. 54]@ 
+§eVenerable Werewolf§6 [Lv. 74]@ 
+§eDeacon of the Order§6 [Lv. 70]@ 
+§eTerva Bison§6 [Lv. 26]@ 
+§eLarkster Pirate§6 [Lv. 6]@ 
+§eLarkster Pirate§6 [Lv. 5]@ 
+§eLarkster's Cook§6 [Lv. 7]@ 
+§eKatoa Crab§6 [Lv. 4]@ 
+§eCaptured Root Golem§6 [Lv. 11]@ 
+§eRelic Guardian§6 [Lv. 50]@ 
+§eAnimated Statue§6 [Lv. 16]@ 
+§eOdd Mushroom§6 [Lv. 73]@ 
+§eArwins§6 [Lv. 74]@ 
+§eRelic Guardian§6 [Lv. 40]@ 
+§eWynnic Sailor§6 [Lv. 30]@ 
+§eLush Water Skater§6 [Lv. 30]@ 
+§eCaptain Larkster§6 [Lv. 8]@ 
+§eRelic Guardian§6 [Lv. 25]@ 
+§eDrunk Bandit§6 [Lv. 36]@ 
+§eBurly Bandit§6 [Lv. 35]@ 
+§eTavern Bandit§6 [Lv. 32]@ 
+§eGreedy Miner§6 [Lv. 37]@ 
+§eBrawler Bandit Guard§6 [Lv. 35]@ 
+§eLunar Possessed§6 [Lv. 36]@ 
+§eSpiny Skeleton Guard§6 [Lv. 35]@ 
+§eTomb Robber§6 [Lv. 36]@ 
+§ePossessive Militarist§6 [Lv. 34]@ 
+§eRelic Guardian§6 [Lv. 35]@ 
+§eDrunken Gambler§6 [Lv. 74]@ 
+§eRamhead Worshipper§6 [Lv. 63]@ 
+§eRamhead Charger§6 [Lv. 63]@ 
+§eSogbrush§6 [Lv. 50]@ 
+§eNovice Fire Mage§6 [Lv. 84]@ 
+§eGnomish Archaeologist§6 [Lv. 80]@ 
+§eIsland Crab§6 [Lv. 34]@ 
+§eSturdy Crab§6 [Lv. 28]@ 
+§eDrunked Mate§6 [Lv. 42]@ 
+§ePirate§6 [Lv. 60]@ 
+§eCaptain Smokey§6 [Lv. 95]@ 
+§eCorkian Sailor§6 [Lv. 85]@ 
+§eDrunk Corkian Sailor§6 [Lv. 85]@ 
+§eAgullos§6 [Lv. 81]@ 
+§eCorbys§6 [Lv. 81]@ 
+§ePolar Bear§6 [Lv. 44]@ 
+§ePlains Brigand§6 [Lv. 45]@ 
+§eForest Guardian§6 [Lv. 75]@ 
+§eHobgoblin Farmer§6 [Lv. 80]@ 
+§eShimmerstalk§6 [Lv. 88]@ 
+§eBäckahästen§6 [Lv. 85]@ 
+§eThesead Marshal§6 [Lv. 85]@ 
+§eMage§6 [Lv. 60]@ 
+§ePrivateer§6 [Lv. 58]@ 
+§ePrivateer Captain§6 [Lv. 61]@ 
+§eDurum Scarecrow§6 [Lv. 20]@ 
+§eDark Skeleton Warrior§6 [Lv. 95]@ 
+§eAdventuring Hobbit§6 [Lv. 95]@ 
+§eGuard§6 [Lv. 35]@ 
+§eRelic Guardian§6 [Lv. 30]@ 
+§eRelic Guardian§6 [Lv. 60]@ 
+§eSpider Egg§6 [Lv. 72]@ 
+§eMooington§6 [Lv. 57]@ 
+§eBoar§6 [Lv. 70]@ 
+§eCarrion Spider§6 [Lv. 94]@ 
+§eSuspicious Egg§6 [Lv. 90]@ 
+§eRaging Bull§6 [Lv. 85]@ 
+§eElven Merchant§6 [Lv. 80]@ 
+§eScared Citizen§6 [Lv. 80]@ 
+§eCorkus Citizen§6 [Lv. 80]@ 
+§ePatriotic Scientist§6 [Lv. 86]@ 
+§ePatriotic Engineer§6 [Lv. 86]@ 
+§eLegend Keeper Golem§6 [Lv. 55]@ 
+§eSkyraider§6 [Lv. 100]@ 
+§eRodoroc Peacekeeper§6 [Lv. 96]@ 
+§eLight Ice Mage§6 [Lv. 91]@ 
+§eDwarven Poacher§6 [Lv. 95]@ 
+§eAvos Young Soldier§6 [Lv. 90]@ 
+§eAvos Shaman§6 [Lv. 93]@ 
+§eAvos Guard§6 [Lv. 92]@ 
+§eAvos Warrior§6 [Lv. 93]@ 
+§eLonely Spider§6 [Lv. 18]@ 
+§eDrunk Relos Sailor§6 [Lv. 80]@ 
+§eSalt-soaked Skeleton§6 [Lv. 34]@ 
+§eFleris Matriarch§6 [Lv. 91]@ 
+§eScared Wybel§6 [Lv. 90]@ 
+§e"Human"§6 [Lv. 35]@ 
+§eDocile Wolf§6 [Lv. 64]@ 
+§eSpring Murloc§6 [Lv. 65]@ 
+§eStone Cutter Mole§6 [Lv. 94]@ 
+§eRelic Guardian§6 [Lv. 65]@ 
+§eDeranged Parrot§6 [Lv. 66]@ 
+§eCrystalline Guardian§6 [Lv. 75]@ 
+§eFallen Wybel§6 [Lv. 95]@ 
+§eCoastal Monkey§6 [Lv. 70]@ 
+§e"Pirate"§6 [Lv. 45]@ 
+§eNii Guardian§6 [Lv. 75]@ 
+§e§lКЛИКНИТЕ@ 
+§e§lКЛИКНИТЕ@ 
+§e§lНАЖМИТЕ@ 
+§eИграют: 44@ 
+§e§lНАЖМИТЕ, ЧТОБЫ НАЧАТЬ ИГРАТЬ@ 
+§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§e▮§7▮§7▮§7▮§7▮@ 
+§eИграют: 1@ 
+§eИграют: 27,573@ 
+§eИграют: 71@ 
+§eИграют: 497@ 
+§eИграют: 27,569@ 
+§eИграют: 63@ 
+§eИграют: 27,581@ 
+§eИграют: 498@ 
+§eИграют: 27,593@ 
+§eИграют: 495@ 
+§eИграют: 494@ 
+§eИграют: 27,604@ 
+§eИграют: 493@ 
+§eИграют: 27,591@ 
+§eИграют: 27,585@ 
+§eИграют: 27,588@ 
+§eИграют: 64@ 
+§eИграют: 27,596@ 
+§eИграют: 45@ 
+§eИграют: 491@ 
+§eИграют: 27,601@ 
+§eИграют: 27,590@ 
+§eИграют: 489@ 
+§eИграют: 490@ 
+§eИграют: 27,600@ 
+§eИграют: 27,621@ 
+§eИграют: 65@ 
+§eИграют: 492@ 
+§ePunch to warp@ 
+§eDice Pet@ 
+§eMasked Man Pet@ 
+§eElephant Pet@ 
+§eTrooper Pet@ 
+§e§l§e§lAr§a§lca§b§lde §d§lShuffle@ 
+§eSwagonite Pet@ 
+§eCookie Pet@ 
+§eИграют: 27@ 
+§eИграют: 521@ 
+§eИграют: 24,019@ 
+§eИграют: 68@ 
+§eИграют: 30@ 
+§eИграют: 24,018@ 
+§eИграют: 31@ 
+§eИграют: 519@ 
+§eИграют: 67@ 
+§eИграют: 24,016@ 
+§eИграют: 24,028@ 
+§eИграют: 66@ 
+§eИграют: 24,015@ 
+§eИграют: 518@ 
+§eИграют: 23,997@ 
+§eИграют: 26@ 
+§eИграют: 24,030@ 
+§eИграют: 32@ 
+§eИграют: 520@ 
+§eИграют: 24,035@ 
+§eИграют: 25@ 
+§eWeird Stone§6 [Lv. 81]@ 
+§eEastern Nomad§6 [Lv. 95]@ 
+§eБорыго@ 
+§eBlacksmith Goblin§6 [Lv. 45]@ 
+§eEmerald-Enthralled§6 [Lv. 97]@ 
+§eVoid Hole?§6 [Lv. 109]@ 
+§eCrying Eye§6 [Lv. 103]@ 
+§eVoid Demons Legs§6 [Lv. 108]@ 
+§ePlagued Kantyri§6 [Lv. 110]@ 
+§eSkyshroom Enthusiast§6 [Lv. 96]@ 
+§eAberrated Lutho Citizen§6 [Lv. 104]@ 
+§e§lCheckpoint@ 
+§epad@ 
+§e§lFinish@ 
+ darkeoj@ 
+BlizzardLarry@ 
+UltraIcey@ 
+Valbahutog@ 
+MajesticMaj@ 
+corrupt. galleon@ 
+Nova@ 
+Susbag@ 
+Toper01@ 
+corrupt. ff@ 
+bolyai@ 
+Hydroangeas@ 
+I_Blue_03@ 
+ElbisKuha@ 
+MrHmar@ 
+PsychoLizard@ 
+Hakan0404@ 
+Holy_Nipples@ 
+Kitty@ 
+Dikage@ 
+Destiel@ 
+MotherFucker@ 
+Werveh@ 
+Arasmith@ 
+GODLY@ 
+Smaug@ 
+Shenron@ 
+wecanseeyou@ 
+Nibbit10@ 
+Mon Chou@ 
+ewe@ 
+Creeper [Lv. 5]@ 
+SlowMoti0n@ 
+CataWarpStrati@ 
+Sergeant_Bear@ 
+Cream Pie [Lv. 0@ 
+Luffy@ 
+PlusEternal@ 
+sniempie@ 
+wxyz_420@ 
+§a§0§6 [Lv. 25]@ 
+Chlamydia@ 
+Turk@ 
+Ripiji@ 
+Strider913@ 
+MineJallerXD@ 
+Chaos__@ 
+PixelMinerXD123@ 
+_Shadow_Echo_@ 
+_xiDr4goNz_PvP@ 
+walltime@ 
+InZorg@ 
+Nisovin@ 
+ShyThing@ 
+Server_Gears@ 
+Squiggles@ 
+RaulieBoelie@ 
+Mr.Piggles@ 
+EDSHOT MACHINE@ 
+Kyle@ 
+Grover@ 
+Wilson@ 
+ReYZhiA_@ 
+Goldfish@ 
+minekami@ 
+kmaxi@ 
+pogge5@ 
+lv 1000/MEG@ 
+lv0/as@ 
+Pffa@ 
+MonsterXHunter@ 
+JetBoxOne_478@ 
+Richloxy@ 
+A80367@ 
+springel@ 
+Blastbox@ 
+Nivla@ 
+Cloudead@ 
+carld2@ 
+HeckinGay@ 
+Elephat@ 
+seafoam@ 
+Join NzT@ 
+Savage@ 
+Nakola@ 
+ender_king5000@ 
+Mr. Boom@ 
+KallaMigRicardo@ 
+MasterB645@ 
+SimplyDeku@ 
+Pathetic@ 
+Iboju@ 
+Chickkeen@ 
+xSnejx@ 
+CinZaDo@ 
+me chupem@ 
+EEG 4@ 
+Arurial@ 
+x_Divine_Hero_x@ 
+Gun4Fun4Ever@ 
+Scuffed Bunny@ 
+Armadaeiel@ 
+SJBuggs@ 
+Moon_Lord@ 
+Abstriction@ 
+SleepingXor@ 
+Scorpxzz@ 
+Pocket-Mercy@ 
+HoneyBlu@ 
+ana 7ello@ 
+Thamigo@ 
+SirDuckington26@ 
+Verros@ 
+Minty@ 
+The_Minez@ 
+Bomber@ 
+PlayWithArcane_@ 
+BONTEN_MARU@ 
+MEME BOT V4.20@ 
+HeyImCutie@ 
+Ulla Milku@ 
+Torvyx@ 
+Fireblazer190@ 
+BanBird_???@ 
+§fAirship Attendant@ 
+§fShip Bartender@ 
+§fShip Captain@ 
+§7[§c§lPVP ISLAND§f§7]@ 
+§7Item Vendor@ 
+§bVenrodier@ 
+§bVenrodier's Assistant@ 
+§fChief Airport Officer@ 
+§3[§bPUN§3] Representative@ 
+§3[§bFox§3] LoveLusting@ 
+§7[§d§lTRASH BIN§f§7]@ 
+§3[§bANO§3] Representative@ 
+§7Powder Master@ 
+§dPowdee@ 
+§eWynncon Guide@ 
+§3§lGuild Master@ 
+§e§lEvent Host yosteric5@ 
+§fBanker@ 
+GroTeNo@ 
+MyNameIsTobias@ 
+bluematthewj@ 
+Mini Marc@ 
+Chimpston@ 
+Japan25@ 
+Razolz@ 
+kiber petuh@ 
+K_Laki@ 
+moy petuh@ 
+Ransu@ 
+Acerrow@ 
+MeLikeRice@ 
+§7§7Bows and Wands@ 
+§7[Mission: Lost in The Snow]@ 
+§7[Mission: Defending the Gate]@ 
+§7[Mission: Explosion Prevetion]@ 
+§7[Mission: Stone Cold]@ 
+§7[Mission: Child Rescue]@ 
+§7[Mission: Temperature Control]@ 
+§7[Mission: Repairing the Gate]@ 
+§7[Mission: Lost]@ 
+§cWild Mooshroom§6 [Lv. 14]@ 
+§cCavalry Specter§6 [Lv. 50]@ 
+§cRestless Armour§6 [Lv. 49]@ 
+§cDisembodied Head§6 [Lv. 48]@ 
+§cHeadless Horseman§6 [Lv. 52]@ 
+§cCharlie The Pig§6 [Lv. 80]@ 
+HazardEST@ 
+Creepy@ 
+Crepe@ 
+Slippery@ 
+Kem Vani@ 
+Mèo con@ 
+Purla@ 
+aFireBlaze@ 
+xSushiKiller@ 
+Burny2020@ 
+Wolverix@ 
+God_of_Chaos@ 
+Imploison@ 
+Sullgamer10@ 
+Biinthegamer@ 
+tophackr@ 
+Surai@ 
+ƒluçky@ 
+awsl@ 
+Whiskers@ 
+Kancolle_@ 
+Spekus@ 
+Sp00k@ 
+Tweeky99@ 
+ed58@ 
+Flufy@ 
+Future Wybel@ 
+Leeroy@ 
+Luckyman171616@ 
+isaac13_13@ 
+Equaled@ 
+Neo@ 
+Xavrez@ 
+lol@ 
+RavioliFlavioli@ 
+Aboscuss@ 
+Qweun@ 
+little_gu_dada@ 
+lysotize@ 
+MalachiMasikeen@ 
+_ProjektRed_@ 
+Ritchleth@ 
+nip_nop@ 
+InteI@ 
+Kghz@ 
+ZyadGamer@ 
+Metalfox03@ 
+ReneCZ@ 
+Neos_Asura@ 
+BobTheDestroyer@ 
+Oatmeal@ 
+Pepper@ 
+Meri@ 
+Dungle@ 
+Ask me about my @ 
+Dreams@ 
+LegenaryX@ 
+я русс@ 
+Sr.Cybel@ 
+Guten Tag@ 
+Monty@ 
+General_Nagasaki@ 
+Hages0u@ 
+ZFIRE9000@ 
+X@ 
+Miracle@ 
+GodTier@ 
+Hor4tio@ 
+§cRowdy Wybel§6 [Lv. 90]@ 
+Arkyon_@ 
+Jurrior@ 
+BedrockBenjy@ 
+Little Slave@ 
+§cHeadless Devourer Squid§6 [Lv. 83]@ 
+Wynnonymous@ 
+Urganda@ 
+J_Lo777@ 
+Right click me@ 
+forsenT@ 
+forsenE@ 
+AYAYA@ 
+Repolhinho@ 
+TailsLeader@ 
+Walkus@ 
+Forsaken_Cookie@ 
+Im Dead Inside@ 
+N4_Broken@ 
+jodyy@ 
+nenanmemon@ 
+eehhhh@ 
+I_AM_MUSICTW@ 
+Mooshroom@ 
+mxmcat@ 
+OneR4ndomDude@ 
+Imfa@ 
+Suicide@ 
+Forte__@ 
+lammp6@ 
+KnightStalker2@ 
+Xykeal@ 
+Nightmare@ 
+Kryptho@ 
+Rythel@ 
+Dawhk@ 
+Talbz@ 
+Smok@ 
+IceCondor_216@ 
+cimotA@ 
+§cWeakened Dern Creature§6 [Lv. 105]@ 
+orkrider015@ 
+§aNemract§6 [Lv. 1]@ 
+Nynnf@ 
+Duck@ 
+Golfbawl@ 
+CrossFire_42@ 
+Barny The Nicker@ 
+Pee pee head@ 
+Brogo@ 
+Eilaa@ 
+AdoptedTitan@ 
+White Power@ 
+LoveMeDaddy@ 

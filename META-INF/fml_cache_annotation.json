@@ -26,6 +26,32 @@
       }
     ]
   },
+  "ru/artfect/wynnlang/RuChat": {
+    "name": "ru/artfect/wynnlang/RuChat",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "sendToDefaultChat(Lnet/minecraftforge/client/event/ClientChatEvent;)V"
+      }
+    ]
+  },
+  "ru/artfect/wynnlang/UpdateManager": {
+    "name": "ru/artfect/wynnlang/UpdateManager",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onWynnCraftJoin(Lnet/minecraftforge/fml/common/network/FMLNetworkEvent$ClientConnectedToServerEvent;)V",
+        "values": {
+          "priority": {
+            "type": "ENUM",
+            "value": "Lnet/minecraftforge/fml/common/eventhandler/EventPriority;/LOW"
+          }
+        }
+      }
+    ]
+  },
   "ru/artfect/wynnlang/WynnLang": {
     "name": "ru/artfect/wynnlang/WynnLang",
     "annotations": [
@@ -44,7 +70,7 @@
             "value": "WynnLang"
           },
           "version": {
-            "value": "2.0.3"
+            "value": "2.2.1"
           }
         }
       },
@@ -72,33 +98,23 @@
       "net/minecraft/command/ICommand"
     ]
   },
-  "ru/artfect/wynnlang/translate/Chat": {
-    "name": "ru/artfect/wynnlang/translate/Chat",
+  "ru/artfect/wynnlang/translate/MessageHandler": {
+    "name": "ru/artfect/wynnlang/translate/MessageHandler",
     "annotations": [
       {
         "type": "METHOD",
         "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
         "target": "onMessage(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V"
-      },
-      {
-        "type": "METHOD",
-        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
-        "target": "sendMessage(Lnet/minecraftforge/client/event/ClientChatEvent;)V"
       }
     ]
   },
-  "ru/artfect/wynnlang/translate/Untranslate": {
-    "name": "ru/artfect/wynnlang/translate/Untranslate",
+  "ru/artfect/wynnlang/translate/ReverseTranslation": {
+    "name": "ru/artfect/wynnlang/translate/ReverseTranslation",
     "annotations": [
       {
         "type": "METHOD",
         "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
         "target": "tick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$ClientTickEvent;)V"
-      },
-      {
-        "type": "METHOD",
-        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
-        "target": "key(Lnet/minecraftforge/client/event/GuiScreenEvent$KeyboardInputEvent$Post;)V"
       }
     ]
   }

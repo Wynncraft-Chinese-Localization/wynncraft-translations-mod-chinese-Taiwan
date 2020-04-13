@@ -1,4 +1,4 @@
-##########################Предметы###########################
+##########################ITEMS###########################
 §dEssren's Coat@ 
 §dVolmor's Flair@ 
 The Queen's Tiara@ 
@@ -238,7 +238,6 @@ Granite Helm@
 §eGolem Gauntlet@ 
 §dStainless Steel@ 
 §fPure Light Spruce Bow@ 
-§6Sleeper Spore's@ 
 §fPure Diorite Spear@ 
 §fThin Iron Chestplate@ 
 §fSolid Iron Boots@ 
@@ -870,7 +869,6 @@ Chipped Leather Cap@
 §dCulex@ 
 §dSano's Wisdom@ 
 §fPlain Leather Tunic@ 
-§fMemento of Crying Bride@ 
 §dDamasse@ 
 Gnocchi@ 
 §bGlare@ 
@@ -1002,7 +1000,6 @@ Ghostly Cap@
 §aMorph-Stardust@ 
 §eErrant@ 
 §dNipun@ 
-§fCrystalline Fire@ 
 §aCephalothorax@ 
 §aSpinneret@ 
 §aAbdomen@ 
@@ -1243,7 +1240,6 @@ Soft Helmet@
 §fFlawed Chain Helmet@ 
 §bAstigmatism@ 
 §eChill@ 
-§fHellhound Bone@ 
 §fUsed Golden Helmet@ 
 §dMind Rot@ 
 §eBack ProtectorÀ@ 
@@ -2013,7 +2009,6 @@ Hairy Cap@
 §dLeictreach Makani@ 
 §eOhonte Kerhite@ 
 §dSlipstreamÀ@ 
-§fNewborn Scale@ 
 §eRinglets@ 
 §aMorph-Emerald@ 
 §eBiancoÀ@ 
@@ -2136,7 +2131,6 @@ Jera@
 §aFire Relic Chestplate@ 
 §aOutlaw Boots@ 
 Sprinter@ 
-Memento of the Lost@ 
 §dRed Ko Rhu@ 
 §eMuddy Soles@ 
 §fFlawless Andesite Shears@ 
@@ -2401,7 +2395,6 @@ Oxidation@
 §bSpectre@ 
 §aWater Relic Helmet@ 
 §dThe Sinner@ 
-§6Corrupted Flesh@ 
 §eHell Walk@ 
 Sharp Heels@ 
 §dTherck's Irritation@ 
@@ -2543,7 +2536,6 @@ Pure Iron Helmet@
 §bHaqherphix@ 
 §bBabylon's Scale@ 
 §bDislocater@ 
-Aqua Dust@ 
 §bWrathÀ@ 
 §eCoursing MailÀ@ 
 §eChinked LeggingsÀ@ 
@@ -2567,9 +2559,7 @@ Helmet of Wisdom@
 §bConcentration@ 
 §eIron Bracer@ 
 §eShock@ 
-§6Cargo Itinerary@ 
 Gold Bar@ 
-§6Letter@ 
 §eScumÀ@ 
 §eRing of WisdomÀ@ 
 §eFamineÀ@ 
@@ -2760,7 +2750,6 @@ Little Inferno@
 §dDern's Desolation@ 
 §eCopper Plate@ 
 §dDarksteel Full Helm@ 
-§fBomb Fragments@ 
 §bTorrential Tide@ 
 §bInfused Hive Bow@ 
 §bThird Eye@ 
@@ -2852,7 +2841,6 @@ Adventurer's Tunic@
 §dDeliriumÀ@ 
 §eWarmth@ 
 Helm of the Dead@ 
-Fat Mouse Tail@ 
 §eThe Old King's CrownÀ@ 
 §bCloudburstÀ@ 
 §eRat SkullÀ@ 
@@ -3017,7 +3005,6 @@ Stalagmites@
 §eUpgraded WhisperÀ@ 
 §fFlawless Andesite ShearsÀ@ 
 §eBedrock EaterÀ@ 
-Malleable Slime@ 
 §fImpeccable Andesite Shears@ 
 §eSoldier@ 
 §eNeedle Cuff@ 
@@ -3328,7 +3315,6 @@ Tanned Leather Boots@
 §eFinesseÀ@ 
 §fReinforced Iron LeggingsÀ@ 
 §fCloudy Diamond Chestplate@ 
-§fEarth Pixie Essence@ 
 §fCracked Iron LeggingsÀ@ 
 §fThin Iron LeggingsÀ@ 
 §dDoubt@ 
@@ -3365,7 +3351,6 @@ Tanned Leather Boots@
 §bByte@ 
 §bMegabyte@ 
 §bGigabyte@ 
-§eChunk of Scrap@ 
 §fImpeccable Granite Spear@ 
 §fImpeccable Light Spruce Stick@ 
 §eVolatile Core@ 
@@ -3513,7 +3498,6 @@ Diamond Dust@
 §eMetal Body SuitÀ@ 
 §dDarkiron AegisÀ@ 
 §eToy MakerÀ@ 
-Norsten's Will@ 
 §eSpinal Tap@ 
 §dThermosphere@ 
 §dThe Prisoner@ 
@@ -3535,8 +3519,6 @@ Average Golden Leggings@
 §6Spider Key@ 
 Planus Vest@ 
 §dDust@ 
-§dFrying Pan@ 
-§6Pentagram Effect@ 
 Tainted Aerolia Flower@ 
 §fAverage Golden Chestplate@ 
 §eJilted@ 
@@ -3645,7 +3627,6 @@ Pickpockets@
 §dTesla@ 
 §eReminder@ 
 §ePetrichor@ 
-§fShaping Ice@ 
 §bAlka Cometflinger@ 
 §eWorshipÀ@ 
 §dOliveÀ@ 
@@ -3793,7 +3774,6 @@ Tanned Leather Cap@
 Steamjet Walkers@ 
 §dDead Samurai's Plate@ 
 §bHymn of the Dead@ 
-Hearty Zork Stew Recipe@ 
 Gold Digger@ 
 §dWalking Stick@ 
 §eStatic Wand@ 
@@ -3995,7 +3975,6 @@ Dune Sandals@
 §eLucky CoinÀ@ 
 §dUrielÀ@ 
 §eBamboo CuffÀ@ 
-Gold Ingot@ 
 Adigard's Snowshoes@ 
 Zombified Pants@ 
 Katoa's Warmth@ 
@@ -4155,7 +4134,6 @@ Alligator@
 §dOlive@ 
 §bNecklace of a Thousand Storms@ 
 Teleporter Controller@ 
-Mythic Treasure@ 
 §bFollow the Wind@ 
 §dGloomstone@ 
 §dBinding Brace@ 
@@ -4165,7 +4143,6 @@ Mythic Treasure@
 §dThe Golem@ 
 §bPrism@ 
 Pirate Luck@ 
-§6Corrupted Ice@ 
 §bGold Hydro Ring@ 
 §bGold Hydro Necklace@ 
 §bDiamond Fiber Bracelet@ 
@@ -4566,7 +4543,6 @@ Arcane Boots@
 §eNymeria@ 
 Tanned Leather Tunic@ 
 Rubber Helm@ 
-§cPhoenix Bow@ 
 §dSpicy@ 
 §dAeronaut@ 
 §eVitriolÀ@ 
@@ -4620,7 +4596,6 @@ Elf Pants@
 Elf Robe@ 
 Elf Cap@ 
 §fNew Golden LeggingsÀ@ 
-Malignant Bud@ 
 §eHunter@ 
 §dZhight Weird Magic NecklaceÀ@ 
 §fFlawless Chain HelmetÀ@ 
@@ -4881,7 +4856,6 @@ Sodeta Boots@
 §fPure Light Spruce BowÀ@ 
 §fPure Light Birch BowÀ@ 
 Nilrem's Curse@ 
-Traitor Camp@ 
 §aBear Mask@ 
 §aBear Body@ 
 §dDrifter@ 
@@ -4970,7 +4944,6 @@ Leggings of the Halt@
 §dRender@ 
 §eSwamp ClayÀ@ 
 §dVorpalÀ@ 
-Prepared Bottle@ 
 §eWild Gauntlet@ 
 §eRising Sun@ 
 §eAnokumeme@ 
@@ -5037,7 +5010,6 @@ Mask of Courage@
 §dAlice's SleeveÀ@ 
 §aThunder Relic Boots@ 
 Papyrus@ 
-Rat's Infested Heart@ 
 §eBoots of Blue Stone@ 
 §dArchaic@ 
 §dGriffin@ 
@@ -5238,7 +5210,6 @@ Sublimator@
 §eEsper's Focus@ 
 §eSculptor@ 
 §eKayde@ 
-§fHarpy Key@ 
 Woljawh@ 
 §eSalmon@ 
 §eSlash and Burn@ 
@@ -5462,13 +5433,11 @@ Gravity@
 §bGravity@ 
 §dFog of Creation@ 
 §dFar Cosmos@ 
-§6Fellowship Bow@ 
 §eCrater Print@ 
 §dShimmersight@ 
 §dSilver@ 
 §bGold Steam Ring@ 
 §ePlanus VestÀ@ 
-Loose Rope@ 
 §dVoidstone Esbald@ 
 §dVoidstone Arpes@ 
 §dVoidstone Lensing@ 
@@ -5677,7 +5646,6 @@ Aquarius@
 §dDemeterÀ@ 
 Call of the Void@ 
 §dOne For AllÀ@ 
-§dFood Spear@ 
 §dCharybdisÀ@ 
 §dDarkiron RingÀ@ 
 §eAbyssal WalkersÀ@ 
@@ -5781,7 +5749,6 @@ Leaf Cap@
 §ePlains RunnerÀ@ 
 §dSky Chef's ApronÀ@ 
 §eFishscale@ 
-§6Golden Spear@ 
 Drizzling Doublet@ 
 Heliophobia@ 
 §eRotary CrossbowÀ@ 
@@ -5997,7 +5964,6 @@ Howler@
 §dThunder Relic Bow@ 
 §dWasp@ 
 Corrupted Nii Plate@ 
-§e§lGeyser PitÀ@ 
 §bConvallaria@ 
 §eTempest@ 
 §eSunshine Shortsword@ 
@@ -6285,8 +6251,1444 @@ Dragon Skin@
 §aYellow Ornament@ 
 §aRed Ornament@ 
 §aGreen Ornament@ 
+§bPerun's Crown@ 
+§eHeatwindÀ@ 
+§eGospelÀ@ 
+§eKaydeÀ@ 
+§dKapok@ 
+§eShiny Coin@ 
+§fImpeccable Andesite BowÀ@ 
+§eBlizzard@ 
+§eNeon@ 
+§eShade of NightÀ@ 
+Executioner Helmet@ 
+Galleon's���Graveyard���Entrance@ 
+§7Sparking Spores@ 
+§eRefractionÀ@ 
+Bolt@ 
+Bandit's Ring@ 
+AGILITY 2@ 
+Isaz@ 
+Defibrillator@ 
+§eCrescentÀ@ 
+§eAmisciaÀ@ 
+§eAnarchy@ 
+§eEsclavage@ 
+§dAzure Halo@ 
+Mask of Rage@ 
+Eleven@ 
+Striker@ 
+§eCanyon SpiritÀ@ 
+Wing Cap@ 
+§eCementing ArrowÀ@ 
+§eOvercharger@ 
+§bFractured@ 
+§bAsphyxia@ 
+§dSaltineÀ@ 
+Reinforced Iron Leggings@ 
+Reinforced Iron Chestplate@ 
+§eGnir@ 
+Overly Ironed Pants@ 
+Diode@ 
+Amiscia@ 
+§dNiflheimÀ@ 
+The Silent@ 
+§bGenesis@ 
+§eZealÀ@ 
+§dRycar's Swagger@ 
+§dPlasma RayÀ@ 
+§eMagmarizerÀ@ 
+Warped Skin@ 
+Macht@ 
+WATER 1@ 
+Jolting Geode@ 
+Detlas' Stick@ 
+§eAntim@ 
+§eFacetious@ 
+§eSight of the Druid@ 
+§bGert Super Special Magic UltistickÀ@ 
+Abandoned Tunic@ 
+Ensa's Ideals@ 
+Geyser@ 
+Grillface@ 
+§7Bad Chicken Meat@ 
+§eBlushwind@ 
+§eTropicsÀ@ 
+Mining Fever@ 
+Fermion@ 
+Libra@ 
+§5Nirvana@ 
+§bPandemonium@ 
+§5Boreal@ 
+§dBrainwash@ 
+§bDownfall@ 
+§dHorizon@ 
+§dAnamnesis@ 
+§bConflagrate@ 
+§aVisceral Toe@ 
+§7Bewitched Flower@ 
+the���Forgery Teleportation Scroll@ 
+Corkus���City Teleportation Scroll@ 
+§eArc Bracer@ 
+§dMystical LanceÀ@ 
+§eGenoxyde@ 
+§eKanata@ 
+§eFlintlockÀ@ 
+Flawed Chain Leggings@ 
+§dNona@ 
+§dDondasch@ 
+Heart of Fire@ 
+Major@ 
+Edgy@ 
+Bovemist Amulet@ 
+Tarnkappe@ 
+HEALING 12@ 
+AIR 1@ 
+HEALING 11@ 
+Hashr Claw@ 
+Naga Tail@ 
+Triumph@ 
+Genesis@ 
+§eEnduzskamÀ@ 
+§dSmoldering Apron@ 
+§dSlipstream@ 
+§aVisceral Chest@ 
+Chandelle@ 
+§bKahontsi Ohstyen@ 
+§fBirch Wood Relik@ 
+§fStone-hewn Relik@ 
+§fAndesite-hewn Relik@ 
+§bHarsh Noise@ 
+§eWindcatcher TotemÀ@ 
+§fFlawless Light Jungle RelikÀ@ 
+§fPure Oak RelikÀ@ 
+§fAndesite-hewn RelikÀ@ 
+§fImpeccable Diorite RelikÀ@ 
+§dThe Saltwater RuneÀ@ 
+§fImpeccable Jungle RelikÀ@ 
+§fSaltest2@ 
+§5Fatal@ 
+§fDiorite-hewn Relik@ 
+§eTurnpike@ 
+§eSoul Wreath@ 
+Cralozide Crystal@ 
+Saltest2@ 
+§dDark Ambience@ 
+§eDeath Growl@ 
+§dProg@ 
+§eThe Out@ 
+§fLight Oak Wood Relik@ 
+§fLight Birch Wood Relik@ 
+§eMacabre@ 
+§fLight Jungle Wood Relik@ 
+§dCrustacean@ 
+§dCue Stick@ 
+§eQuartzite Helm@ 
+§fSpruce Wood Relik@ 
+§fGranite-hewn Relik@ 
+§bThe EndÀ@ 
+§eIonosphere@ 
+§eDust Bowl@ 
+§eReborn@ 
+§fJungle Wood RelikÀ@ 
+§bCrimsonÀ@ 
+§dDragonflyÀ@ 
+Artifice@ 
+§ePrayer@ 
+§cSketchy Potion of Healing I@ 
+§dMisfitÀ@ 
+§dThunder Relic DaggersÀ@ 
+§fFlawless Oak Relik@ 
+§eAblution@ 
+§fFlawless Stone Relik@ 
+§fFlawless Birch Relik@ 
+§fFlawless Light Oak Relik@ 
+§eWindcatcher Totem@ 
+§eSpiritual Siphoner@ 
+§dThe Naturalist@ 
+The Crow's Nest@ 
+§dMagellan's SailÀ@ 
+§aSnail MailÀ@ 
+§dFire Relic Spear@ 
+Chimney@ 
+§fJungle Wood Relik@ 
+§fImpeccable Light Spruce RelikÀ@ 
+§eOutlastÀ@ 
+§dWater Relic DaggersÀ@ 
+§fLight Spruce Wood Relik@ 
+§dHearts Club@ 
+§dPuff@ 
+§dOutburst@ 
+§fFlawless Chain Chestplate@ 
+§eFlashÀ@ 
+Relay@ 
+§eTroms' PrideÀ@ 
+§eIodideÀ@ 
+Rusher@ 
+§eRheingold@ 
+§dYolÀ@ 
+§dSilver SoundÀ@ 
+§bConference CallÀ@ 
+§bPuppet Master@ 
+§fFlawless Andesite Relik@ 
+§bTenuto@ 
+§eNitreÀ@ 
+§eRedrock Bandanna@ 
+§dSanta's Pants@ 
+§eShackles of the Beast@ 
+§eThe MarkÀ@ 
+§dLuto Aquarum@ 
+Shock@ 
+Jag@ 
+Therck's Irritation@ 
+Stale@ 
+§bDusk Painter@ 
+§fHourglass Sand@ 
+§c§nРуководство@ 
+§2Помощь@ 
+§a§f§fМеч война@ 
+§a§f§fМеч варвара@ 
+§a§f§fКлинок вора@ 
+§a§f§fЗаточеный меч война@ 
+§a§f§fУсиленный меч варвара@ 
+§a§f§fЗакалённый клинок@ 
+§6>@ 
+§6>>@ 
+§6>>>@ 
+§6>>>>@ 
+§6>>>>>@ 
+§aПодтвердить@ 
+§cОтмена@ 
+§5Пролог2@ 
+§5Пролог@ 
+§dSigil of ResistanceÀ@ 
+§bCave In@ 
+Merchant Sandals@ 
+§5Grimtrap@ 
+Virgo@ 
+Leviathan@ 
+Tree Bracelet@ 
+Spider Fang@ 
+Dead Bee@ 
+Nivlan Honeycomb@ 
+Charred Bone@ 
+Pigman Battle Hammer@ 
+Stormstrike@ 
+Crackshot@ 
+Breeze@ 
+§dBloodlust@ 
+§eGalena@ 
+§eSkaxis@ 
+§eIncineratorÀ@ 
+§dEitrÀ@ 
+§eFounder@ 
+Sound of Silence@ 
+Unravel@ 
+Aneroid@ 
+Air@ 
+§eBastilleÀ@ 
+§dGoblin Luck Charm@ 
+§eGoblin-Silver Ring@ 
+§dGoblin Hex Focus@ 
+§eGoblin Arm Bracer@ 
+§dShort Cutter@ 
+§eSilver Short Spear@ 
+§aGoblin Hood@ 
+§aGoblin Cloak@ 
+§aGoblin Runners@ 
+§eSleeping Beast@ 
+§dAlkahest@ 
+§bCardiac Arrest@ 
+aБыстрое Подключение@ 
+aБыстрое Подключение1@ 
+§dSmoldering ApronÀ@ 
+§eWaterspoutÀ@ 
+§dForeboding@ 
+§eBehemoth@ 
+§ePower CreepÀ@ 
+Marble@ 
+Great Brace@ 
+Jester Necklace@ 
+Anger Point@ 
+Whitecap@ 
+Redirection@ 
+HEALING 13@ 
+AIR 4@ 
+Olux's Prized Bow@ 
+Faith of the Bovemist@ 
+Morph-Amethyst@ 
+Quartz Choker@ 
+Armageddon@ 
+Meteoric Arch@ 
+Tailwind@ 
+§dTsunasweep@ 
+Perun's Crown@ 
+Horseshoe@ 
+Raindrop@ 
+Flexing Chain@ 
+Gold@ 
+Lockpicking Kit@ 
+Marius' Lament@ 
+HEALING 16@ 
+§eVenomsoulÀ@ 
+§5Galleon@ 
+Skien Leggings@ 
+Red String@ 
+Old Bone@ 
+Mist Blade@ 
+Decaying Skin@ 
+Dern's Shadow@ 
+Pike of Fury@ 
+Hilt@ 
+§eStasis@ 
+Determination@ 
+§eIcarusÀ@ 
+Shaggy Boots@ 
+§dStatic-charged Leggings@ 
+Blackened Boots@ 
+§eQuasarÀ@ 
+§eCosmium@ 
+§eThe AbacusÀ@ 
+§eEarthquake@ 
+Cumulonimbus@ 
+Flawless Chain Leggings@ 
+Earth Sanctuary@ 
+Anti-Static@ 
+§eDeathsplinter@ 
+Meridian@ 
+Thin Quill@ 
+Flawless Chain Boots@ 
+Flawless Chain Chestplate@ 
+§dPlasma Ray@ 
+§dStorm Surge@ 
+§eSearing KnifeÀ@ 
+Diamond Hydro Bracelet@ 
+Diamond Hydro Necklace@ 
+§eAtroce@ 
+§eDiscordÀ@ 
+§dPawÀ@ 
+§eHysteria@ 
+FallenÀÀÀFactory Key@ 
+Return to Ether@ 
+HEALING 18@ 
+§eElectrum@ 
+Therck's Chain@ 
+Stone-hewn Bow@ 
+Aldorei's Training Bow@ 
+Tormenter@ 
+Grook Feather@ 
+Wolf Fang@ 
+§dSandshooterÀ@ 
+Tricorne@ 
+StoneWall@ 
+Router@ 
+Gypsum@ 
+§eBalladÀ@ 
+§dMuskegÀ@ 
+§eShield BusterÀ@ 
+§eBasaltic SchynbaldsÀ@ 
+§dBlade of Shade@ 
+Diamond Solar Ring@ 
+Diamond Solar Bracelet@ 
+Gigabyte@ 
+HEALING 21@ 
+STRENGTH 6@ 
+AGILITY 6@ 
+DEXTERITY 6@ 
+Flameshot Hilt@ 
+Burnout@ 
+Chestplate of Ineptitude@ 
+§aSpawn Joseph§7 [Pink Wybel]@ 
+§eMangroveÀ@ 
+§5Thrundacrack@ 
+§bCharm of the Tides@ 
+Andesite-hewn Spear@ 
+Maltic's Old Spear@ 
+§eEaterÀ@ 
+§eBlock BusterÀ@ 
+§5Apocalypse@ 
+Test Dagger 70@ 
+§dEquinox@ 
+§dRing of Fire@ 
+Silkworm@ 
+Chinked Leggings@ 
+§eSulphurous SlingÀ@ 
+Thin Iron Chestplate@ 
+Clarity@ 
+Phrygian@ 
+Andesite-hewn Bow@ 
+Gemini@ 
+§eWayfinderÀ@ 
+HEALING 17@ 
+§bThanos Legionnaire Greaves@ 
+§bThanos Legionnaire Leggings@ 
+§bThanos Legionnaire Plate@ 
+§dSublime@ 
+Swift@ 
+Slate Bow@ 
+Silkwrap@ 
+§fOak Wood Relik@ 
+§bStave of the Legends@ 
+§bBoreal-Patterned Crown@ 
+§bAnima-Infused Cuirass@ 
+Oak Wood Relik@ 
+§dCircuit FlightsÀ@ 
+§bParanoia@ 
+§dSacrificial@ 
+§bHarsh NoiseÀ@ 
+§dStress@ 
+§eBumblebee@ 
+§dBoundary@ 
+§bThriller@ 
+§eAdriftÀ@ 
+§dCareless WhisperÀ@ 
+§eApologyÀ@ 
+§eVeinsÀ@ 
+§dOne Thousand VoicesÀ@ 
+§cNighthawkÀ@ 
+§fFlawless Granite RelikÀ@ 
+§fPure Jungle RelikÀ@ 
+§fImpeccable Andesite RelikÀ@ 
+§eTurnpikeÀ@ 
+§bLegend Guard's Plate@ 
+§dTrainer's Pendant@ 
+§dThe NaturalistÀ@ 
+§bPlague Mask@ 
+§cPlague Staff@ 
+§dPurification Bead@ 
+§eRemembranceÀ@ 
+§eStringendo@ 
+§dOhonte Kerhite@ 
+§bDurum's Serenity@ 
+§cDeadeye@ 
+§bSundown Poncho@ 
+§bThe Scarecrow's Vest@ 
+§dGreenhoof@ 
+§eAblutionÀ@ 
+§eKeen Measure@ 
+§dHourglass@ 
+§fPure Jungle Relik@ 
+§dPresto@ 
+§bCold IntegrityÀ@ 
+§eSweden@ 
+§bLoaded QuestionÀ@ 
+§dDesperado@ 
+§dWidow@ 
+§dCalamaro's Relik@ 
+§bInferna FlamewreathÀ@ 
+§dImperiousÀ@ 
+§eYlemÀ@ 
+§eKeen MeasureÀ@ 
+§dCrustaceanÀ@ 
+§dWybel Carved Relik@ 
+Cancer֎@ 
+§bIsland ChainÀ@ 
+§dShellcarveÀ@ 
+§dWybel Carved RelikÀ@ 
+§aFlashfire Knuckle@ 
+§aFlashfire Gauntlet@ 
+§dBlack Amaranth@ 
+§dForest Aconite@ 
+§dYellow Rose@ 
+§bOrange Lily@ 
+§bRoyal Hydrangea@ 
+§bSonicboomÀ@ 
+§dBibliotekÀ@ 
+§dPangeaÀ@ 
+§fFlawless Jungle RelikÀ@ 
+§dAsphaltÀ@ 
+§fLight Spruce Wood RelikÀ@ 
+§dDark AmbienceÀ@ 
+§eDiamond Sky@ 
+§eHue@ 
+§eFoehn Wind@ 
+§dTechnicolor PhaseÀ@ 
+§bCruel SunÀ@ 
+§bHelter Skelter@ 
+§eLittle Machine@ 
+§dHearts ClubÀ@ 
+§fSpruce Wood RelikÀ@ 
+§dTremolo@ 
+§eMissileÀ@ 
+§dHard LightÀ@ 
+§eLittle MachineÀ@ 
+§eButterfly WingsÀ@ 
+§bDusk PainterÀ@ 
+§dEbb and Flow@ 
+§eRemembrance@ 
+§bArbalestÀ@ 
+§dThe Saltwater Rune@ 
+§dAzotar@ 
+§dNauticals@ 
+§eButterfly Wings@ 
+§bObsidian-Framed Helmet@ 
+§bTwilight-Gilded Cloak@ 
+§bElysium-Engraved Aegis@ 
+§bChaos-Woven Greaves@ 
+§bAbyss-Imbued Leggings@ 
+§bEden-Blessed Guards@ 
+§bHephaestus-Forged Sabatons@ 
+§eMelangeÀ@ 
+§eSwedenÀ@ 
+§dEmotionÀ@ 
+§bInfused Hive Relik@ 
+§eFoehn WindÀ@ 
+§dPermafrosted SaxifrageÀ@ 
+§eMountain's SongÀ@ 
+§dStone CrunchÀ@ 
+§eGift of the MagiÀ@ 
+§bThanos StonesingerÀ@ 
+§eMoonlightÀ@ 
+§fImpeccable Stone RelikÀ@ 
+§fFlawless Light Spruce RelikÀ@ 
+§eStrikedownÀ@ 
+§fPure Granite RelikÀ@ 
+§eHotlineÀ@ 
+§eSilver BayÀ@ 
+§dLycanthropyÀ@ 
+§fImpeccable Granite RelikÀ@ 
+§dVoidstone ElrikÀ@ 
+§fImpeccable Light Jungle RelikÀ@ 
+§fLight Oak Wood RelikÀ@ 
+§eHueÀ@ 
+§dShine LampÀ@ 
+§fImpeccable Birch RelikÀ@ 
+§eWardrummerÀ@ 
+§eHighriseÀ@ 
+§fLight Birch Wood RelikÀ@ 
+§dPoinsettiaÀ@ 
+§eHoliday SpiritÀ@ 
+§dVagabond's DisgraceÀ@ 
+§dForewordÀ@ 
+§fPure Spruce RelikÀ@ 
+§fPure Light Jungle RelikÀ@ 
+§fPure Diorite RelikÀ@ 
+§eTearing SeamÀ@ 
+§eBarkgraftÀ@ 
+§fLight Jungle Wood RelikÀ@ 
+§fImpeccable Light Oak RelikÀ@ 
+§eAscensionÀ@ 
+§fPure Andesite RelikÀ@ 
+§fFlawless Birch RelikÀ@ 
+§eSpiritual SiphonerÀ@ 
+§fGranite-hewn RelikÀ@ 
+§fPure Light Oak RelikÀ@ 
+§fFlawless Oak RelikÀ@ 
+§fBirch Wood RelikÀ@ 
+§bOlux's Prized RelikÀ@ 
+§fFlawless Stone RelikÀ@ 
+§fDiorite-hewn RelikÀ@ 
+§dReciprocatorÀ@ 
+§dCalamaro's RelikÀ@ 
+§eSlush RushÀ@ 
+§fFlawless Spruce RelikÀ@ 
+§fImpeccable Light Birch RelikÀ@ 
+§fPure Light Spruce RelikÀ@ 
+§fPure Stone RelikÀ@ 
+§fFlawless Andesite RelikÀ@ 
+§eSkyline CriesÀ@ 
+§dCrook's MarchÀ@ 
+§fImpeccable Oak RelikÀ@ 
+§dThermalsÀ@ 
+§fFlawless Light Oak RelikÀ@ 
+§eKiviluÀ@ 
+§bCryoseismÀ@ 
+§dProgÀ@ 
+§dStressÀ@ 
+§eSpleen SplitterÀ@ 
+§bFault LinesÀ@ 
+§fPure Spruce Relik@ 
+§dGestation@ 
+Fresh Clay@ 
+§bOverdriveÀ@ 
+§eBumblebeeÀ@ 
+§bTemporal LanternÀ@ 
+§cStrobelightÀ@ 
+§ePhoton ProjectorÀ@ 
+§dArkhalisÀ@ 
+§cVindicator@ 
+§bPuppet MasterÀ@ 
+§bObolus@ 
+§bOnenya Hronkas@ 
+§bSonicboom@ 
+§dEbb and FlowÀ@ 
+§bRainbow Sanctuary@ 
+§dGrindcoreÀ@ 
+§bShine SuffocatorÀ@ 
+§eVibratoÀ@ 
+§eRectificatorÀ@ 
+§bMercury BombÀ@ 
+§cMirror's EdgeÀ@ 
+§dDesperadoÀ@ 
+§ePolyphemusÀ@ 
+§dSparkling TonesÀ@ 
+§eAvocado@ 
+§dBreath of the Dragon@ 
+§dWaking VigilÀ@ 
+§eWindowframe@ 
+§eWindow Pane@ 
+§dTimthriallÀ@ 
+§eGuacamoleÀ@ 
+§dBreath of the DragonÀ@ 
+§dAir Relic DaggersÀ@ 
+§bNight RushÀ@ 
+§eThe OutÀ@ 
+§eFlux and Flow@ 
+§eLed BalloonÀ@ 
+§bCave InÀ@ 
+§bLuminaÀ@ 
+§eFever DreamÀ@ 
+§eMagic BounceÀ@ 
+§dMinusÀ@ 
+§dInterferenceÀ@ 
+§eMelange@ 
+§dStormdrainÀ@ 
+§eDeja VuÀ@ 
+§dPressure Blaster@ 
+§fImpeccable Light Oak Relik@ 
+§eSkyline Cries@ 
+§eThe Airway@ 
+§dThermals@ 
+§eOasisÀ@ 
+§bRusted RootÀ@ 
+§eVivaceÀ@ 
+§fFlawless Light Birch Relik@ 
+§bIsland Chain@ 
+§eMarble Forest@ 
+§eCotton SwabÀ@ 
+§dConclave CrossfireÀ@ 
+§dTidebreakerÀ@ 
+§eAvocadoÀ@ 
+§eRevolutionineÀ@ 
+§ePizzicatoÀ@ 
+§dSkyspiral@ 
+§dGestationÀ@ 
+§eFlux and FlowÀ@ 
+§eEcholocationÀ@ 
+§bHeavensentÀ@ 
+§eWhite NoiseÀ@ 
+§eCoyopaÀ@ 
+§dFlare BlitzÀ@ 
+§dThresholdÀ@ 
+§dSinkholeÀ@ 
+§dFlare Blitz@ 
+§eVibrato@ 
+§eReversal@ 
+§dHardcore@ 
+§dSkyspiralÀ@ 
+§eReverieÀ@ 
+§dPrestoÀ@ 
+§eRapids@ 
+§eGlissando@ 
+§eDeath GrowlÀ@ 
+§dForeword@ 
+§eWhite Craftmas@ 
+§eSilhouette@ 
+§fImpeccable Jungle Relik@ 
+§eIncense BurnerÀ@ 
+§eReversalÀ@ 
+§bSalpinx@ 
+§eWindowframeÀ@ 
+§eIncense Burner@ 
+§5Unidentified ToxoplasmosisÀ@ 
+§5Unidentified AftershockÀ@ 
+§5AftershockÀ@ 
+§eHoloceneÀ@ 
+§eIgnatiusÀ@ 
+§eAndanteÀ@ 
+§cSecond WindÀ@ 
+§bWintergreen@ 
+§dArkhalis@ 
+Letum@ 
+§eDiamond SkyÀ@ 
+§eSky GlazeÀ@ 
+§fStone-hewn RelikÀ@ 
+Gold Steam Ring@ 
+Gold Steam Bracelet@ 
+Heroism@ 
+Glacial Anomaly@ 
+FIRE 4@ 
+Ex Nihilo@ 
+Gale's Force@ 
+Fairy Powder@ 
+§dVoid CatalystÀ@ 
+§bWintergreenÀ@ 
+§bOctober FiresÀ@ 
+§eAustralisÀ@ 
+§eStringendoÀ@ 
+§eWindow PaneÀ@ 
+§eMvuke@ 
+§cGalloping SpursÀ@ 
+§eLethalityÀ@ 
+§eObsidian SpireÀ@ 
+§eMsituÀ@ 
+§fImpeccable Spruce Relik@ 
+§cUranium AegisÀ@ 
+§dGrindcore@ 
+§eZipper@ 
+§eBlack AbyssÀ@ 
+§fImpeccable Granite Relik@ 
+§eFiresworn@ 
+§5ToxoplasmosisÀ@ 
+§eSky Glaze@ 
+§cUnidentified Second WindÀ@ 
+§cUnidentified Uranium AegisÀ@ 
+§cUnidentified StrobelightÀ@ 
+§cUnidentified Mirror's EdgeÀ@ 
+§cUnidentified NighthawkÀ@ 
+§cUnidentified Galloping SpursÀ@ 
+§fPure Diorite Relik@ 
+§dTechnicolor Phase@ 
+Seipodon@ 
+§eTesla Tower@ 
+§dEmotion@ 
+§dPermafrosted Saxifrage@ 
+§eHoliday Spirit@ 
+§dPoinsettia@ 
+§eSlush Rush@ 
+§dSilent Night@ 
+§eGift of the Magi@ 
+§bLargoÀ@ 
+§dMisfit@ 
+§cNighthawk@ 
+§dShellcarve@ 
+§dSilent NightÀ@ 
+Riverflow@ 
+§dThousand WavesÀ@ 
+§eLed Balloon@ 
+§eSilhouetteÀ@ 
+§fPure Stone Relik@ 
+§bCleansing FlameÀ@ 
+§bLightshowÀ@ 
+§eSpleen Splitter@ 
+§eLuster Purge@ 
+§cOrnate Shadow Cowl@ 
+§cOrnate Shadow Garb@ 
+§cOrnate Shadow Cover@ 
+§cOrnate Shadow Cloud@ 
+§fImpeccable Light Jungle Relik@ 
+§eBleeding Eye@ 
+§eDyeing Eye@ 
+§eWatching Eye@ 
+§eStalking Eye@ 
+§dAshes AnewÀ@ 
+§eVigorÀ@ 
+§bOctober Fires@ 
+§eKivilu@ 
+§cGalloping Spurs@ 
+§bCryoseism@ 
+§fImpeccable Andesite Relik@ 
+§cRenda Langit@ 
+§fImpeccable Birch Relik@ 
+§bProcrastinationÀ@ 
+§dConclave Crossfire@ 
+§eGrateful DeadÀ@ 
+§eMalfunctionÀ@ 
+§eCol LegnoÀ@ 
+Fire Sanctuary@ 
+§eGlissandoÀ@ 
+§eNightlifeÀ@ 
+§fFlawless Light Spruce Relik@ 
+§eHeartacheÀ@ 
+§eZipperÀ@ 
+§dSaving GraceÀ@ 
+§dDying LightÀ@ 
+§bGaping Cavity@ 
+§bThe Watched@ 
+§bThe Evolved@ 
+§bThe Exploited@ 
+§bThe Forsaken@ 
+§bThe Nothing@ 
+§eDigesting Eye@ 
+§eVivace@ 
+§fFlawless Granite Relik@ 
+§eVolcanoÀ@ 
+§dKilaueaÀ@ 
+§fImpeccable Light Spruce Relik@ 
+§bCruel Sun@ 
+§eRunning WaterÀ@ 
+§eFireswornÀ@ 
+Bear Mask@ 
+§bHelter SkelterÀ@ 
+§eWhite Noise@ 
+§dThreshold@ 
+§dBygonesÀ@ 
+§bHeavensent@ 
+§fFlawless Spruce Relik@ 
+§bDiscotekÀ@ 
+§eIgnatius@ 
+§dSaving Grace@ 
+§eHotline@ 
+§dReciprocator@ 
+§bAncient Runic Relik@ 
+Galloping Spurs@ 
+Far Cosmos@ 
+§dGraviton LanceÀ@ 
+§eEcholocation@ 
+§fFlawless Light Birch RelikÀ@ 
+Sky Glaze@ 
+§eShield Buster@ 
+§eRevolutionine@ 
+§fFlawless Jungle Relik@ 
+§eQuickstep@ 
+§fImpeccable Light Birch Relik@ 
+§eGuacamole@ 
+§fPure Birch Relik@ 
+§eHighrise@ 
+§dVagabond's Disgrace@ 
+§eIrisÀ@ 
+§dMinus@ 
+§eCotton Swab@ 
+§cDragon's Eye Bracelet@ 
+Nether's Scar@ 
+§eLonesomeÀ@ 
+§fFlawless Light Jungle Relik@ 
+§fPure Birch RelikÀ@ 
+§dEstuarineÀ@ 
+§eAeolipileÀ@ 
+§bTemporal Lantern@ 
+§dBibliotek@ 
+§eRectificator@ 
+§eRunning Water@ 
+§bLargo@ 
+§fPure Oak Relik@ 
+§eMoonlight@ 
+§eWardrummer@ 
+§eStrikedown@ 
+§dTidebreaker@ 
+Randall's Leg Plating@ 
+§dCrossbolt@ 
+§bHaros' Oar@ 
+§bFault Lines@ 
+§aSnail BootsÀ@ 
+§aSnail HelmÀ@ 
+§bOlux's Prized Relik@ 
+Sunray@ 
+§dRedrock Bandanna@ 
+§fPure Light Jungle Relik@ 
+§eBlack Abyss@ 
+§eMist@ 
+Nighthawk@ 
+§ePhoton Projector@ 
+§eWhite CraftmasÀ@ 
+§eMirror ShardÀ@ 
+§eSunstruckÀ@ 
+§dFlood BathÀ@ 
+§eParagonÀ@ 
+§eQuickstepÀ@ 
+§eOasis@ 
+§bMercury Bomb@ 
+§eMajiÀ@ 
+§eLuster PurgeÀ@ 
+§eRelentlessÀ@ 
+§dWaking Vigil@ 
+§bCleansing Flame@ 
+§eJingu HeadbandÀ@ 
+§eCol Legno@ 
+§6PeteM94's Pouch@ 
+§6RotCrab's Pouch@ 
+Egg@ 
+Lively Apple@ 
+Sticky Mudball@ 
+The Skin Tearer@ 
+§fFlawless Diorite Relik@ 
+§fImpeccable Diorite Relik@ 
+§bDying Lobelia@ 
+§6Engine Maintenance@ 
+§eHolocene@ 
+Concentration@ 
+EARTH 3@ 
+WATER 3@ 
+§eWind MurmursÀ@ 
+Chaleur@ 
+§fImpeccable Spruce RelikÀ@ 
+Sledge@ 
+Dusk Painter@ 
+§eMazurkaÀ@ 
+§eFrontierÀ@ 
+§eMenderÀ@ 
+§fPure Light Oak Relik@ 
+§dSilver Sound@ 
+§dShackles of the Beast@ 
+§dSinkhole@ 
+§fPure Andesite Relik@ 
+§bRusted Root@ 
+§eTearing Seam@ 
+§eSoundgarden@ 
+§eAbout-FaceÀ@ 
+Charm of the Tick@ 
+INTELLIGENCE 2@ 
+Wiggling Villager@ 
+Sticky Fern@ 
+Firecloud@ 
+Melange@ 
+Sprint Belt@ 
+Ebb and Flow@ 
+§cTime RiftÀ@ 
+§cBlind ThrustÀ@ 
+§5DawnbreakÀ@ 
+§5AbsolutionÀ@ 
+§5StardewÀ@ 
+§5Unidentified StardewÀ@ 
+§5Unidentified DawnbreakÀ@ 
+§5Unidentified MoontowerÀ@ 
+§5Unidentified AbsolutionÀ@ 
+§5Unidentified FantasiaÀ@ 
+§5MoontowerÀ@ 
+§dInterference@ 
+§eObsidian Spire@ 
+§eMistweaver@ 
+§cUnidentified Time RiftÀ@ 
+§cUnidentified Blind ThrustÀ@ 
+Meditation Robe@ 
+§dVoid Catalyst@ 
+§eLockpickÀ@ 
+§aVillager PantsÀ@ 
+§eAbandoned TunicÀ@ 
+§eCoyopa@ 
+§bShine Suffocator@ 
+§eMistweaverÀ@ 
+§fPure Light Birch Relik@ 
+§dAshes Anew@ 
+§fFlawless Diorite RelikÀ@ 
+§eAnvil CrawlerÀ@ 
+§fImpeccable Diorite SpearÀ@ 
+§dCountdownÀ@ 
+§dPangea@ 
+§eAndante@ 
+§eHeat Burst@ 
+§eAllegro@ 
+§eSealing Coin@ 
+§dSaltine@ 
+§eCouteauÀ@ 
+§cSecond Wind@ 
+§bDiscotek@ 
+§dRelic Spear@ 
+Chef Hamsey's Apron@ 
+§eLethality@ 
+Bulldozer@ 
+Minor@ 
+Dynamic@ 
+The Banhammer@ 
+Fern@ 
+Dark Needle@ 
+Muscle Shirt@ 
+Boulder@ 
+Head Knocker@ 
+§eBlightsaberÀ@ 
+Cooler@ 
+§eCondensation@ 
+§dConstrict Collar@ 
+§eEternity's EdgeÀ@ 
+§dShell of GenbuÀ@ 
+§eMouth of FateÀ@ 
+Standoff@ 
+§dGraviton Lance@ 
+§cMirror's Edge@ 
+§5FantasiaÀ@ 
+§dSanta HatÀ@ 
+§eBarkgraft@ 
+§dLycanthropy@ 
+§eHell's ScreamÀ@ 
+Wavedash@ 
+§eMissile@ 
+§bConference Call@ 
+Mirror's Edge@ 
+Ultramarine Cape@ 
+§eReflectionÀ@ 
+§bLightshow@ 
+§dSparkling Tones@ 
+§dCircuit Flights@ 
+§eAustralis@ 
+§cDraoi Fair@ 
+§dDefiance@ 
+§eReverie@ 
+§eSoundgardenÀ@ 
+§eWaking NightmareÀ@ 
+§eMarble ForestÀ@ 
+Roughcut@ 
+§eSilent BalletÀ@ 
+§fImpeccable Oak Relik@ 
+§dSigil of Resistance@ 
+§eMountain's Song@ 
+§fPure Light Birch RelikÀ@ 
+§eMirror Shard@ 
+§eForge's Shock@ 
+§eAscension@ 
+§dStone Crunch@ 
+Bamboo@ 
+§dShine Lamp@ 
+§fImpeccable Stone Relik@ 
+Ringlets@ 
+§eSubtle CalamityÀ@ 
+Slash and Burn@ 
+Windowframe@ 
+Salmon@ 
+Union@ 
+StabSand@ 
+ALMUJ@ 
+Influence@ 
+Lacerator@ 
+§fPure Granite Relik@ 
+§bNight Rush@ 
+§eWind Murmurs@ 
+§eValhallaÀ@ 
+§cStrobelight@ 
+Gold Hydro Bracelet@ 
+Emerald Pendant@ 
+Emerald Staff@ 
+Vanguard@ 
+Bronze Basic Ring@ 
+Canyon Strider@ 
+§dThousand Waves@ 
+Electrocharge Greaves@ 
+Shining Golden Leggings@ 
+§bBinding Brace@ 
+§bLoaded Question@ 
+§eApology@ 
+Aeolus@ 
+§dEstuarine@ 
+§dDraoi Fair@ 
+Wolf Paw@ 
+WATER 4@ 
+HEALING 14@ 
+Guardian Loop@ 
+Leg of the Scared@ 
+Calcite@ 
+Neon@ 
+Void Catalyst@ 
+§bCold Integrity@ 
+Aeronaut@ 
+§dShackle of Shade@ 
+§dEnmity@ 
+EARTH 0@ 
+§5Ignis@ 
+§eForge's ShockÀ@ 
+§eThe AirwayÀ@ 
+§eAdrift@ 
+§dFire Relic DaggersÀ@ 
+§eMaji@ 
+§dEarth Relic DaggersÀ@ 
+§eLast Perdition@ 
+§bAncient Runic RelikÀ@ 
+§5Unidentified SunstarÀ@ 
+§aPig Puck Shop@ 
+§aBlue Team Helmet@ 
+§aBlue Team Chestplate@ 
+§aBlue Team Leggings@ 
+§aBlue Team Boots@ 
+§aRed Team Helmet@ 
+§aRed Team Chestplate@ 
+§aRed Team Leggings@ 
+§aRed Team Boots@ 
+§aCosmetic Shop@ 
+§cFirework [2/2]@ 
+§cReindeer@ 
+§cCookie@ 
+§cReindeer's Leap [2/2]@ 
+§cSnowman@ 
+§cDetlas Ornaments@ 
+§cSnow Storm@ 
+§fReindeer Wheat@ 
+§aFresh Milk@ 
+§fChicken Pen Key@ 
+§aSweetened Egg@ 
+§fCake Dough@ 
+§6Craftmas Gift@ 
+§dSanta's CoatÀ@ 
+Nephilim@ 
+§aWynnter Cake@ 
+§fReindeer Grain@ 
+§cUnstable TNT@ 
+§cEngine@ 
+§cHydraulic Valve@ 
+§cTemperature Controller@ 
+§cTracker@ 
+§dSanta's Coat@ 
+§fSugar Cane@ 
+§aRefined Sugar@ 
+§aTree Decoration@ 
+§2Craftmas Tree@ 
+§2Wynnter Tree@ 
+§2Everscream@ 
+§2Liam Treeson@ 
+§2Chris Pine Tree@ 
+§2Lil Stump@ 
+§2Wynnter Fair Tree@ 
+§aT§2h§ae §2P§ae§2a§ar §2T§ar§2e§ae@ 
+§2Y§aa§2h§ay§2a §aT§2r§ae§2e@ 
+§6Craftmas Cookie@ 
+§6Gingerbread Cookie@ 
+§6Chocolate Chip Cookie@ 
+§6Oatmeal Raisin Cookie@ 
+§6Ginger Snap Cookie@ 
+§6Sewing Kit@ 
+§6Wynnter Fair Cookie@ 
+§6D§er§6o§ew§6n§ei§6n§eg §6i§en §6D§eo§6u§eg§6h@ 
+§6'§eC§6o§eo§6k§ei§6e§e'@ 
+§5Unidentified HadalÀ@ 
+§eHero's EndÀ@ 
+Precious@ 
+Bovine Cuff@ 
+Phoenix Wing@ 
+§cLevitation Potion@ 
+§cFirework [1/2]@ 
+§cEmpty Bottle@ 
+Fog of Creation@ 
+Brilliant Diamond Boots@ 
+Albacore@ 
+§bSumma@ 
+§dBreakbore@ 
+§dFlood Bath@ 
+Blue Team Boots@ 
+Blue Team Leggings@ 
+Blue Team Chestplate@ 
+Blue Team Helmet@ 
+§eSpear of SinÀ@ 
+§cBlanket@ 
+§cNether Wart@ 
+§cCrushed Zombie@ 
+§cSpider Eye@ 
+§cCobweb@ 
+§cSlimeball@ 
+§cBat Wing@ 
+§cGastric Juice@ 
+§cMushroom@ 
+§cRotten Pumpkin@ 
+§cPotion@ 
+§eMeltsteel GreavesÀ@ 
+§cCow Poop@ 
+§cOrc Hair@ 
+Glare@ 
+§5Unidentified RevenantÀ@ 
+§5Unidentified ResurgenceÀ@ 
+§5ResurgenceÀ@ 
+§eElectrophorus@ 
+Bibliotek@ 
+§eMagic Bounce@ 
+§dAsphalt@ 
+Green Helmet@ 
+§cWater Bottle@ 
+§dKilauea@ 
+Granite Plate@ 
+§eDolomite@ 
+§eCopper-Alloy PikeÀ@ 
+§5SunstarÀ@ 
+§5HadalÀ@ 
+§bWrithing Growth@ 
+§dKindled Orchid@ 
+§eShadow Flame@ 
+Clap@ 
+Crustacean@ 
+The Out@ 
+Fluorine@ 
+Light Birch Wood Spear@ 
+§5RevenantÀ@ 
+§ePrecipice@ 
+§7Infected Mass§5 [§d✫✫§8✫§5]À@ 
+§7Conscription Letter§7 [§8✫✫✫§7]À@ 
+§7Squid Ink§7 [§8✫✫✫§7]À@ 
+§7Cursed Ashes§5 [§d✫✫§8✫§5]À@ 
+§7Used Fireball§7 [§8✫✫✫§7]À@ 
+§7Bone Ash§7 [§8✫✫✫§7]À@ 
+§7Retinal Membrane§7 [§8✫✫✫§7]À@ 
+§7Corrupted Ichor§5 [§d✫✫§8✫§5]À@ 
+§7Hydrofluoric Acid§5 [§d✫✫§8✫§5]À@ 
+§7Sky Flux§5 [§d✫✫§8✫§5]À@ 
+§7Split Essence§5 [§d✫✫§8✫§5]À@ 
+§7Dominant Force§3 [§b✫✫✫§3]À@ 
+§7Void Essence§7 [§8✫✫✫§7]À@ 
+§7Lashing Hellfire§3 [§b✫✫✫§3]À@ 
+§7Nivlan Honey§3 [§b✫✫✫§3]À@ 
+§7Unsettling Soul§3 [§b✫✫✫§3]À@ 
+§7Fiery Essence§3 [§b✫✫✫§3]À@ 
+§7Blazing Fireball§5 [§d✫✫§8✫§5]À@ 
+§7Fairy Dust§7 [§8✫✫✫§7]À@ 
+§7Haleva Plant§5 [§d✫✫§8✫§5]À@ 
+§7Putrid Gunk§7 [§8✫✫✫§7]À@ 
+§7Weathered Idol§3 [§b✫✫✫§3]À@ 
+§7Zhight Herbal Mix§7 [§8✫✫✫§7]À@ 
+§7Borange Fluff§3 [§b✫✫✫§3]À@ 
+§7Soul Essence§7 [§8✫✫✫§7]À@ 
+§7Blood of the Nivlan Beauty§3 [§b✫✫✫§3]À@ 
+§7Unholy Spirit§7 [§8✫✫✫§7]À@ 
+§7Fresh Water§7 [§8✫✫✫§7]À@ 
+§7Coastal Sand§7 [§8✫✫✫§7]À@ 
+§7Tarnished Gold Foil§7 [§8✫✫✫§7]À@ 
+§7§lAdd Level 91 to 104 Only Filter@ 
+§7§lRemove Level 91 to 104 Only Filter@ 
+§bThe End@ 
+§fPure Light Spruce Relik@ 
+§dPressure BlasterÀ@ 
+§cTime Rift@ 
+§eBlightsaber@ 
+§eOctahedron@ 
+§bMarius' Prison@ 
+§eHeat BurstÀ@ 
+§ePrestidigitation@ 
+§eBizzlesÀ@ 
+§bAnya's Penumbra@ 
+§eCalming Torc@ 
+§eHookÀ@ 
+§dScale of Seiryu@ 
+§eMazurka@ 
+§eRelentless@ 
+§eDhorubaÀ@ 
+§dVoidstone Elrik@ 
+§ePenanceÀ@ 
+§dCrwthÀ@ 
+§dShort Circuit@ 
+§cUranium Aegis@ 
+§cBlind Thrust@ 
+§ePizzicato@ 
+§eDeja Vu@ 
+§dHard Light@ 
+§dBubble@ 
+§dMystical Lance@ 
+§bCinnabar@ 
+§dImperious@ 
+INTELLIGENCE 3@ 
+§aVillager MailÀ@ 
+§eSynergyÀ@ 
+§eMvukeÀ@ 
+AIR 2@ 
+§cNecklace of a Thousand Storms@ 
+§cAnya's Penumbra@ 
+WATER 2@ 
+§aBony Bow@ 
+§5Unidentified OlympicÀ@ 
+§aSpore ShortswordÀ@ 
+§dAntithesis@ 
+§aSpore Cap@ 
+§eBladerunners@ 
+§5OlympicÀ@ 
+§dToxinÀ@ 
+§ePrestidigitationÀ@ 
+§eHollow@ 
+§aSpore CapÀ@ 
+§eScalding Scimitar@ 
+§dMagellan's Sail@ 
+§eEnd of Limits@ 
+§aSpore Shortsword@ 
+§aBony Circlet@ 
+§dYol@ 
+§aBeachside Headwrap@ 
+Tribal Boots@ 
+Tribal Pants@ 
+Tribal Tunic@ 
+Jungle Wood Stick@ 
+Flawless Stone Spear@ 
+Jungle Wood Relik@ 
+Split Essence@ 
+Almuj's Daggers@ 
+Silver Feather@ 
+Ace of Spades@ 
+Beachside Headwrap@ 
+§eCopper KnifeÀ@ 
+§aBony BowÀ@ 
+§eEternity's Edge@ 
+§bArbalest@ 
+§eSunstruck@ 
+§dCareless Whisper@ 
+§dOne Thousand Voices@ 
+§eLonesome@ 
+§bCrimson@ 
+§eDopplerÀ@ 
+§eConfusing Cap@ 
+§ePiston StringÀ@ 
+§dTimthriall@ 
+§eSubtle Calamity@ 
+Morph-Emerald@ 
+Morph-Ruby@ 
+Cloudy Diamond Boots@ 
+Jewelled Sinew@ 
+Cascade@ 
+Whimsy@ 
+Ivory@ 
+Fate's Shear@ 
+The Golem@ 
+Requiem@ 
+Mesosphere@ 
+Harwrol@ 
+Dionaea@ 
+§eManaflux@ 
+§eStaff of Regrowth@ 
+§eRefraction@ 
+Ancient Soul@ 
+Average Golden Helmet@ 
+Updraft@ 
+Turquoise@ 
+Petrichor@ 
+Quartzite Helm@ 
+The Traveler@ 
+AGILITY 4@ 
+HUNGER 4@ 
+§eReverbÀ@ 
+Uranium Aegis@ 
+§eHewaÀ@ 
+§ePurgatory@ 
+§eVacuum@ 
+§eSalvation@ 
+Shining Golden Boots@ 
+§7Dark Soul In A Bottle@ 
+§eShockmosisÀ@ 
+§aBeachside Conch@ 
+§aBony CircletÀ@ 
+§eHewa@ 
+§bProcrastination@ 
+§eShadow FlameÀ@ 
+§dDying Light@ 
+§bPélier@ 
+§ePrayerÀ@ 
+§eMouth of Fate@ 
+Clovis Leg Guards@ 
+Teal Helm@ 
+Calidum Aurea@ 
+§bLumina@ 
+§dVerglas@ 
+§eWaking Nightmare@ 
+§dFission BladeÀ@ 
+Arrow@ 
+Diorite-hewn Relik@ 
+§bCharm of the Storms@ 
+§eSilver Bay@ 
+§dCrook's March@ 
+§bThanos Stonesinger@ 
+§eBroken CrossÀ@ 
+§eVeins@ 
+§7Crispy Heart@ 
+§7Ring Slot@ 
+§7Bracelet Slot@ 
+§7Necklace Slot@ 
+§f§l§o15 §bSoul Points@ 
+§dSempiternalÀ@ 
+§dCrwth@ 
+§bOverdrive@ 
+Horizon@ 
+§dStormdrain@ 
+Golden Scarab@ 
+Average Golden Chestplate@ 
+§eGoliathÀ@ 
+§eAnvil Crawler@ 
+Scale of Sieryu@ 
+Delirium@ 
+Spider Bracelet@ 
+Mangled Soul@ 
+Life Extractor@ 
+Keen Measure@ 
+Meikyo Shisui@ 
+Kindled Orchid@ 
+Return@ 
+Reminiscence@ 
+Criistal@ 
+Primitive Delicacy@ 
+Viscous Slime@ 
+Sonicboom@ 
+Puppeteer@ 
+Night Rush@ 
+All for One@ 
+Mesarock Arch@ 
+Blossom@ 
+Snakeroot Bow@ 
+Sandstorm@ 
+Refined Chain Helmet@ 
+Alice's Sleeve@ 
+Tiny@ 
+Bony Circlet@ 
+Spore Cap@ 
+Dim Diamond Boots@ 
+Maelstrom@ 
+AGILITY 3@ 
+§eEndothermÀ@ 
+§bSaundersi Signet@ 
+High-Quality Chain Mail@ 
+§eBehemothÀ@ 
+§eSturdyÀ@ 
+HUNGER 3@ 
+Zombie Eye@ 
+Diablo@ 
+§eMsitu@ 
+§aBeachside ConchÀ@ 
+§dCursed Spike@ 
+§dSanta Hat@ 
+§eSturdy@ 
+§eFlashing BootsÀ@ 
+§bPoint of No Return@ 
+§eHeartstringsÀ@ 
+Racer's Shoes@ 
+§eRegulating Charge@ 
+§eCnidocyte@ 
+§eFrontier@ 
+§eRotary Crossbow@ 
+§eReflection@ 
+§eSunbreezeÀ@ 
+§dOne For All@ 
+§aBeachside HeadwrapÀ@ 
+Steel Wool@ 
+§eShockmosis@ 
+§eSilent Ballet@ 
+§eNightlife@ 
+§dWater Relic Bow@ 
+Firefly@ 
+§eRemedyÀ@ 
+§eCyanine@ 
+§eNamazu@ 
+§eAbout-Face@ 
+§eEliminere@ 
+§bLower@ 
+§dShell of Genbu@ 
+§aVillager Mail@ 
+§eMistÀ@ 
+Boots of Blue Stone@ 
+§eMosaic@ 
+§eSymphony@ 
+§eRemedy@ 
+§bInferna Flamewreath@ 
+Eclipse@ 
+The Vampire Blade@ 
+Steel Bracer@ 
+Gernald's Amulet@ 
+RYMEK@ 
+Fierce Thunder@ 
+Olux's Prized Spear@ 
+Flawless Diorite Shears@ 
+§dSublimeÀ@ 
+§eIfe@ 
+§ePalette@ 
+§eFloodgate@ 
+§eAssurance@ 
+§5Gaia@ 
+§7Roasted Flesh@ 
+Ventilator@ 
+§eConfusing CapÀ@ 
+§eParang@ 
+§eTerraflux@ 
+§eFrigid@ 
+§dAir Relic Bow@ 
+Ultramarine Boots@ 
+Ultramarine Crown@ 
+§fImpeccable Spruce SpearÀ@ 
+Plankton@ 
+§eBoiler@ 
+§eCrust Crusher@ 
+§eBastille@ 
+§eTropics@ 
+§bChampion Chestplate@ 
+§eIronclad@ 
+Hellkite's Wing@ 
+Jester Ring@ 
+THUNDER 4@ 
+Asymptote@ 
+Jester Bracelet@ 
+Solar Pillar@ 
+Sublime@ 
+§eSynthesizer@ 
+Reinforced Iron Boots@ 
+§aSkien's Fatigues@ 
+§eValhalla@ 
+§eOrographineÀ@ 
 
-#########################Названия треков##########################
+#########################TRACKS##########################
 §bLuxury of the Cease-Fire (Ragni)@ 
 §bSheltered Settlement (Ravine Village)@ 
 §bThe Binding Alliance (Maltic)@ 
@@ -6426,8 +7828,24 @@ Dragon Skin@
 §bAn Interesting Find (Discovery Jingle)@ 
 §bTravelling at Dusk (Desert)@ 
 §bTreacherous Walkways (Pigman's Ravines)@ 
+§bFreedom in Darkness (Lutho)@ 
+§bWhere They Wandered (Ruined Olmic City)@ 
+§bAll Eyes on Me (Eyeball Forest)@ 
+§bIts Melting Point (Toxic Wastes)@ 
+§bTangled In Endless Roots (Void Valley)@ 
+§bEnd of the Road (The Portal)@ 
+§bWhat Must be Done (A Journey Further)@ 
+§bEverpresence (Eldritch Outlook)@ 
+§bOut Of Time (Corrupted Dungeon 2)@ 
+§bGenesis of the End (Boss Battle 12)@ 
+§bA Day to Remember (Boss Battle 13)@ 
+§bA Frightening Find (Silent Expanse Discovery)@ 
+§bCorkian Madness (Dwelling Walls)@ 
+§bBeatskipper (Seaskipper Travel)@ 
+§bSkippin' Service (Misadventure on the Sea 1)@ 
+§bLost at Sea (Misadventure on the Sea 2)@ 
 
-#####################Названия территорий/квесты#########################
+#####################TERRITORY/QUEST NAMES#########################
 §f§lBlack MagicÀ@ 
 §f§lCorrupted HandÀ@ 
 §f§lPlainsÀ@ 
@@ -6772,6 +8190,16 @@ Dragon Skin@
 §f§lRegular IslandÀ@ 
 §f§lLight Realm CorruptionÀ@ 
 §f§lLight Realm MushroomsÀ@ 
+§f§lLight Realm EastÀ@ 
+§f§lThe Silent RoadÀ@ 
+§f§lThe Broken RoadÀ@ 
+§f§lWorm TunnelÀ@ 
+§f§lSinister ForestÀ@ 
+§f§lVoid ValleyÀ@ 
+§f§lToxic DripÀ@ 
+§f§lToxic CavesÀ@ 
+§f§lSacrificeÀ@ 
+§f§lBizarre PassageÀ@ 
 §e§lChallenge of the BladesÀ@ 
 §e§lPit of DespairÀ@ 
 §e§lBob's Tomb֎À@ 
@@ -6902,3 +8330,16 @@ Dragon Skin@
 §e§lPrison of SoulsÀ@ 
 §e§lPlague LaboratoryÀ@ 
 §e§lSunrise CanyonÀ@ 
+§e§lGeyser PitÀ@ 
+§e§lAerie of the RecluseÀ@ 
+§e§lRuined Olmic CityÀ@ 
+§e§lOlmic CathedralÀ@ 
+§e§lTown of LuthoÀ@ 
+§e§lEyeball ForestÀ@ 
+§e§lCarnivorous CreatureÀ@ 
+§e§lToxic WastesÀ@ 
+§e§lVoid ValleyÀ@ 
+§e§lDark ObeliskÀ@ 
+§e§lThe Eldritch OutlookÀ@ 
+§e§lPortal to DernÀ@ 
+§e§lAltar of SanctificationÀ@ 
